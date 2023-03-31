@@ -54,7 +54,7 @@ grapherId,slug,chartType,md5,svgFilename
 1899,share-graduates-stem-female,undefined,664dd21061b158503b55ad9f494bfbaf,share-graduates-stem-female_v7_850x600.svg
 5405,annual-growth-of-exports-of-goods-and-services,undefined,26bd05c9967b875b213a26188ff6175e,annual-growth-of-exports-of-goods-and-services_v6_850x600.svg
 1297,births-and-deaths-projected-to-2100,undefined,c581cb9f43a236fbe55dd9f06aecf1d8,births-and-deaths-projected-to-2100_v10_850x600.svg
-5637,electricity-imports-share-demand,undefined,89b07dd6ae987d318cab211e7edcea82,electricity-imports-share-demand_v15_850x600.svg
+5637,electricity-imports-share-demand,undefined,21aa97402097352b5a12fc7f3f20a608,electricity-imports-share-demand_v15_850x600.svg
 569,installed-global-renewable-energy-capacity-by-technology,StackedArea,c8450c439f7db302549d9031842e1484,installed-global-renewable-energy-capacity-by-technology_v6_850x600.svg
 92,breakdown-of-united-nations-peacekeeping-forces,StackedArea,ec0d3550f5f55923820576d7ffd08260,breakdown-of-united-nations-peacekeeping-forces_v10_850x600.svg
 6274,share-global-cumulative-co2-including-land,undefined,490adf9848d615a8fa0e5fead5253bf6,share-global-cumulative-co2-including-land_v5_850x600.svg
@@ -118,7 +118,7 @@ grapherId,slug,chartType,md5,svgFilename
 331,income-taxes-share-of-revenue-europe,LineChart,033c8ccacd1905d4f8eb0a5d57668adb,income-taxes-share-of-revenue-europe_v3_850x600.svg
 3398,child-deaths-by-life-stage,StackedArea,6bc6f13ca1186aa403ca8d6cbe2b8526,child-deaths-by-life-stage_v6_850x600.svg
 6077,death-rate-from-diarrheal-diseases,undefined,44dd409c25f9706f4aedc90566183468,death-rate-from-diarrheal-diseases_v2_850x600.svg
-1060,output-of-key-industrial-sectors-in-england-and-the-uk,LineChart,cc7131cb89410b6680fef70a85e72ed8,output-of-key-industrial-sectors-in-england-and-the-uk_v4_850x600.svg
+1060,output-of-key-industrial-sectors-in-england-and-the-uk,LineChart,64f2ef1f2e8228dc2da734153cf8cef3,output-of-key-industrial-sectors-in-england-and-the-uk_v4_850x600.svg
 3737,number-of-new-hiv-child-infections-vs-number-of-infections-averted-due-to-pmtct,undefined,d821544f315ee31cd7bf3277ccf35431,number-of-new-hiv-child-infections-vs-number-of-infections-averted-due-to-pmtct_v2_850x600.svg
 1404,solar-pv-energy-consumption-vs-solar-pv-capacity,ScatterPlot,0b8c2a7f3ea886a6c4283ddf4600fe95,solar-pv-energy-consumption-vs-solar-pv-capacity_v8_850x600.svg
 4176,workplace-closures-covid,undefined,0c855e7fd8a09beee9777bf3eb2790b3,workplace-closures-covid_v2751_850x600.svg
@@ -202,7 +202,7 @@ grapherId,slug,chartType,md5,svgFilename
 1830,tuberculosis-deaths-by-age,StackedArea,dd535149855b77ae1330feaa12929533,tuberculosis-deaths-by-age_v15_850x600.svg
 2689,share-of-people-who-report-having-intentions-to-start-business,ScatterPlot,7dd05c734347f02e32be4508a223619a,share-of-people-who-report-having-intentions-to-start-business_v14_850x600.svg
 3569,northern-white-rhinos,undefined,23f7a6b196eab868bd19d3992a9efb73,northern-white-rhinos_v11_850x600.svg
-998,real-commodity-price-index-metals,LineChart,95041f47bec67243161cc1c327b2c987,real-commodity-price-index-metals_v4_850x600.svg
+998,real-commodity-price-index-metals,LineChart,afa746d179b848b7fa0e300854b707aa,real-commodity-price-index-metals_v4_850x600.svg
 4328,daily-new-estimated-covid-19-infections-yyg-model,undefined,9fd7f9343538830ce058c90ef88479ca,daily-new-estimated-covid-19-infections-yyg-model_v2808_850x600.svg
 4926,cereal-allocation-by-country,StackedDiscreteBar,0befb1754c0ae088881a727f3abe0043,cereal-allocation-by-country_v8_850x600.svg
 1468,decomposition-of-the-gender-wage-gap-1980,DiscreteBar,f1fd0aa5599671790888ee32b382ee09,decomposition-of-the-gender-wage-gap-1980_v4_850x600.svg
@@ -508,7 +508,7 @@ grapherId,slug,chartType,md5,svgFilename
 4927,covid-vaccine-willingness-and-people-vaccinated-by-month,StackedBar,d0208476d1957e664369431350cc884a,covid-vaccine-willingness-and-people-vaccinated-by-month_v80_850x600.svg
 1469,number-of-deaths-from-tobacco-smoking,undefined,9db265dc8e618fc17f80a9f821269355,number-of-deaths-from-tobacco-smoking_v15_850x600.svg
 397,global-child-mortality-timeseries,StackedArea,e69a9b49e35861725ebd05296beca832,global-child-mortality-timeseries_v8_850x600.svg
-999,real-commodity-price-index-food-products,LineChart,969b9f7f4580798a16615a6a5ba30929,real-commodity-price-index-food-products_v2_850x600.svg
+999,real-commodity-price-index-food-products,LineChart,e4713a8f4c688e28fdb6246b300effaa,real-commodity-price-index-food-products_v2_850x600.svg
 4329,daily-new-estimated-covid-19-infections-icl-model,undefined,ac36e585635166e506abb2f7aa546cba,daily-new-estimated-covid-19-infections-icl-model_v2969_850x600.svg
 5801,share-long-standing-democracies-polity,StackedArea,7bd86ca4a2f277fc874e811bacdf0fb6,share-long-standing-democracies-polity_v43_850x600.svg
 2218,share-of-disease-burden-from-ncds-vs-gdp,ScatterPlot,980c8bbfb5e09775427aee24219a13a7,share-of-disease-burden-from-ncds-vs-gdp_v26_850x600.svg
@@ -542,7 +542,7 @@ grapherId,slug,chartType,md5,svgFilename
 3339,population-by-broad-age-group,StackedArea,326e7c3ceeb4d0e27b84f67b537ea2d3,population-by-broad-age-group_v12_850x600.svg
 1836,internally-displaced-persons-from-disasters,undefined,e44efd1474e230d87e20cb37236df207,internally-displaced-persons-from-disasters_v14_850x600.svg
 4578,maternal-deaths-ihme,undefined,83de6b2f01f026b82fc065f64c01282d,maternal-deaths-ihme_v9_850x600.svg
-1238,technology-and-infrastructure-diffusion-in-the-us,undefined,7dad3a9defe14dc2e341351ac72c5761,technology-and-infrastructure-diffusion-in-the-us_v7_850x600.svg
+1238,technology-and-infrastructure-diffusion-in-the-us,undefined,8fba1621c0dc2b48a9563a027623600a,technology-and-infrastructure-diffusion-in-the-us_v7_850x600.svg
 5698,excess-deaths-cumulative-economist-who,undefined,5c7223791f236914ee05f624fdbd60bf,excess-deaths-cumulative-economist-who_v1616_850x600.svg
 1944,number-of-severely-food-insecure-people-by-region,StackedArea,fdd2369f5e36549f57a0302828be7c02,number-of-severely-food-insecure-people-by-region_v7_850x600.svg
 1178,male-vs-female-informal-employment-as-share-of-total-employment,ScatterPlot,d07058717ff9f5694e2730fa2e551ba2,male-vs-female-informal-employment-as-share-of-total-employment_v13_850x600.svg
@@ -573,7 +573,7 @@ grapherId,slug,chartType,md5,svgFilename
 6396,equality-of-civil-liberties-across-social-groups-popw,undefined,4ccee8a1ec830e222bdfa80293de79df,equality-of-civil-liberties-across-social-groups-popw_v38_850x600.svg
 5513,corn-production-land-us,undefined,11628731c3d3f6f6105dc339b534d88f,corn-production-land-us_v2_850x600.svg
 2352,global-meat-projections-to-2050,StackedArea,0f36639499a07a668b02d33a337c193a,global-meat-projections-to-2050_v10_850x600.svg
-3280,growth-rates-of-consumption-investment-and-gdp-in-mexico-19812016,undefined,207c29987361cbf7b69490fd428e39cb,growth-rates-of-consumption-investment-and-gdp-in-mexico-19812016_v10_850x600.svg
+3280,growth-rates-of-consumption-investment-and-gdp-in-mexico-19812016,undefined,5b518df8a3cfc0f613e94110c44fb991,growth-rates-of-consumption-investment-and-gdp-in-mexico-19812016_v10_850x600.svg
 5177,phosphorous-inputs-per-hectare,undefined,2d08c68da53d04b2050c053286ffad99,phosphorous-inputs-per-hectare_v2_850x600.svg
 4297,solar-share-energy,undefined,69f6143e3326f040d994d35785d89ea8,solar-share-energy_v18_850x600.svg
 5345,covax-donations-per-dose-used,StackedDiscreteBar,3db64fea6bb8b1355a3f2f3278f74205,covax-donations-per-dose-used_v93_850x600.svg
@@ -604,7 +604,7 @@ grapherId,slug,chartType,md5,svgFilename
 3617,diphtheria-tetanus-pertussis-vaccine-vs-pneumococcal-vaccine-coverage,ScatterPlot,866ea8fce2b7e9327dfc6dfff8077a82,diphtheria-tetanus-pertussis-vaccine-vs-pneumococcal-vaccine-coverage_v21_850x600.svg
 6365,share-of-primary-energy-from-solar-and-wind,undefined,a7092fe26d0ddc9f71c57acb4efeb7e6,share-of-primary-energy-from-solar-and-wind_v2_850x600.svg
 4432,global-energy-substitution,StackedArea,d5c3890dd978363557513f57c3674e58,global-energy-substitution_v11_850x600.svg
-1140,projections-of-the-number-of-children-per-woman-by-education-scenario,LineChart,f81fcd7149e1a2b5d46cd51ea7c2c7a1,projections-of-the-number-of-children-per-woman-by-education-scenario_v5_850x600.svg
+1140,projections-of-the-number-of-children-per-woman-by-education-scenario,LineChart,010144bb722402f23bf51cc06df67da4,projections-of-the-number-of-children-per-woman-by-education-scenario_v5_850x600.svg
 1372,share-of-women-using-modern-contraceptive-methods,undefined,8674f87d89681a6f9cd446a11244ac9b,share-of-women-using-modern-contraceptive-methods_v12_850x600.svg
 3425,diarrheal-diseases-vs-handwashing-facilities,ScatterPlot,5fc3b3f407977baa06929940a619a589,diarrheal-diseases-vs-handwashing-facilities_v21_850x600.svg
 6157,death-rate-from-pneumonia-gbd,undefined,5d355f639d8f10c4b186bd328e65d508,death-rate-from-pneumonia-gbd_v1_850x600.svg
@@ -778,7 +778,7 @@ grapherId,slug,chartType,md5,svgFilename
 3482,maternal-mortality-ihme,undefined,1df53843e4bc8b58f72afbe28a1752f3,maternal-mortality-ihme_v6_850x600.svg
 5775,experience-with-polyarchy-lied,undefined,23f38c7cd8b70fd3c358d321ee0c8145,experience-with-polyarchy-lied_v20_850x600.svg
 873,ratio-of-female-to-male-labor-force-participation-rates-ILO-WDI,undefined,8805bba54c48b73ddf610834f3dc4cc7,ratio-of-female-to-male-labor-force-participation-rates-ILO-WDI_v8_850x600.svg
-2908,surface-plastic-particles-by-ocean,DiscreteBar,348e9516f6065f218907b8932acf75d5,surface-plastic-particles-by-ocean_v3_850x600.svg
+2908,surface-plastic-particles-by-ocean,DiscreteBar,d0aacf2a5299bbc3a5a7fd79b7884de9,surface-plastic-particles-by-ocean_v3_850x600.svg
 2134,share-with-mental-and-substance-disorders,undefined,70cc7f4a9f1d6a65f23b617d5aa869a4,share-with-mental-and-substance-disorders_v18_850x600.svg
 1583,urbanization-vs-gdp,ScatterPlot,737b168b7823836739ba6218c829bf78,urbanization-vs-gdp_v18_850x600.svg
 3449,human-development-index-vs-mean-male-height,ScatterPlot,73e4db5e0b1123bb71797b980bc39d96,human-development-index-vs-mean-male-height_v10_850x600.svg
@@ -907,7 +907,7 @@ grapherId,slug,chartType,md5,svgFilename
 826,animal-protein-vs-gdp,ScatterPlot,71ef0f8accfe39089505a894cb64c66c,animal-protein-vs-gdp_v20_850x600.svg
 2161,prevalence-of-anxiety-disorders-by-age,LineChart,d8cc2440af44337623b9b3ae8d02e030,prevalence-of-anxiety-disorders-by-age_v11_850x600.svg
 228,total-world-population-comparison-of-different-sources,undefined,389da7c911f6e32997270e005c46765b,total-world-population-comparison-of-different-sources_v2_850x600.svg
-3281,growth-rates-of-consumption-investment-and-gdp-in-south-africa-19612016,undefined,e130760eac41d7634025cc74d1045c00,growth-rates-of-consumption-investment-and-gdp-in-south-africa-19612016_v9_850x600.svg
+3281,growth-rates-of-consumption-investment-and-gdp-in-south-africa-19612016,undefined,1399514c18810f8c34d9ef94d9a90bda,growth-rates-of-consumption-investment-and-gdp-in-south-africa-19612016_v9_850x600.svg
 4898,severe-bleaching-events-enso,StackedBar,91b87d24ebb808432575dadb8ec9d68c,severe-bleaching-events-enso_v3_850x600.svg
 5176,total-applied-phosphorous-crops,undefined,1391479e9156099f1574118629ea2f41,total-applied-phosphorous-crops_v2_850x600.svg
 1710,causes-of-death-in-50-69-year-olds,undefined,31e4b7cefa23bc795fc14a905240a615,causes-of-death-in-50-69-year-olds_v22_850x600.svg
@@ -1041,7 +1041,7 @@ grapherId,slug,chartType,md5,svgFilename
 5789,democracy-polity,undefined,c1ae91289cc88959c5cf339b48f3dd3f,democracy-polity_v35_850x600.svg
 1329,share-of-students-studying-abroad,undefined,693bd84e30f489980499612994be24dd,share-of-students-studying-abroad_v4_850x600.svg
 5935,historical-biological-weapons,undefined,0e12a5fe9296481ffee4104bee3463de,historical-biological-weapons_v30_850x600.svg
-257,median-and-mean-income-EEG,undefined,ddadab25d406c1048ce5ffa0ba2d4e81,median-and-mean-income-EEG_v2_850x600.svg
+257,median-and-mean-income-EEG,undefined,1595210ed6cf2b5fe1d1c6d64484647f,median-and-mean-income-EEG_v2_850x600.svg
 859,number-of-children-newly-infected-with-hiv,undefined,c4644ee7ad78d0aba2b2a20e88680c71,number-of-children-newly-infected-with-hiv_v11_850x600.svg
 401,world-population-by-region-with-projections,StackedArea,404a4a472d7be2ad610c35bac3f1538a,world-population-by-region-with-projections_v34_850x600.svg
 633,share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access,ScatterPlot,cead764c391c5cbed4175e11b0da9cea,share-of-rural-population-with-electricity-access-vs-share-of-total-population-with-electricity-access_v11_850x600.svg
@@ -1576,7 +1576,7 @@ grapherId,slug,chartType,md5,svgFilename
 6235,private-civil-liberties,undefined,26caabdba1632bf4dc7fe455313622f2,private-civil-liberties_v38_850x600.svg
 2695,homicide-rate,undefined,9bc0ba7600fc9bcb12e332a937816965,homicide-rate_v26_850x600.svg
 3747,number-of-tetanus-deaths-in-children-under-5,StackedArea,35e695e6d12d1bfd9f21d6670ef1de54,number-of-tetanus-deaths-in-children-under-5_v16_850x600.svg
-1010,output-of-key-industries-in-england,undefined,6f2ccb3138a246347258e515f845e66a,output-of-key-industries-in-england_v4_850x600.svg
+1010,output-of-key-industries-in-england,undefined,b2d332d74e4157994d08a830e3544c83,output-of-key-industries-in-england_v4_850x600.svg
 3323,share-of-students-achieving-no-or-minimum-learning-outcomes-by-total-education-expenditure-per-capita,ScatterPlot,d2b96a4f47fb612423af3e7f291eece4,share-of-students-achieving-no-or-minimum-learning-outcomes-by-total-education-expenditure-per-capita_v13_850x600.svg
 1474,the-shrinking-gender-gap-in-high-level-jobs-and-collective-barganing-coverage,undefined,1a823a7395c320751f56ef2625def8b7,the-shrinking-gender-gap-in-high-level-jobs-and-collective-barganing-coverage_v5_850x600.svg
 1646,government-expenditure-on-tertiary-education-as-share-of-gdp,undefined,bb9606f60c8623ff6ef7ff5c36a37a49,government-expenditure-on-tertiary-education-as-share-of-gdp_v5_850x600.svg
@@ -1680,7 +1680,7 @@ grapherId,slug,chartType,md5,svgFilename
 3174,stunting-vs-level-of-prosperity-over-time-ihme,ScatterPlot,cde1a16308190be5b7512d1f728731a8,stunting-vs-level-of-prosperity-over-time-ihme_v18_850x600.svg
 6406,active-mobile-money-accounts,StackedArea,7fa68d5d2ae02313bf4470fe7b79f9c8,active-mobile-money-accounts_v4_850x600.svg
 3948,public-opinion-homosexuality-two-measures,ScatterPlot,63c34e06a1da8b787e29549d9285a680,public-opinion-homosexuality-two-measures_v12_850x600.svg
-1882,gender-gap-in-average-wages-ilo,DiscreteBar,d8a489ed5bd6bea218412504b82d7c9b,gender-gap-in-average-wages-ilo_v7_850x600.svg
+1882,gender-gap-in-average-wages-ilo,DiscreteBar,759a725c34e3f61f0a04259c981934f9,gender-gap-in-average-wages-ilo_v7_850x600.svg
 740,how-many-deaths-does-it-take-for-a-disaster-to-receive-news-coverage,DiscreteBar,9cec852139e48f8522941cd47e269e7d,how-many-deaths-does-it-take-for-a-disaster-to-receive-news-coverage_v3_850x600.svg
 89,projections-of-the-share-of-the-population-aged-15-educated-to-degree-level-by-country,undefined,f2f4082149114c63bf732fcabe2d292d,projections-of-the-share-of-the-population-aged-15-educated-to-degree-level-by-country_v2_850x600.svg
 2409,econimpact2vs15c,DiscreteBar,761deda32a3b08500716a99a2720e6e7,econimpact2vs15c_v16_850x600.svg
@@ -2022,7 +2022,7 @@ grapherId,slug,chartType,md5,svgFilename
 6090,deaths-from-respiratory-disease,undefined,f7bbdf7169efc2143c178bc2cb08bccf,deaths-from-respiratory-disease_v3_850x600.svg
 2602,productivity-vs-share-of-tertiary-schooling,ScatterPlot,30e8233ca9d8aca1eb3b77693f5c9caa,productivity-vs-share-of-tertiary-schooling_v17_850x600.svg
 779,share-of-the-labor-force-employed-in-agriculture,undefined,781646165cfbac530cc042dfb57bbdde,share-of-the-labor-force-employed-in-agriculture_v11_850x600.svg
-1087,global-demand-for-education-global-population-projection-until-2100-by-age-group-by-the-wittgenstein-centre,undefined,3bc792a5bca6d52c204b5193542f5ec5,global-demand-for-education-global-population-projection-until-2100-by-age-group-by-the-wittgenstein-centre_v5_850x600.svg
+1087,global-demand-for-education-global-population-projection-until-2100-by-age-group-by-the-wittgenstein-centre,undefined,8d737edc6cc6e1e780da0f12b1aee663,global-demand-for-education-global-population-projection-until-2100-by-age-group-by-the-wittgenstein-centre_v5_850x600.svg
 5427,decadal-deaths-disasters-type,StackedBar,a32509c7bbd77ed1e6e51f167aab6d86,decadal-deaths-disasters-type_v4_850x600.svg
 2266,daily-smoking-prevalence-bounds,undefined,d13903237102dab3560fcba30bfaf5e1,daily-smoking-prevalence-bounds_v15_850x600.svg
 4191,daily-tests-per-thousand-people-smoothed-7-day,undefined,163471908b2ba14538ad2836e14195ee,daily-tests-per-thousand-people-smoothed-7-day_v420_850x600.svg
@@ -2210,7 +2210,7 @@ grapherId,slug,chartType,md5,svgFilename
 733,aquaculture-farmed-fish-production,undefined,850b22f425eb19aad27787bf0925d0bd,aquaculture-farmed-fish-production_v14_850x600.svg
 5009,eat-lancet-diet-animal-products,StackedDiscreteBar,9b40e056922e925b49fc50a2efe610ea,eat-lancet-diet-animal-products_v3_850x600.svg
 5835,popw-democracy-eiu,undefined,17c18367de1f5dc12805b95ea4014258,popw-democracy-eiu_v91_850x600.svg
-959,human-heights-over-the-long-run,undefined,380297df08992f4294bd54123244ade8,human-heights-over-the-long-run_v4_850x600.svg
+959,human-heights-over-the-long-run,undefined,744cca14cc1973f6e7bb0a257f34c78c,human-heights-over-the-long-run_v4_850x600.svg
 2822,younger-than-15-projection-until-2100-un,undefined,2edc36e6f708b0138496fa794d864636,younger-than-15-projection-until-2100-un_v11_850x600.svg
 4913,secondary-mathematics-learning-outcomes-for-males-and-females,ScatterPlot,b83d59fd1a6443113c9a4ff607785fa5,secondary-mathematics-learning-outcomes-for-males-and-females_v11_850x600.svg
 3904,share-of-violent-deaths-state-societies,DiscreteBar,59ba15c417c54a8c3a554617c980c84c,share-of-violent-deaths-state-societies_v13_850x600.svg
@@ -2246,7 +2246,7 @@ grapherId,slug,chartType,md5,svgFilename
 6045,mean-daily-expenditure-per-capita-vs-gdp-per-capita-2011-ppp,ScatterPlot,e74a2b130467f08e05ded4c51a1b6f94,mean-daily-expenditure-per-capita-vs-gdp-per-capita-2011-ppp_v54_850x600.svg
 3537,personal-remittances-oda,LineChart,6559e9cd9bea3ffe4c602c4fbf9aa067,personal-remittances-oda_v5_850x600.svg
 6277,child-mortality-rate-marimekko,Marimekko,567175a64e684ebf464715b2c1a88c5d,child-mortality-rate-marimekko_v4_850x600.svg
-1052,commodity-price-index-of-cereal-crops-and-petroleum-1850-2015,undefined,6b6ae5f872f34fabbe3314d3746f6f6d,commodity-price-index-of-cereal-crops-and-petroleum-1850-2015_v3_850x600.svg
+1052,commodity-price-index-of-cereal-crops-and-petroleum-1850-2015,undefined,d32d93f7691a4bdaa7adcf3c4e6e1883,commodity-price-index-of-cereal-crops-and-petroleum-1850-2015_v3_850x600.svg
 4520,households-actual-and-imputed-rent-as-share-of-gdp-oecd,StackedArea,94a297fa0418865da9c2d78b450ecc19,households-actual-and-imputed-rent-as-share-of-gdp-oecd_v4_850x600.svg
 3361,global-number-of-missing-women,StackedArea,97885dae9ef86aba2fee027b7130b1d2,global-number-of-missing-women_v10_850x600.svg
 1436,GDP-vs-industry-GDP-at-constant-prices,ScatterPlot,5fe5956d101a685cc5ba9de345c54827,GDP-vs-industry-GDP-at-constant-prices_v17_850x600.svg
@@ -2862,7 +2862,7 @@ grapherId,slug,chartType,md5,svgFilename
 1378,fossil-fuel-consumption-by-fuel-type,StackedArea,8cffcc0d4755795275bd7b3d263efb5e,fossil-fuel-consumption-by-fuel-type_v13_850x600.svg
 486,co-emissions-per-capita,undefined,e7dcb79af6e2de64e67307a5a3824c7e,co-emissions-per-capita_v46_850x600.svg
 2199,disease-burden-by-age,StackedArea,350ab6f43433a95d0ba1a663cee1a817,disease-burden-by-age_v16_850x600.svg
-3279,growth-rates-of-consumption-investment-and-gdp-in-the-us-per-cent-per-annum-19602016,undefined,dff03702ce12d93f34159c1bab04ab72,growth-rates-of-consumption-investment-and-gdp-in-the-us-per-cent-per-annum-19602016_v9_850x600.svg
+3279,growth-rates-of-consumption-investment-and-gdp-in-the-us-per-cent-per-annum-19602016,undefined,87b6541636727a535f0d1c5136856839,growth-rates-of-consumption-investment-and-gdp-in-the-us-per-cent-per-annum-19602016_v9_850x600.svg
 2536,gdp-in-british-pounds,undefined,2c5102fb37bd9e0d5d827b8a8ac4f315,gdp-in-british-pounds_v2_850x600.svg
 6196,deaths-by-age-group,StackedArea,ec1da0081daae6bd648dadc60a2104ea,deaths-by-age-group_v6_850x600.svg
 5713,political-regime-dem-fh,undefined,3a3a555c97c2e6b12271eebb592a121d,political-regime-dem-fh_v36_850x600.svg
@@ -3003,7 +3003,7 @@ grapherId,slug,chartType,md5,svgFilename
 1379,oil-production-by-country,undefined,7e1efc594c153a626a9bfdb860fe7eb8,oil-production-by-country_v12_850x600.svg
 1977,cholera-deaths-in-great-britain,undefined,e66d4aadd60efb6d32bb28993266dbed,cholera-deaths-in-great-britain_v3_850x600.svg
 4439,primary-energy-hydro,undefined,6d47079947306d87f8f7a7112ad91f2e,primary-energy-hydro_v12_850x600.svg
-3278,growth-rates-of-consumption-investment-and-gdp-in-the-uk-per-cent-per-annum-19602016,undefined,2f0d437c2993866678441d26c4e36683,growth-rates-of-consumption-investment-and-gdp-in-the-uk-per-cent-per-annum-19602016_v12_850x600.svg
+3278,growth-rates-of-consumption-investment-and-gdp-in-the-uk-per-cent-per-annum-19602016,undefined,3bfcbc088c889592f4be47bed21393be,growth-rates-of-consumption-investment-and-gdp-in-the-uk-per-cent-per-annum-19602016_v12_850x600.svg
 3876,share-of-children-with-a-fever-receiving-antimalarial-drugs,undefined,78c145f24e71bf218b6ec864f105252f,share-of-children-with-a-fever-receiving-antimalarial-drugs_v8_850x600.svg
 2198,dalys-rate-from-all-causes,undefined,422871dd22eed7ab810ede0404547ca6,dalys-rate-from-all-causes_v16_850x600.svg
 225,gdp-per-capita-worldbank,undefined,fb3cd9f1dc3d23388a924f43b55f6289,gdp-per-capita-worldbank_v28_850x600.svg
@@ -3086,7 +3086,7 @@ grapherId,slug,chartType,md5,svgFilename
 4295,renewable-share-energy,undefined,9ace24b66ea19598d8c45a0a2788a10f,renewable-share-energy_v21_850x600.svg
 825,daily-protein-supply-of-animal-origin-vs-plant-origin,ScatterPlot,6e4ed48151dccbb4d630755db26f7c32,daily-protein-supply-of-animal-origin-vs-plant-origin_v11_850x600.svg
 2162,number-with-anxiety-disorders,StackedArea,a3de56d3cb0890f384125ea0d9652ebb,number-with-anxiety-disorders_v13_850x600.svg
-3276,the-role-of-agriculture-in-the-fluctuations-of-the-aggregate-economy-in-india-19612017,undefined,2cc6a95c31a1d632c1ad60474ac0cb7e,the-role-of-agriculture-in-the-fluctuations-of-the-aggregate-economy-in-india-19612017_v23_850x600.svg
+3276,the-role-of-agriculture-in-the-fluctuations-of-the-aggregate-economy-in-india-19612017,undefined,91f0d04d25294a6bd02659e680efc07a,the-role-of-agriculture-in-the-fluctuations-of-the-aggregate-economy-in-india-19612017_v23_850x600.svg
 1521,share-of-trained-teachers-vs-share-of-qualified-teachers-primary-schools,ScatterPlot,80ae27d7cb37eb4f7a1ceaedc1906c3a,share-of-trained-teachers-vs-share-of-qualified-teachers-primary-schools_v12_850x600.svg
 5181,total-population-in-extreme-poverty,undefined,c6fa4ad1909283ada46481fe605c6521,total-population-in-extreme-poverty_v45_850x600.svg
 1713,cancer-deaths-by-age,StackedArea,5a36d0cb610c4151cf2889d4d9b660fc,cancer-deaths-by-age_v17_850x600.svg
@@ -3239,7 +3239,7 @@ grapherId,slug,chartType,md5,svgFilename
 5708,share-long-standing-democracies-womsuffr-bmr,StackedArea,93723a3fd6267129ecfeaca965d2f777,share-long-standing-democracies-womsuffr-bmr_v42_850x600.svg
 664,maternal-mortality-vs-health-expenditure-over-time,ScatterPlot,21842dc2be4e8d2eef9bbabdefaa4618,maternal-mortality-vs-health-expenditure-over-time_v12_850x600.svg
 6179,death-rate-from-road-accidents-ghe,undefined,3da7a2470ea79e262915649f02a4281a,death-rate-from-road-accidents-ghe_v4_850x600.svg
-690,solar-pv-system-costs,LineChart,8dfa22578e76bd08b6fb8b2e89abed26,solar-pv-system-costs_v4_850x600.svg
+690,solar-pv-system-costs,LineChart,1954bd85e0c016c7047817f3bf2d4cb3,solar-pv-system-costs_v4_850x600.svg
 3639,job-search-methods-europe,LineChart,e815c2145606b3a68482121afc20b7e5,job-search-methods-europe_v6_850x600.svg
 1738,stroke-death-rates,undefined,83e05193c1298ae8a9440717dcf719ec,stroke-death-rates_v18_850x600.svg
 5398,deaths-lead-exposure,undefined,5e48535afcd0b10ba14b05eb8b6f01c1,deaths-lead-exposure_v10_850x600.svg
@@ -3339,7 +3339,7 @@ grapherId,slug,chartType,md5,svgFilename
 6112,death-rate-from-falls-gbd-rate,undefined,3721e26444d5f9e152b5465acaf7b6de,death-rate-from-falls-gbd-rate_v3_850x600.svg
 2780,tea-production-by-region,StackedArea,762f56da7e3e0ad15f509d614a33044c,tea-production-by-region_v6_850x600.svg
 3652,water-per-protein-poore,DiscreteBar,60606e04a3fc179fa1a8678b46ef3922,water-per-protein-poore_v15_850x600.svg
-606,incidence-of-child-labour-in-the-united-states,undefined,793862d44d4bf097df66ca381d9000de,incidence-of-child-labour-in-the-united-states_v5_850x600.svg
+606,incidence-of-child-labour-in-the-united-states,undefined,bf4fb3f041829a3a48b2d3e7762a33ec,incidence-of-child-labour-in-the-united-states_v5_850x600.svg
 434,homeless-per-capita-us,StackedArea,4dab053c5e43fe0c2569f04facffbc29,homeless-per-capita-us_v6_850x600.svg
 262,Male-Female-Ratio-of-Suicide-Rates,undefined,2d7eb307ec170512530be3933676fc7a,Male-Female-Ratio-of-Suicide-Rates_v12_850x600.svg
 4228,covid-deaths-per-million-vs-days-since-exemplar,ScatterPlot,00760f14cd83b9f2971e80105818f6fe,covid-deaths-per-million-vs-days-since-exemplar_v2845_850x600.svg
@@ -3504,7 +3504,7 @@ grapherId,slug,chartType,md5,svgFilename
 2522,unadjusted-gender-wage-gap-including-unemployed,DiscreteBar,8bd48edf28548d41481bfd716ba9f3aa,unadjusted-gender-wage-gap-including-unemployed_v3_850x600.svg
 6182,number-of-deaths-from-suicide-ghe,undefined,2299875ae06fdc9f90b8053dfc74c63d,number-of-deaths-from-suicide-ghe_v8_850x600.svg
 5363,women-who-experienced-violence-by-an-intimate-partner,undefined,b908f7e44401b993277c2ff647d82b89,women-who-experienced-violence-by-an-intimate-partner_v10_850x600.svg
-3094,the-role-of-agriculture-in-the-fluctuations-of-the-aggregate-economy-in-britain,undefined,658b56d20fb998cd300b2bd817830374,the-role-of-agriculture-in-the-fluctuations-of-the-aggregate-economy-in-britain_v7_850x600.svg
+3094,the-role-of-agriculture-in-the-fluctuations-of-the-aggregate-economy-in-britain,undefined,4e40663565b9862e4fc092eeef87fc0a,the-role-of-agriculture-in-the-fluctuations-of-the-aggregate-economy-in-britain_v7_850x600.svg
 801,prevalence-of-night-blindness-in-pregnant-women,DiscreteBar,4aeb6f2ef7ba048375fbc31dd4c4573f,prevalence-of-night-blindness-in-pregnant-women_v4_850x600.svg
 4083,number-acute-care-beds,undefined,2ccdde82303fd3140ffb5c2485615442,number-acute-care-beds_v2_850x600.svg
 5151,distribution-of-population-between-different-poverty-thresholds-stacke-bar,StackedDiscreteBar,a42e8bba014b4d9d2a4c03c3d760a077,distribution-of-population-between-different-poverty-thresholds-stacke-bar_v28_850x600.svg
@@ -4118,7 +4118,7 @@ grapherId,slug,chartType,md5,svgFilename
 716,price-changes-in-consumer-goods-and-services-in-the-usa-1997-2017,LineChart,9a45bb122ca49e09dbc73345f58716e7,price-changes-in-consumer-goods-and-services-in-the-usa-1997-2017_v3_850x600.svg
 5448,total-number-of-rcts-published-in-high-ranked-medical-journals,DiscreteBar,5f118b22b6c64fae4a87571d8218c8d9,total-number-of-rcts-published-in-high-ranked-medical-journals_v16_850x600.svg
 2209,disease-burden-from-ncds,StackedArea,58a5a0b7d874b58d5cf5ec337968b34c,disease-burden-from-ncds_v15_850x600.svg
-372,inequality-of-incomes-before-and-after-taxes-and-transfers,LineChart,bf4b890a7a8c0a195965491717725250,inequality-of-incomes-before-and-after-taxes-and-transfers_v4_850x600.svg
+372,inequality-of-incomes-before-and-after-taxes-and-transfers,LineChart,0d254a13e22333637f8871d9e1e66ad0,inequality-of-incomes-before-and-after-taxes-and-transfers_v4_850x600.svg
 5810,freedom-of-association-bti,undefined,7cd98344a5a5c747c221863e5c4ed693,freedom-of-association-bti_v73_850x600.svg
 4551,mean-years-of-schooling-male,undefined,78afae06542f5c3e3543a0a533febc11,mean-years-of-schooling-male_v5_850x600.svg
 5483,near-earth-asteroids-discovered-over-time,StackedArea,cf3999e2726acf2001b85758459f2641,near-earth-asteroids-discovered-over-time_v30_850x600.svg
