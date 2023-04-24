@@ -1,0 +1,247 @@
+{
+  "id": 4480,
+  "data": {
+    "availableEntities": [
+      "Africa",
+      "Africa (BP)",
+      "Algeria",
+      "Argentina",
+      "Asia",
+      "Asia Pacific (BP)",
+      "Australia",
+      "Austria",
+      "Belgium",
+      "Brazil",
+      "Bulgaria",
+      "CIS (BP)",
+      "Canada",
+      "Chile",
+      "China",
+      "Colombia",
+      "Cyprus",
+      "Czechia",
+      "Denmark",
+      "Ecuador",
+      "Egypt",
+      "Europe",
+      "Europe (BP)",
+      "European Union (27)",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "High-income countries",
+      "Hong Kong",
+      "Hungary",
+      "Iceland",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Ireland",
+      "Israel",
+      "Italy",
+      "Japan",
+      "Kuwait",
+      "Lower-middle-income countries",
+      "Luxembourg",
+      "Malaysia",
+      "Mexico",
+      "Morocco",
+      "Netherlands",
+      "New Zealand",
+      "Non-OECD (BP)",
+      "Norway",
+      "OECD (BP)",
+      "Oman",
+      "Pakistan",
+      "Peru",
+      "Philippines",
+      "Poland",
+      "Portugal",
+      "Qatar",
+      "Romania",
+      "Saudi Arabia",
+      "Singapore",
+      "Slovakia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sri Lanka",
+      "Sweden",
+      "Switzerland",
+      "Taiwan",
+      "Thailand",
+      "Trinidad and Tobago",
+      "Turkey",
+      "USSR",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States",
+      "Upper-middle-income countries",
+      "Venezuela",
+      "Vietnam",
+      "World",
+      "Central America (BP)",
+      "Eastern Africa (BP)",
+      "Middle Africa (BP)",
+      "Middle East (BP)",
+      "North America",
+      "North America (BP)",
+      "Oceania",
+      "South America",
+      "South and Central America (BP)",
+      "Western Africa (BP)",
+      "Bangladesh",
+      "Azerbaijan",
+      "Belarus",
+      "Estonia",
+      "Kazakhstan",
+      "Latvia",
+      "Lithuania",
+      "Russia",
+      "Turkmenistan",
+      "Ukraine",
+      "Uzbekistan",
+      "Croatia",
+      "North Macedonia",
+      "Slovenia"
+    ]
+  },
+  "slug": "primary-sub-energy-source",
+  "title": "Primary energy consumption by source",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "version": 12,
+  "subtitle": "Primary energy is shown based on the ‘substitution’ method which takes account of inefficiencies in energy production from fossil fuels.",
+  "originUrl": "ourworldindata.org/energy",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Wind",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539970
+    },
+    {
+      "display": {
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539930
+    },
+    {
+      "display": {
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539964
+    },
+    {
+      "display": {
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539935
+    },
+    {
+      "display": {
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539889
+    },
+    {
+      "display": {
+        "name": "Other renewables",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539926
+    },
+    {
+      "display": {
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539904
+    },
+    {
+      "display": {
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539946
+    },
+    {
+      "display": {
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539919
+    }
+  ],
+  "sourceDesc": "Our World in Data based on BP Statistical Review of World Energy",
+  "isPublished": true,
+  "variantName": "Over time",
+  "addCountryMode": "change-country",
+  "timelineMinTime": 1965,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

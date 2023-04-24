@@ -1,0 +1,56 @@
+{
+  "id": 4646,
+  "map": {
+    "variableId": 145393
+  },
+  "data": {
+    "availableEntities": [
+      "Africa",
+      "Americas (excl. Brazil and Mexico)",
+      "Asia and Pacific (excl. Indonesia and India)",
+      "Brazil",
+      "India",
+      "Indonesia",
+      "Mexico",
+      "Tropical"
+    ]
+  },
+  "slug": "commodity-deforestation-by-region",
+  "title": "Annual deforestation by region",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "version": 1,
+  "subtitle": "Annual deforestation is measured as the average between 2010 and 2014, and is measured in hectares.",
+  "hasMapTab": true,
+  "originUrl": "https://ourworldindata.org/forests-and-deforestation",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Annual deforestation by region",
+        "unit": "hectares",
+        "shortUnit": "ha",
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 145393
+    }
+  ],
+  "isPublished": true,
+  "addCountryMode": "disabled",
+  "selectedEntityNames": [
+    "Africa",
+    "Asia and Pacific (excl. Indonesia and India)",
+    "Americas (excl. Brazil and Mexico)",
+    "India",
+    "Indonesia",
+    "Mexico",
+    "Brazil"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

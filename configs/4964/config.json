@@ -1,0 +1,74 @@
+{
+  "id": 4964,
+  "data": {
+    "availableEntities": [
+      "United Kingdom"
+    ]
+  },
+  "note": "Includes electricity generation (which may include electricity that is exported) plus net imports.",
+  "slug": "electricity-mix-uk",
+  "type": "StackedArea",
+  "title": "Electricity production in the United Kingdom",
+  "maxTime": "latest",
+  "version": 17,
+  "originUrl": "ourworldindata.org/energy",
+  "stackMode": "relative",
+  "dimensions": [
+    {
+      "property": "y",
+      "variableId": 576073
+    },
+    {
+      "property": "y",
+      "variableId": 576079
+    },
+    {
+      "property": "y",
+      "variableId": 576074
+    },
+    {
+      "property": "y",
+      "variableId": 576072
+    },
+    {
+      "property": "y",
+      "variableId": 576076
+    },
+    {
+      "display": {
+        "name": "Net imports",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576078
+    },
+    {
+      "display": {
+        "name": "Gas",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576071
+    },
+    {
+      "property": "y",
+      "variableId": 576075
+    },
+    {
+      "property": "y",
+      "variableId": 576070
+    }
+  ],
+  "sourceDesc": "Digest of UK Energy Statistics (DUKES); BP; Ember",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "United Kingdom"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

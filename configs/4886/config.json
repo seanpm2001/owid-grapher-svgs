@@ -1,0 +1,61 @@
+{
+  "id": 4886,
+  "map": {
+    "variableId": 146634
+  },
+  "data": {
+    "availableEntities": [
+      "Global",
+      "Northern Hemisphere",
+      "Southern Hemisphere",
+      "Tropics"
+    ]
+  },
+  "slug": "sea-surface-temperature-anomaly",
+  "title": "Sea surface temperature anomaly",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "version": 4,
+  "subtitle": "Sea surface temperature anomaly relative to the 1961-1990 average temperature. This is measured in degrees celsius (°C).",
+  "originUrl": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Temperature anomaly",
+        "color": "#366388",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 146634
+    },
+    {
+      "display": {
+        "color": "#b4b3b8",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 146635
+    },
+    {
+      "display": {
+        "color": "#b4b3b8",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 146636
+    }
+  ],
+  "entityType": "region",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "selectedEntityNames": [
+    "Global"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

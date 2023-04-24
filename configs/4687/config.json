@@ -1,0 +1,81 @@
+{
+  "id": 4687,
+  "map": {
+    "time": 2012
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "Denmark",
+      "Mexico",
+      "Sri Lanka",
+      "Norway",
+      "Portugal",
+      "United Kingdom",
+      "Singapore",
+      "Finland",
+      "Japan",
+      "United States",
+      "Sweden",
+      "Italy",
+      "Taiwan",
+      "Germany",
+      "Netherlands",
+      "Korea, Republic of",
+      "France"
+    ]
+  },
+  "logo": "core+owid",
+  "note": "CC-BY-ND-NC",
+  "slug": "manufacturing-wages-relative-to-the-us-with-finland",
+  "title": "Manufacturing wages relative to the US",
+  "maxTime": 2012,
+  "version": 7,
+  "subtitle": "Unit 18 'The nation and the world economy’ Section 18.3 'Globalization and migration' in The CORE Team, The Economy. Available at https://tinyco.re/18031220 [Figure 18.12]",
+  "hasMapTab": true,
+  "originUrl": "https://tinyco.re/18031220",
+  "dimensions": [
+    {
+      "display": {
+        "color": "#ed6c2d",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 99352
+    }
+  ],
+  "isPublished": true,
+  "variantName": "Line chart",
+  "internalNotes": "core-econ.org",
+  "baseColorScheme": "continents",
+  "selectedEntityNames": [
+    "Italy",
+    "Finland",
+    "United Kingdom",
+    "France",
+    "Mexico",
+    "Japan",
+    "Norway",
+    "Portugal",
+    "Sri Lanka",
+    "South Korea",
+    "Sweden",
+    "Taiwan",
+    "United States"
+  ],
+  "selectedEntityColors": {
+    "Italy": "#b077b1",
+    "Japan": "#c8c8c8",
+    "France": "#000000",
+    "Mexico": "#5eb77e",
+    "Norway": "#a652ba",
+    "Sweden": "#34983f",
+    "Taiwan": "#df3c64",
+    "Finland": "#9a5129",
+    "Portugal": "#ffd53e",
+    "Sri Lanka": "#7ec7ce",
+    "South Korea": "#ce8ebd",
+    "United States": "#ed6c2d",
+    "United Kingdom": "#2a939b"
+  }
+}

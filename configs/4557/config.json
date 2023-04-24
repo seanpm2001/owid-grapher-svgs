@@ -1,0 +1,62 @@
+{
+  "id": 4557,
+  "data": {
+    "availableEntities": [
+      "Africa",
+      "North America",
+      "Europe and Central Asia",
+      "Latin America and the Caribbean",
+      "World",
+      "Asia and Pacific",
+      "Freshwater"
+    ]
+  },
+  "slug": "living-planet-index-by-region",
+  "title": "Living Planet Index by region",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "details": {
+    "biodiversity": {
+      "population": {
+        "id": 71,
+        "term": "population",
+        "title": "Population",
+        "content": "A population is a group of individuals of the same species that live in the same geographic area. A species will often have multiple or many populations, each living in a different area.",
+        "category": "biodiversity"
+      }
+    }
+  },
+  "version": 7,
+  "subtitle": "The Living Planet Index (LPI) measures the average decline in monitored wildlife [populations](hover::biodiversity::population). The index value measures the change in abundance in 38,427 populations across 5,268 species relative to the year 1970 (i.e. 1970 = 100%).",
+  "originUrl": "ourworldindata.org/biodiversity",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "(1970 = 100%)",
+        "shortUnit": "%",
+        "includeInTable": true,
+        "conversionFactor": 100,
+        "numDecimalPlaces": 1
+      },
+      "property": "y",
+      "variableId": 143622
+    }
+  ],
+  "isPublished": true,
+  "addCountryMode": "disabled",
+  "selectedEntityNames": [
+    "Africa",
+    "Asia-Pacific",
+    "Europe and Central Asia",
+    "Latin America and the Caribbean",
+    "North America",
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

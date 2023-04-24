@@ -1,0 +1,162 @@
+{
+  "id": 4389,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "PRGn",
+      "binningStrategy": "manual",
+      "colorSchemeInvert": true,
+      "customNumericColors": [
+        null
+      ],
+      "customNumericValues": [
+        -50,
+        -25,
+        0,
+        25,
+        50,
+        100
+      ],
+      "customNumericMinValue": -100
+    },
+    "variableId": 576202
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "United Kingdom",
+      "Ireland",
+      "France",
+      "Belgium",
+      "Netherlands",
+      "Germany",
+      "Switzerland",
+      "Italy",
+      "Spain",
+      "Sweden",
+      "Poland",
+      "United States",
+      "Japan",
+      "Algeria",
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Brazil",
+      "Bulgaria",
+      "Canada",
+      "Egypt",
+      "Turkey",
+      "United Arab Emirates",
+      "Trinidad and Tobago",
+      "Thailand",
+      "South Africa",
+      "Vietnam",
+      "Slovakia",
+      "Singapore",
+      "Saudi Arabia",
+      "Romania",
+      "Portugal",
+      "Philippines",
+      "Peru",
+      "Pakistan",
+      "Norway",
+      "New Zealand",
+      "Morocco",
+      "Mexico",
+      "Malaysia",
+      "South Korea",
+      "Israel",
+      "Iraq",
+      "Iran",
+      "Indonesia",
+      "India",
+      "Hungary",
+      "Sri Lanka",
+      "Hong Kong",
+      "Greece",
+      "Finland",
+      "Denmark",
+      "Czechia",
+      "Cyprus",
+      "Colombia",
+      "China",
+      "Chile",
+      "Taiwan",
+      "Ecuador",
+      "Iceland",
+      "Kuwait",
+      "Luxembourg",
+      "Oman",
+      "Qatar",
+      "Venezuela",
+      "USSR",
+      "Africa",
+      "Europe",
+      "World",
+      "Eastern Africa",
+      "Middle Africa",
+      "Western Africa",
+      "OECD",
+      "Middle East",
+      "Asia Pacific",
+      "Non-OECD",
+      "CIS",
+      "European Union (27)",
+      "Bangladesh",
+      "Russia",
+      "Azerbaijan",
+      "Belarus",
+      "Uzbekistan",
+      "Ukraine",
+      "Turkmenistan",
+      "Lithuania",
+      "Latvia",
+      "Kazakhstan",
+      "Estonia",
+      "North Macedonia",
+      "Slovenia",
+      "Croatia"
+    ]
+  },
+  "slug": "annual-change-oil",
+  "title": "Annual change in oil consumption",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": "latest",
+  "version": 13,
+  "subtitle": "Shown is the change in oil energy consumption relative to the previous year, measured in terawatt-hours.",
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/energy",
+  "colorScale": {
+    "binningStrategy": "equalInterval"
+  },
+  "dimensions": [
+    {
+      "display": {
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576202
+    }
+  ],
+  "sourceDesc": "Our World in Data based on BP Statistical Review of World Energy",
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Finland",
+    "Portugal",
+    "Norway",
+    "Brazil",
+    "Australia",
+    "United States"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

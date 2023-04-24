@@ -1,0 +1,253 @@
+{
+  "id": 4304,
+  "map": {
+    "time": "latest",
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": [
+      "Africa",
+      "Algeria",
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Azerbaijan",
+      "Bangladesh",
+      "Belarus",
+      "Belgium",
+      "Brazil",
+      "Bulgaria",
+      "Canada",
+      "Chile",
+      "China",
+      "Colombia",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Denmark",
+      "Ecuador",
+      "Egypt",
+      "Estonia",
+      "Europe",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "Hong Kong",
+      "Hungary",
+      "Iceland",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Ireland",
+      "Israel",
+      "Italy",
+      "Japan",
+      "Kazakhstan",
+      "Kuwait",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Macedonia",
+      "Malaysia",
+      "Mexico",
+      "Morocco",
+      "Netherlands",
+      "New Zealand",
+      "North America",
+      "Norway",
+      "Oman",
+      "Pakistan",
+      "Peru",
+      "Philippines",
+      "Poland",
+      "Portugal",
+      "Qatar",
+      "Romania",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sri Lanka",
+      "Sweden",
+      "Switzerland",
+      "Taiwan",
+      "Thailand",
+      "Trinidad and Tobago",
+      "Turkey",
+      "Turkmenistan",
+      "Ukraine",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States",
+      "Uzbekistan",
+      "Venezuela",
+      "Vietnam",
+      "World"
+    ]
+  },
+  "note": "'Primary energy’ refers to energy in its raw form, before conversion into electricity, heat or transport fuels. Primary energy for renewables and nuclear is here measured in terms of 'input equivalents' via the substitution method.",
+  "slug": "annual-change-primary-energy-source",
+  "type": "LineChart",
+  "title": "Year-to-year change in primary energy consumption by source",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "maxTime": 2021,
+  "minTime": 2021,
+  "version": 15,
+  "hasMapTab": false,
+  "originUrl": "ourworldindata.org/energy",
+  "stackMode": "absolute",
+  "colorScale": {
+    "binningStrategy": "equalInterval",
+    "customNumericColors": [],
+    "customNumericLabels": [],
+    "customNumericValues": [],
+    "customCategoryColors": {},
+    "customCategoryLabels": {},
+    "customHiddenCategories": {}
+  },
+  "dimensions": [
+    {
+      "display": {
+        "name": "Solar",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576222
+    },
+    {
+      "display": {
+        "name": "Coal",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576196
+    },
+    {
+      "display": {
+        "name": "Gas",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576200
+    },
+    {
+      "display": {
+        "name": "Other renewables",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576216
+    },
+    {
+      "display": {
+        "name": "Nuclear",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576213
+    },
+    {
+      "display": {
+        "name": "Hydropower",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576207
+    },
+    {
+      "display": {
+        "name": "Wind",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576225
+    },
+    {
+      "display": {
+        "name": "Oil",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576202
+    }
+  ],
+  "hasChartTab": true,
+  "isPublished": true,
+  "isExplorable": false,
+  "addCountryMode": "change-country",
+  "hideRelativeToggle": true,
+  "selectedEntityNames": [
+    "World"
+  ]
+}

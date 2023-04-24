@@ -1,0 +1,110 @@
+{
+  "id": 4813,
+  "data": {
+    "availableEntities": [
+      "Total GHGs",
+      "CO2",
+      "CH4",
+      "N2O"
+    ]
+  },
+  "slug": "food-emissions-life-cycle",
+  "type": "StackedArea",
+  "title": "Global emissions from food by life-cycle stage",
+  "details": {
+    "general": {
+      "carbondioxideequivalents": {
+        "id": 11,
+        "term": "carbondioxideequivalents",
+        "title": "Carbon dioxide-equivalents (CO₂eq)",
+        "content": "Carbon dioxide is the most important greenhouse gas, but not the only one. To capture all greenhouse gas emissions, researchers express them in ‘carbon dioxide-equivalents' (CO₂eq). This takes all greenhouse gases into account, not just CO₂.\n\nTo express all greenhouse gases in carbon dioxide-equivalents (CO₂eq), each one is weighted by its global warming potential (GWP) value. GWP measures the amount of warming a gas creates compared to CO₂. CO₂ is given a GWP value of one. If a gas had a GWP of 10 then one kilogram of that gas would generate ten times the warming effect as one kilogram of CO₂. \n\nCarbon dioxide-equivalents are calculated for each gas by multiplying the mass of emissions of a specific greenhouse gas by its GWP factor.\n\nThis warming can be stated over different timescales. To calculate CO₂eq over 100 years, we’d multiply each gas by its GWP over a 100-year timescale (GWP100).\n\nTotal greenhouse gas emissions – measured in CO₂eq – are then calculated by summing each gas’ CO₂eq value.",
+        "category": "general"
+      }
+    }
+  },
+  "version": 11,
+  "subtitle": "Emissions from the food system are broken down by their stage in the life-cycle, from land use and on-farm production through to consumer waste. This is measured in tonnes of [carbon dioxide-equivalents](hover::general::carbondioxideequivalents).",
+  "originUrl": "ourworldindata.org/environmental-impacts-of-food",
+  "dimensions": [
+    {
+      "display": {
+        "color": "#777779",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 145964
+    },
+    {
+      "display": {
+        "color": "#dc7721",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 145963
+    },
+    {
+      "display": {
+        "color": "#a2559c",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 145962
+    },
+    {
+      "display": {
+        "name": "Packaging",
+        "color": "#6d3e91",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 145961
+    },
+    {
+      "display": {
+        "color": "#0f739c",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 145959
+    },
+    {
+      "display": {
+        "color": "#3c4e66",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 145960
+    },
+    {
+      "display": {
+        "color": "#18470f",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 145958
+    },
+    {
+      "display": {
+        "color": "#89401a",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 145957
+    }
+  ],
+  "entityType": "gas",
+  "sourceDesc": "Crippa et al. (2021).",
+  "isPublished": true,
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "Total GHGs"
+  ],
+  "selectedEntityColors": {
+    "Total GHGs": "#89401a"
+  },
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

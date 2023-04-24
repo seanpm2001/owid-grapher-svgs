@@ -1,0 +1,66 @@
+{
+  "id": 4282,
+  "map": {
+    "time": "latest",
+    "colorScale": {
+      "baseColorScheme": "Blues",
+      "binningStrategy": "equalInterval"
+    },
+    "variableId": 142994
+  },
+  "data": {
+    "availableEntities": [
+      "Italy",
+      "United Kingdom",
+      "France",
+      "Netherlands",
+      "India"
+    ]
+  },
+  "logo": "core+owid",
+  "slug": "non-agricultural-share-of-labour-force",
+  "title": "Non-agricultural share of labor force",
+  "yAxis": {
+    "max": 100,
+    "min": 0
+  },
+  "version": 15,
+  "subtitle": "Unit 1 'The capitalist revolution’ Section 1.4 'The permanent technological revolution' in The CORE Team,\nThe Economy. Available at: https://tinyco.re/7635875 [Figure 1.4]",
+  "hasMapTab": true,
+  "originUrl": "https://tinyco.re/7635875",
+  "colorScale": {
+    "binningStrategy": "equalInterval"
+  },
+  "dimensions": [
+    {
+      "display": {
+        "color": "#00823f",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 142994
+    }
+  ],
+  "sourceDesc": "Roy, Tirthankar (2005); Lains et al. (2009); World Bank",
+  "isPublished": true,
+  "internalNotes": "core-econ.org",
+  "selectedEntityNames": [
+    "France",
+    "India",
+    "Italy",
+    "Netherlands",
+    "United Kingdom"
+  ],
+  "selectedEntityColors": {
+    "India": "#a2559c",
+    "Italy": "#b13507",
+    "France": "#6d3e91",
+    "Netherlands": "#d7da0c",
+    "United Kingdom": "#00823f"
+  },
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": 4619,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "OrRd",
+      "binningStrategy": "manual",
+      "customNumericValues": [
+        100,
+        500,
+        1000,
+        5000,
+        10000,
+        50000,
+        100000
+      ],
+      "binningStrategyBinCount": 6
+    },
+    "variableId": 145338,
+    "timeTolerance": 7
+  },
+  "data": {
+    "availableEntities": [
+      "Latvia",
+      "Norway",
+      "Italy",
+      "Germany",
+      "Switzerland",
+      "Czechia",
+      "Israel",
+      "Estonia",
+      "Cyprus",
+      "Luxembourg",
+      "Malta",
+      "Denmark",
+      "Belgium",
+      "Slovenia",
+      "France",
+      "United Kingdom",
+      "Malaysia",
+      "Chile",
+      "Ireland",
+      "South Africa",
+      "Croatia",
+      "United States",
+      "Spain",
+      "Greece",
+      "Iceland",
+      "Netherlands",
+      "South Korea",
+      "Liechtenstein",
+      "Singapore",
+      "Russia"
+    ]
+  },
+  "slug": "weekly-hospital-admissions-covid",
+  "title": "Weekly new hospital admissions for COVID-19",
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "canChangeScaleType": true
+  },
+  "minTime": 40,
+  "version": 1298,
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/coronavirus",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Daily new hospital admissions for COVID-19",
+        "unit": "patients",
+        "zeroDay": "2020-01-21",
+        "tolerance": 10,
+        "yearIsDay": true,
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 145338
+    }
+  ],
+  "isPublished": true,
+  "selectedEntityNames": [
+    "United Kingdom",
+    "United States",
+    "Israel",
+    "Germany",
+    "France",
+    "Italy",
+    "Spain",
+    "Netherlands"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

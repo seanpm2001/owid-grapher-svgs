@@ -1,0 +1,87 @@
+{
+  "id": 4535,
+  "data": {
+    "availableEntities": [
+      "Long-haul flight (economy+)",
+      "Ferry (car passenger)",
+      "Coach",
+      "National rail",
+      "Eurostar (international rail)",
+      "Light rail and tram",
+      "London Underground",
+      "Short-haul flight (economy)",
+      "Short-haul flight (business class)",
+      "Long-haul flight (economy)",
+      "Ferry (foot passenger)",
+      "Long-haul flight (business class)",
+      "Long-haul flight (first class)",
+      "Petrol car, 2 passengers",
+      "Petrol car, 4 passengers",
+      "Diesel car, 2 passengers",
+      "Diesel car, 4 passengers",
+      "Medium electric vehicle (UK electricity)",
+      "Small electric vehicle (UK electricity)",
+      "Large electric vehicle (UK electricity)",
+      "Large car (hybrid)",
+      "Bus",
+      "Small car (diesel)",
+      "Medium car (diesel)",
+      "Large car (diesel)",
+      "Small car (petrol)",
+      "Medium car (petrol)",
+      "Large car (petrol)",
+      "Small car (hybrid)",
+      "Medium car (hybrid)",
+      "Domestic flight",
+      "Small car (plug-in hybrid electric)",
+      "Medium car (plug-in hybrid electric)",
+      "Large car (plug-in hybrid electric)",
+      "Motorcycle (small)",
+      "Motorcycle (medium)",
+      "Motorcycle (large)",
+      "Taxi",
+      "Black cab (taxi)"
+    ]
+  },
+  "note": "Data is based on official conversion factors used in UK reporting. These factors may vary slightly depending on the country.",
+  "slug": "co2-transport-mode",
+  "title": "CO₂ emissions by mode of transport",
+  "details": {
+    "general": {
+      "ghg": {
+        "id": 16,
+        "term": "ghg",
+        "title": "Greenhouse gas",
+        "content": "A greenhouse gas (GHG) is a gas that causes the atmosphere to warm by absorbing and emitting radiant energy. Greenhouse gases absorb radiation that is radiated by Earth, preventing this heat from escaping to space.\n\nCarbon dioxide (CO₂) is the most well-known greenhouse gas, but there are others including methane, nitrous oxide, and in fact, water vapor.\n\nHuman-made emissions of greenhouse gases from fossil fuels, industry, and agriculture are the leading cause of global climate change. \n",
+        "category": "general"
+      }
+    }
+  },
+  "minTime": "latest",
+  "version": 10,
+  "subtitle": "Carbon dioxide (CO₂) emissions are measured in grams per passenger kilometer. This does not account for non-CO₂ [greenhouse gases](hover::general::ghg) or the increased warming effects of aviation emissions at altitude.",
+  "originUrl": "ourworldindata.org/transport",
+  "dimensions": [
+    {
+      "display": {
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 143557
+    }
+  ],
+  "entityType": "transport mode",
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Domestic flight",
+    "Eurostar (international rail)",
+    "Medium car (diesel)",
+    "Medium car (petrol)",
+    "Short-haul flight (economy)",
+    "Long-haul flight (economy)",
+    "Motorcycle (medium)",
+    "National rail",
+    "Bus"
+  ]
+}
