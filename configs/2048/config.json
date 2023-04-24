@@ -1,0 +1,107 @@
+{
+  "id": 2048,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "Europe",
+      "Oceania",
+      "Sub-Saharan Africa",
+      "Latin America and the Caribbean",
+      "World",
+      "Northern Africa",
+      "Eastern Asia",
+      "Central Asia",
+      "Southern Asia",
+      "Western Asia",
+      "Europe and North America",
+      "Central and Southern Asia",
+      "Eastern and South-Eastern Asia",
+      "Northern Africa and Western Asia",
+      "Small Island Developing States (SIDS)",
+      "Least developed countries (LDCs)",
+      "Oceania (exc. Australia and New Zealand)",
+      "South-eastern Asia",
+      "Landlocked developing countries (LLDCs)",
+      "Northern America",
+      "Australia and New Zealand"
+    ]
+  },
+  "slug": "status-of-the-development-and-implementation-of-integrated-national-water-resource-management-plans",
+  "type": "DiscreteBar",
+  "title": "Status of the development and implementation of integrated national water resource management plans",
+  "yAxis": {
+    "min": 0
+  },
+  "maxTime": "latest",
+  "version": 11,
+  "subtitle": "Share of countries across the various stages of development and implementation of integrated national water resource management plans (IWRM). IWRM is defined as \"a process which promotes the coordinated development and management of water, land and related resources in order to maximise economic and social welfare in an equitable manner without compromising the sustainability of vital ecosystems.\"",
+  "originUrl": "ourworldindata.org/water-use-stress",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Low level of implementation",
+        "unit": "%",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 575389
+    },
+    {
+      "display": {
+        "name": "Very low level of implementation",
+        "unit": "%",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 575393
+    },
+    {
+      "display": {
+        "name": "Medium-low level of implementation",
+        "unit": "%",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 575391
+    },
+    {
+      "display": {
+        "name": "High level of implementation",
+        "unit": "%",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 575388
+    },
+    {
+      "display": {
+        "name": "Very high level of implementation",
+        "unit": "%",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 575392
+    },
+    {
+      "display": {
+        "name": "Medium-high level of implementation",
+        "unit": "%",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 575390
+    }
+  ],
+  "sourceDesc": "UN Environment Programme",
+  "isPublished": true,
+  "hideTimeline": true,
+  "addCountryMode": "change-country",
+  "selectedEntityNames": [
+    "World"
+  ]
+}

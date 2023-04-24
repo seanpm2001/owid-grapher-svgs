@@ -1,0 +1,54 @@
+{
+  "id": 2401,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "United States"
+    ]
+  },
+  "slug": "food-expenditure-per-person",
+  "type": "StackedArea",
+  "title": "Food expenditure per person",
+  "yAxis": {
+    "min": 0
+  },
+  "version": 4,
+  "subtitle": "Average annual food expenditure per person, differentiated between that spent on food at home versus away from home (such as restaurants, cafes, colleges, work etc.). Alcoholic beverages and tobacco are not included. This is measured in constant 1988 US$.",
+  "originUrl": "ourworldindata.org/food-prices",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Food away from home",
+        "shortUnit": "$",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 93831
+    },
+    {
+      "display": {
+        "name": "Food at home",
+        "shortUnit": "$",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 93830
+    }
+  ],
+  "sourceDesc": "United States Department of Agriculture (USDA)",
+  "isPublished": true,
+  "variantName": "By place of expenditure",
+  "addCountryMode": "change-country",
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "United States"
+  ],
+  "selectedEntityColors": {
+    "United States": "#3360a9"
+  }
+}

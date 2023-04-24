@@ -1,0 +1,47 @@
+{
+  "id": 2908,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "South Pacific",
+      "North Pacific",
+      "North Atlantic",
+      "South Atlantic",
+      "Indian Ocean",
+      "Mediterranean Sea",
+      "Global ocean (total)"
+    ]
+  },
+  "slug": "surface-plastic-particles-by-ocean",
+  "type": "DiscreteBar",
+  "title": "Surface plastic particles by ocean basin",
+  "yAxis": {
+    "min": 0
+  },
+  "version": 3,
+  "subtitle": "Number of plastic particles floating at the ocean surface within each of the world's ocean or marine basins. This includes the total number of particlesranging from small microplastics to macroplastics. It includes only plastics within surface waters (and not at depth or on the seafloor).",
+  "originUrl": "https://ourworldindata.org/plastic-pollution",
+  "dimensions": [
+    {
+      "property": "y",
+      "variableId": 97717
+    }
+  ],
+  "sourceDesc": "Eriksen et al. (2014)",
+  "isPublished": true,
+  "hideTimeline": true,
+  "addCountryMode": "disabled",
+  "selectedEntityNames": [
+    "Global ocean (total)",
+    "Indian Ocean",
+    "Mediterranean Sea",
+    "North Atlantic",
+    "North Pacific",
+    "South Atlantic",
+    "South Pacific"
+  ]
+}

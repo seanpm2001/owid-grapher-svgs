@@ -1,0 +1,45 @@
+{
+  "id": 2887,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "World"
+    ]
+  },
+  "slug": "cumulative-global-plastics",
+  "type": "StackedArea",
+  "title": "Cumulative global production of plastics",
+  "yAxis": {
+    "min": 0
+  },
+  "version": 3,
+  "subtitle": "Plastic production refers to the production of polymer resin and fibers.",
+  "originUrl": "https://ourworldindata.org/plastic-pollution",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "tonnes",
+        "shortUnit": "tonnes",
+        "includeInTable": true,
+        "conversionFactor": 1000000
+      },
+      "property": "y",
+      "variableId": 97690
+    }
+  ],
+  "hideLegend": true,
+  "sourceDesc": "Our World in Data based on Geyer et al. (2017) and the OECD Global Plastics Outlook",
+  "isPublished": true,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

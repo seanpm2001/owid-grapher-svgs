@@ -1,0 +1,76 @@
+{
+  "id": 2106,
+  "map": {
+    "time": 2015,
+    "colorScale": {
+      "baseColorScheme": "YlOrRd",
+      "binningStrategy": "manual",
+      "customNumericValues": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10
+      ],
+      "customNumericMinValue": 0
+    },
+    "variableId": 572990
+  },
+  "data": {
+    "availableEntities": [
+      "World",
+      "Sub-Saharan Africa (UN)",
+      "Latin America and the Caribbean (UN)",
+      "Oceania (UN)",
+      "Central and Southern Asia (UN)",
+      "Europe and Northern America (UN)",
+      "Eastern and South-Eastern Asia (UN)"
+    ]
+  },
+  "slug": "cases-of-killed-human-rights-defenders-journalists-trade-unionists",
+  "title": "Number of cases of killed human rights defenders, journalists and trade unionists",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": 2021,
+  "minTime": 2015,
+  "version": 16,
+  "originUrl": "https://ourworldindata.org/human-rights",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Male",
+        "unit": "",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572992
+    },
+    {
+      "display": {
+        "name": "Both sexes",
+        "unit": "",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572990
+    },
+    {
+      "display": {
+        "name": "Female",
+        "unit": "",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572991
+    }
+  ],
+  "sourceDesc": "Office of the High Commissioner for Human Rights",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "selectedEntityNames": [
+    "World"
+  ]
+}

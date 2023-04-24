@@ -1,0 +1,55 @@
+{
+  "id": 2039,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "Sweden",
+      "England",
+      "Austria",
+      "Prussia",
+      "Belgium",
+      "Scotland",
+      "Netherlands"
+    ]
+  },
+  "slug": "deaths-from-smallpox-per-1000-population",
+  "title": "Deaths from smallpox per 1,000 population",
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "canChangeScaleType": true
+  },
+  "version": 12,
+  "subtitle": "Sweden started vaccinating people against smallpox in 1801. It became compulsory in Sweden in 1816, England in 1853, Scotland in 1864, the Netherlands in 1873, Prussia in 1874, and Belgium and Austria never made the smallpox vaccination mandatory.",
+  "originUrl": "https://ourworldindata.org/smallpox",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Deaths from smallpox per 1 million deaths"
+      },
+      "property": "y",
+      "variableId": 66560
+    }
+  ],
+  "isPublished": true,
+  "invertColorScheme": true,
+  "selectedEntityNames": [
+    "Austria",
+    "Belgium",
+    "Prussia",
+    "Netherlands",
+    "Scotland",
+    "England",
+    "Sweden"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

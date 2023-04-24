@@ -1,0 +1,153 @@
+{
+  "id": 2210,
+  "map": {
+    "time": "latest",
+    "colorScale": {
+      "baseColorScheme": "OrRd",
+      "binningStrategy": "manual",
+      "customNumericColors": [
+        null,
+        null
+      ],
+      "customNumericValues": [
+        1,
+        2,
+        5,
+        10,
+        20,
+        50,
+        100
+      ],
+      "customNumericMinValue": 0
+    },
+    "variableId": 418899,
+    "timeTolerance": 10
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "United States",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Bahamas",
+      "Bulgaria",
+      "Canada",
+      "Slovenia",
+      "Serbia",
+      "Panama",
+      "Hungary",
+      "Hong Kong",
+      "Finland",
+      "Colombia",
+      "Grenada",
+      "Malta",
+      "Saint Vincent and the Grenadines",
+      "Albania",
+      "Egypt",
+      "North Macedonia",
+      "Trinidad and Tobago",
+      "Jamaica",
+      "Costa Rica",
+      "Netherlands",
+      "Andorra",
+      "Barbados",
+      "Belarus",
+      "New Zealand",
+      "Mongolia",
+      "Sri Lanka",
+      "Guatemala",
+      "Czechia",
+      "Iceland",
+      "Luxembourg",
+      "El Salvador",
+      "Uganda",
+      "Kazakhstan",
+      "India",
+      "Switzerland",
+      "Mauritius",
+      "Vatican",
+      "Spain",
+      "Sweden",
+      "Azerbaijan",
+      "Bosnia and Herzegovina",
+      "Tanzania",
+      "Nicaragua",
+      "Palestine",
+      "Dominican Republic",
+      "Croatia",
+      "Chile",
+      "Bermuda",
+      "Liechtenstein",
+      "Uruguay",
+      "Peru",
+      "Jordan",
+      "Guyana",
+      "Cyprus",
+      "Montenegro",
+      "Algeria",
+      "Paraguay",
+      "Honduras",
+      "Cape Verde",
+      "Slovakia",
+      "Morocco",
+      "Monaco",
+      "Belize",
+      "Puerto Rico",
+      "Moldova",
+      "Mexico",
+      "Georgia",
+      "Dominica",
+      "Ecuador",
+      "Macao",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Bhutan",
+      "Bolivia",
+      "Uzbekistan",
+      "Oman",
+      "Philippines",
+      "Greece",
+      "Saint Kitts and Nevis",
+      "Suriname",
+      "Kyrgyzstan",
+      "Saint Lucia",
+      "United Arab Emirates",
+      "Tajikistan"
+    ]
+  },
+  "note": "The weapon used in homicides is not consistently recorded, therefore it's likely these values are an underestimate.",
+  "slug": "homicide-rates-from-firearms",
+  "title": "Homicide rate from firearms",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "details": {
+    "health": {
+      "homicide": {
+        "id": 78,
+        "term": "homicide",
+        "title": "Intentional homicide",
+        "content": "Intentional homicide is the unlawful death inflicted upon a person with the intent to cause death or serious injury.\n\nThe statistical definition contains three elements that characterize the killing of a person as “intentional homicide”:\n\n1. The killing of a person by another person.\n2. The intent of the perpetrator to kill or seriously injure the victim.\n3. The unlawfulness of the killing.",
+        "category": "health"
+      }
+    }
+  },
+  "version": 29,
+  "subtitle": "[Intentional homicide](hover::health::homicide) rate from firearms, measured as the number of deaths per 100,000 people.",
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/homicides",
+  "dimensions": [
+    {
+      "property": "y",
+      "variableId": 553206
+    }
+  ],
+  "sourceDesc": "United Nations Office on Drugs and Crime (2022)",
+  "isPublished": true,
+  "variantName": "UNODC",
+  "selectedEntityNames": [
+    "Australia"
+  ]
+}

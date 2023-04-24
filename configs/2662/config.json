@@ -1,0 +1,89 @@
+{
+  "id": 2662,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": [
+      "World"
+    ]
+  },
+  "note": "The rich countries in this chart are: Australia, Austria, Belgium, Canada, Cyprus, Denmark, Finland, France, Germany, Greece, Iceland, Ireland, Israel, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, United Kingdom, United States. 'Non-rich countries' are all the other countries in the world for which data is available.",
+  "slug": "share-of-world-merchandise-trade-by-type-of-trade-percent",
+  "type": "LineChart",
+  "title": "Share of global exports by income level of the trade partners",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "max": 100,
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "maxTime": 2014,
+  "minTime": 1827,
+  "version": 25,
+  "subtitle": "The 'non-rich to rich' trade series shows the proportion of global merchandise exports that correspond to sales from non-rich countries to rich countries. \nThe other series show similar flows within and across these countries.",
+  "hasMapTab": false,
+  "originUrl": "https://ourworldindata.org/trade-and-globalization",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Non-rich to Non-rich",
+        "color": "#932834"
+      },
+      "property": "y",
+      "variableId": 97468
+    },
+    {
+      "display": {
+        "name": "Non-rich to Rich",
+        "color": "#2a939b"
+      },
+      "property": "y",
+      "variableId": 97467
+    },
+    {
+      "display": {
+        "name": "Rich to Non-rich",
+        "color": "#7ec7ce"
+      },
+      "property": "y",
+      "variableId": 97466
+    },
+    {
+      "display": {
+        "name": "Rich to Rich",
+        "color": "#f07f59"
+      },
+      "property": "y",
+      "variableId": 97465
+    }
+  ],
+  "hasChartTab": true,
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "hideRelativeToggle": true,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "selectedEntityColors": {
+    "World": "#7ec7ce"
+  },
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

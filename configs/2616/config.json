@@ -1,0 +1,63 @@
+{
+  "id": 2616,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "United States"
+    ]
+  },
+  "slug": "alcohol-consumption-per-person-us",
+  "type": "StackedArea",
+  "title": "Alcohol consumption per person",
+  "yAxis": {
+    "min": 0
+  },
+  "version": 6,
+  "subtitle": "Alcohol consumption per person, measured in litres of ethanol per person per year. From 1920-1933 there was a ban on the production, importation, transportation, and sale of alcoholic beverages (prohibition) in the United States.",
+  "originUrl": "https://ourworldindata.org/alcohol-consumption",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Wine",
+        "shortUnit": "litres",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 97404
+    },
+    {
+      "display": {
+        "name": "Spirits",
+        "shortUnit": "litres",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 97405
+    },
+    {
+      "display": {
+        "name": "Beer",
+        "shortUnit": "litres",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 97403
+    }
+  ],
+  "sourceDesc": "National Institute on Alcohol Abuse and Alcoholism (NIAAA)",
+  "isPublished": true,
+  "variantName": "NIAAA",
+  "addCountryMode": "change-country",
+  "baseColorScheme": "OwidCategoricalC",
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "United States"
+  ],
+  "selectedEntityColors": {
+    "United States": "#ed6c2d"
+  }
+}

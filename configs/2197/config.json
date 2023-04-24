@@ -1,0 +1,558 @@
+{
+  "id": 2197,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "United Kingdom",
+      "Ireland",
+      "France",
+      "Belgium",
+      "Netherlands",
+      "Germany",
+      "Switzerland",
+      "Italy",
+      "Spain",
+      "Sweden",
+      "Poland",
+      "Russia",
+      "United States",
+      "Japan",
+      "Afghanistan",
+      "Albania",
+      "Algeria",
+      "Andorra",
+      "Angola",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Azerbaijan",
+      "Bahamas",
+      "Bahrain",
+      "Bangladesh",
+      "Barbados",
+      "Belarus",
+      "Belize",
+      "Benin",
+      "Bhutan",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Brazil",
+      "Brunei",
+      "Bulgaria",
+      "Burkina Faso",
+      "Burundi",
+      "Cambodia",
+      "Cameroon",
+      "Canada",
+      "Cape Verde",
+      "Zambia",
+      "Yemen",
+      "Uzbekistan",
+      "Uruguay",
+      "Tanzania",
+      "Egypt",
+      "North Macedonia",
+      "Ukraine",
+      "Uganda",
+      "Turkmenistan",
+      "Turkey",
+      "Tunisia",
+      "United Arab Emirates",
+      "Trinidad and Tobago",
+      "Togo",
+      "Thailand",
+      "Tajikistan",
+      "Syria",
+      "Eswatini",
+      "Sudan",
+      "Zimbabwe",
+      "South Africa",
+      "Somalia",
+      "Slovenia",
+      "Vietnam",
+      "Slovakia",
+      "Singapore",
+      "Sierra Leone",
+      "Serbia",
+      "Senegal",
+      "Saudi Arabia",
+      "Rwanda",
+      "Romania",
+      "Puerto Rico",
+      "Guinea-Bissau",
+      "Portugal",
+      "Philippines",
+      "Peru",
+      "Paraguay",
+      "Papua New Guinea",
+      "Panama",
+      "Pakistan",
+      "Norway",
+      "Nigeria",
+      "Niger",
+      "Nicaragua",
+      "New Zealand",
+      "Nepal",
+      "Namibia",
+      "Mozambique",
+      "Morocco",
+      "Moldova",
+      "Mongolia",
+      "Mexico",
+      "Mauritania",
+      "Mali",
+      "Malaysia",
+      "Malawi",
+      "Madagascar",
+      "Lithuania",
+      "Libya",
+      "Liberia",
+      "Latvia",
+      "Lesotho",
+      "Lebanon",
+      "Laos",
+      "Kyrgyzstan",
+      "South Korea",
+      "North Korea",
+      "Kenya",
+      "Jordan",
+      "Kazakhstan",
+      "Jamaica",
+      "Israel",
+      "Iraq",
+      "Iran",
+      "Indonesia",
+      "India",
+      "Hungary",
+      "Honduras",
+      "Palestine",
+      "Sri Lanka",
+      "Myanmar",
+      "Cote d'Ivoire",
+      "Haiti",
+      "Guyana",
+      "Guinea",
+      "Guatemala",
+      "Greece",
+      "Ghana",
+      "Gambia",
+      "Georgia",
+      "Gabon",
+      "Djibouti",
+      "Finland",
+      "Estonia",
+      "Eritrea",
+      "Ethiopia",
+      "Equatorial Guinea",
+      "Dominican Republic",
+      "Denmark",
+      "Czechia",
+      "Cyprus",
+      "Cuba",
+      "Croatia",
+      "Costa Rica",
+      "Democratic Republic of Congo",
+      "Congo",
+      "Comoros",
+      "Colombia",
+      "China",
+      "Chile",
+      "Chad",
+      "Central African Republic",
+      "Bermuda",
+      "Solomon Islands",
+      "Taiwan",
+      "Cook Islands",
+      "Dominica",
+      "Ecuador",
+      "Fiji",
+      "Kiribati",
+      "Greenland",
+      "Grenada",
+      "Iceland",
+      "Kuwait",
+      "Luxembourg",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Monaco",
+      "Montenegro",
+      "Oman",
+      "Nauru",
+      "Vanuatu",
+      "Micronesia (country)",
+      "Marshall Islands",
+      "Palau",
+      "Timor",
+      "Qatar",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "San Marino",
+      "Sao Tome and Principe",
+      "Seychelles",
+      "Suriname",
+      "Tonga",
+      "Tuvalu",
+      "Venezuela",
+      "Samoa",
+      "American Samoa",
+      "Guam",
+      "United States Virgin Islands",
+      "South Sudan",
+      "El Salvador",
+      "Niue",
+      "Northern Mariana Islands",
+      "Africa",
+      "America",
+      "Asia",
+      "Europe",
+      "Oceania",
+      "Tokelau",
+      "Sub-Saharan Africa",
+      "Middle East & North Africa",
+      "North America",
+      "South Asia",
+      "European Union",
+      "World",
+      "Northern Ireland",
+      "Scotland",
+      "Australasia",
+      "Caribbean",
+      "Central Asia",
+      "Eastern Europe",
+      "Western Europe",
+      "England",
+      "High-income",
+      "G20",
+      "Southeast Asia, East Asia, and Oceania",
+      "East Asia",
+      "Southeast Asia",
+      "Central Europe, Eastern Europe, and Central Asia",
+      "Central Europe",
+      "High-income Asia Pacific",
+      "Southern Latin America",
+      "High-income North America",
+      "Latin America and Caribbean",
+      "Andean Latin America",
+      "Central Latin America",
+      "Tropical Latin America",
+      "North Africa and Middle East",
+      "Wales",
+      "High SDI",
+      "High-middle SDI",
+      "Low SDI",
+      "Low-middle SDI",
+      "Middle SDI",
+      "African Region",
+      "Commonwealth High Income",
+      "Commonwealth Low Income",
+      "Commonwealth Middle Income",
+      "Eastern Mediterranean Region",
+      "European Region",
+      "Region of the Americas",
+      "South-East Asia Region",
+      "Western Pacific Region",
+      "World Bank High Income",
+      "World Bank Low Income",
+      "World Bank Lower Middle Income",
+      "World Bank Upper Middle Income",
+      "Commonwealth",
+      "Central sub-Saharan Africa",
+      "Eastern sub-Saharan Africa",
+      "Southern sub-Saharan Africa",
+      "Western sub-Saharan Africa",
+      "OECD Countries",
+      "African Union",
+      "Nordic Region",
+      "Latin America & Caribbean - World Bank region",
+      "Sub-Saharan Africa - World Bank region",
+      "Europe & Central Asia - World Bank region",
+      "East Asia & Pacific - World Bank region",
+      "South Asia - World Bank region"
+    ]
+  },
+  "note": "Non-communicable diseases are shown in blue; communicable, maternal, neonatal and nutritional diseases in red; injuries in grey.",
+  "slug": "burden-of-disease-by-cause",
+  "title": "Burden of disease by cause",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": 2019,
+  "minTime": 2019,
+  "version": 28,
+  "subtitle": "Total disease burden, measured in Disability-Adjusted Life Years (DALYs) by sub-category of disease or injury.\nDALYs measure the total burden of disease – both from years of life lost due to premature death and years lived with a disability. One DALY equals one lost year of healthy life.",
+  "originUrl": "https://ourworldindata.org/burden-of-disease",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Cardiovascular diseases",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419061
+    },
+    {
+      "display": {
+        "name": "Other infectious diseases",
+        "unit": "DALYs",
+        "color": "#e6332e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419243
+    },
+    {
+      "display": {
+        "name": "Neurological disorders",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419026
+    },
+    {
+      "display": {
+        "name": "Diabetes and kidney diseases",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419280
+    },
+    {
+      "display": {
+        "name": "Digestive diseases",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419009
+    },
+    {
+      "display": {
+        "name": "Mental disorders",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419035
+    },
+    {
+      "display": {
+        "name": "Transport injuries",
+        "unit": "DALYs",
+        "color": "#818282",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419185
+    },
+    {
+      "display": {
+        "name": "Musculoskeletal disorders",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419011
+    },
+    {
+      "display": {
+        "name": "Maternal disorders",
+        "unit": "DALYs",
+        "color": "#e6332e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419252
+    },
+    {
+      "display": {
+        "name": "Self-harm",
+        "unit": "DALYs",
+        "color": "#818282",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419112
+    },
+    {
+      "display": {
+        "name": "Interpersonal violence",
+        "unit": "DALYs",
+        "color": "#818282",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419114
+    },
+    {
+      "display": {
+        "name": "Unintentional injuries",
+        "unit": "DALYs",
+        "color": "#818282",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419180
+    },
+    {
+      "display": {
+        "name": "Malaria & neglected tropical diseases",
+        "unit": "DALYs",
+        "color": "#e6332e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419078
+    },
+    {
+      "display": {
+        "name": "Enteric infections",
+        "unit": "DALYs",
+        "color": "#e6332e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419241
+    },
+    {
+      "display": {
+        "name": "Substance use disorders",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419272
+    },
+    {
+      "display": {
+        "name": "Nutritional deficiencies",
+        "unit": "DALYs",
+        "color": "#e6332e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419270
+    },
+    {
+      "display": {
+        "name": "Conflict and terrorism",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419016
+    },
+    {
+      "display": {
+        "name": "Cancers",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419097
+    },
+    {
+      "display": {
+        "name": "Other NCDs",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419028
+    },
+    {
+      "display": {
+        "name": "HIV/AIDS and STIs",
+        "unit": "DALYs",
+        "color": "#e6332e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419141
+    },
+    {
+      "display": {
+        "name": "Neonatal disorders",
+        "unit": "DALYs",
+        "color": "#e6332e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419147
+    },
+    {
+      "display": {
+        "name": "Respiratory infections and TB",
+        "unit": "DALYs",
+        "color": "#e6332e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419143
+    },
+    {
+      "display": {
+        "name": "Natural disasters",
+        "unit": "DALYs",
+        "color": "#818282",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419116
+    },
+    {
+      "display": {
+        "name": "Respiratory diseases",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419145
+    },
+    {
+      "display": {
+        "name": "Skin diseases",
+        "unit": "DALYs",
+        "color": "#3360a9",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419014
+    }
+  ],
+  "sourceDesc": "IHME, Global Burden of Disease (2019)",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "baseColorScheme": "owid-distinct",
+  "invertColorScheme": true,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "selectedEntityColors": {
+    "World": "#3360a9"
+  }
+}

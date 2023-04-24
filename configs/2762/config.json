@@ -1,0 +1,91 @@
+{
+  "id": 2762,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": [
+      "Antarctica",
+      "Asia-Stan",
+      "Brazil",
+      "Canada",
+      "Central Europe",
+      "China",
+      "Eastern Africa",
+      "Greenland",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Korea",
+      "Mexico",
+      "Middle East",
+      "Northern Africa",
+      "Oceania",
+      "Rest Central America",
+      "Rest South America",
+      "Russia",
+      "Southeastern Asia",
+      "Southern Africa",
+      "Turkey",
+      "Ukraine",
+      "United States",
+      "Western Africa",
+      "Western Europe",
+      "World"
+    ]
+  },
+  "slug": "long-term-urban-population-region",
+  "type": "LineChart",
+  "title": "Share of the population living in urbanized areas",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "max": 100,
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "maxTime": 2000,
+  "minTime": -10000,
+  "version": 4,
+  "hasMapTab": false,
+  "originUrl": "https://ourworldindata.org/urbanization",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "display": {},
+      "property": "y",
+      "variableId": 97545
+    }
+  ],
+  "entityType": "country/region",
+  "sourceDesc": "HYDE 3.1 (2010)",
+  "hasChartTab": true,
+  "isPublished": true,
+  "addCountryMode": "add-country",
+  "hideRelativeToggle": true,
+  "selectedEntityNames": [
+    "Eastern Africa",
+    "Western Europe",
+    "Korea",
+    "United States",
+    "World",
+    "Canada",
+    "Mexico",
+    "Japan",
+    "Brazil",
+    "Central Europe",
+    "China",
+    "India"
+  ]
+}

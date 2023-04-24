@@ -1,0 +1,125 @@
+{
+  "id": 2073,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "OrRd",
+      "binningStrategy": "manual",
+      "customNumericColors": [
+        "#9dcdd3",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "customNumericValues": [
+        3,
+        6,
+        9,
+        12,
+        15,
+        18,
+        21,
+        24,
+        27,
+        30
+      ],
+      "customNumericMinValue": 0,
+      "customNumericColorsActive": true
+    },
+    "variableId": 313262
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "United Kingdom",
+      "France",
+      "Belgium",
+      "Netherlands",
+      "Germany",
+      "Switzerland",
+      "Italy",
+      "Spain",
+      "Russia",
+      "United States",
+      "Japan",
+      "Australia",
+      "Brazil",
+      "Canada",
+      "Tanzania",
+      "United Arab Emirates",
+      "South Africa",
+      "Singapore",
+      "Senegal",
+      "Saudi Arabia",
+      "Norway",
+      "New Zealand",
+      "Malaysia",
+      "South Korea",
+      "Kenya",
+      "Ghana",
+      "Dominican Republic",
+      "Czechia",
+      "Costa Rica",
+      "Chile",
+      "Qatar",
+      "Austria",
+      "Sweden",
+      "Angola",
+      "Bahrain",
+      "Cameroon",
+      "Turkey",
+      "Thailand",
+      "Rwanda",
+      "Portugal",
+      "Pakistan",
+      "Nigeria",
+      "Jordan",
+      "Israel",
+      "India",
+      "Cote d'Ivoire",
+      "Kuwait",
+      "Oman"
+    ]
+  },
+  "slug": "remittance-costs-as-share-of-amount-remitted",
+  "title": "Remittance costs as a proportion of the amount remitted",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": "latest",
+  "minTime": 2011,
+  "version": 14,
+  "subtitle": "The average [remittance cost](hover::general::remittancecost) of sending $200 (or equivalent in local sending currency) from each country. This is given as a share of the value sent.",
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/migration",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "%",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572454
+    }
+  ],
+  "entityType": "region",
+  "sourceDesc": "World Bank",
+  "isPublished": true,
+  "comparisonLines": [
+    {
+      "label": "SDG Target 10.C.1 (remittance costs <3%)",
+      "yEquals": "3"
+    }
+  ],
+  "selectedEntityNames": [
+    "Angola",
+    "Australia",
+    "Russia"
+  ]
+}

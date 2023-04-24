@@ -1,0 +1,80 @@
+{
+  "id": 2898,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "HDPE",
+      "Other sectors",
+      "Additives",
+      "Other polymer type",
+      "PP&A fibers",
+      "PUT",
+      "PET",
+      "PVC",
+      "PS",
+      "PP",
+      "Textiles",
+      "LD, LDPE",
+      "All industrial sectors",
+      "Industrial Machinery",
+      "Consumer & Institutional Products",
+      "Electrical/Electronic",
+      "Building and Construction",
+      "Transportation",
+      "Packaging"
+    ]
+  },
+  "note": "Polymer types are as follows: LDPE (Low-density polyethylene); HDPE (High-density polyethylene); PP (Polypropylene); PS (Polystyrene); PVC (Polyvinyl chloride); PET (Polyethylene terephthalate); PUT (Polyurethanes); and PP&A fibres (polyester, polyamide, and acrylic fibres). ",
+  "slug": "plastic-waste-polymer",
+  "type": "DiscreteBar",
+  "title": "Primary plastic waste generation by polymer",
+  "yAxis": {
+    "min": 0
+  },
+  "version": 5,
+  "subtitle": "Global primary plastic waste generation by polymer type, measured in tonnes per year. Polymers have been coloured based on recyclability where blue is widely recycled; yellow is sometimes recycled depending on local context; and red is usually non-recyclable.",
+  "originUrl": "https://ourworldindata.org/plastic-pollution",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "tonnes",
+        "color": "#ffd53e",
+        "shortUnit": "tonnes",
+        "conversionFactor": 1000000
+      },
+      "property": "y",
+      "variableId": 97695
+    }
+  ],
+  "sourceDesc": "Geyer et al. (2017)",
+  "isPublished": true,
+  "hideTimeline": true,
+  "addCountryMode": "disabled",
+  "baseColorScheme": "owid-distinct",
+  "selectedEntityNames": [
+    "LD, LDPE",
+    "HDPE",
+    "Other polymer type",
+    "PET",
+    "PP&A fibers",
+    "PP",
+    "PS",
+    "PUT",
+    "PVC"
+  ],
+  "selectedEntityColors": {
+    "PP": "#ffd53e",
+    "PS": "#e6332e",
+    "PET": "#3360a9",
+    "PUT": "#e6332e",
+    "PVC": "#ffd53e",
+    "HDPE": "#3360a9",
+    "LD, LDPE": "#e6332e",
+    "PP&A fibers": "#ffd53e",
+    "Other polymer type": "#e6332e"
+  }
+}

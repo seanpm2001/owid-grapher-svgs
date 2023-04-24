@@ -1,0 +1,193 @@
+{
+  "id": 2712,
+  "map": {
+    "time": "latest",
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "World"
+    ]
+  },
+  "slug": "global-primary-energy",
+  "type": "StackedArea",
+  "title": "Global direct primary energy consumption",
+  "yAxis": {
+    "min": 0
+  },
+  "maxTime": "latest",
+  "version": 17,
+  "subtitle": "Direct primary energy consumption does not take account of inefficiencies in fossil fuel production.",
+  "originUrl": "https://ourworldindata.org/energy",
+  "colorScale": {
+    "binningStrategy": "equalInterval"
+  },
+  "dimensions": [
+    {
+      "display": {
+        "color": "#a07c4e",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576028
+    },
+    {
+      "display": {
+        "name": "Other renewables",
+        "unit": "terawatt-hours",
+        "color": "#2a939b",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576039
+    },
+    {
+      "display": {
+        "name": "Solar",
+        "unit": "terawatt-hours",
+        "color": "#ffd53e",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576042
+    },
+    {
+      "display": {
+        "name": "Wind",
+        "unit": "terawatt-hours",
+        "color": "#5eb77e",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576046
+    },
+    {
+      "display": {
+        "name": "Hydropower",
+        "unit": "terawatt-hours",
+        "color": "#7ec7ce",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576031
+    },
+    {
+      "display": {
+        "name": "Nuclear",
+        "unit": "terawatt-hours",
+        "color": "#ca2628",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576033
+    },
+    {
+      "display": {
+        "name": "Gas",
+        "unit": "terawatt-hours",
+        "color": "#a652ba",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576030
+    },
+    {
+      "display": {
+        "name": "Oil",
+        "unit": "terawatt-hours",
+        "color": "#3360a9",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576038
+    },
+    {
+      "display": {
+        "name": "Coal",
+        "unit": "terawatt-hours",
+        "color": "#818282",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576032
+    },
+    {
+      "display": {
+        "name": "Traditional biomass",
+        "unit": "terawatt-hours",
+        "color": "#932834",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576044
+    }
+  ],
+  "sourceDesc": "Our World in Data based on Vaclav Smil (2017) and BP Statistical Review of World Energy",
+  "isPublished": true,
+  "internalNotes": "Direct primary energy",
+  "addCountryMode": "change-country",
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "selectedEntityColors": {
+    "World": "#932834"
+  },
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

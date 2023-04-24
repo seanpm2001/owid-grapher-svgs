@@ -1,0 +1,57 @@
+{
+  "id": 2587,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "One-sided violence",
+      "Civil conflicts with foreign state intervention",
+      "Civil conflicts",
+      "Conflicts between states",
+      "Colonial or imperial conflicts",
+      "Non-state conflicts",
+      "State-based conflicts"
+    ]
+  },
+  "note": "Conflicts are included if fighting in them caused at least 25 military and civilian deaths in a year.",
+  "slug": "non-state-and-state-based-violent-conflicts-since-1989",
+  "type": "StackedArea",
+  "title": "Non-state and state-based conflicts",
+  "yAxis": {
+    "min": 0
+  },
+  "minTime": 1989,
+  "version": 17,
+  "subtitle": "State-based conflicts are between states, or a state and a non-state armed group. Non-state conflicts are between non-state armed groups. One-sided violence involves an armed group and civilians.",
+  "originUrl": "ourworldindata.org/war-and-peace",
+  "dimensions": [
+    {
+      "display": {
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 97374
+    }
+  ],
+  "sourceDesc": "UCDP/PRIO",
+  "isPublished": true,
+  "addCountryMode": "disabled",
+  "timelineMinTime": 1989,
+  "relatedQuestions": [
+    {
+      "url": "https://ourworldindata.org/counting-conflict-deaths",
+      "text": "Counting world conflict deaths: why do sources differ?"
+    }
+  ],
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "One-sided violence",
+    "Non-state conflicts",
+    "State-based conflicts"
+  ]
+}

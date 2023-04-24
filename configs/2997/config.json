@@ -1,0 +1,57 @@
+{
+  "id": 2997,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": []
+  },
+  "slug": "urban-share-european-commission",
+  "type": "DiscreteBar",
+  "title": "Share of people living in urban areas",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "version": 5,
+  "subtitle": "Share of the population living in urban areas as estimated by the European Commission. The European Commission combines satellite imagery with national census data to derive urban and rural populations based on its own standardized definitions. Note that this result differs from UN figures which are based on nationally-defined urban definitions.",
+  "hasMapTab": false,
+  "originUrl": "ourworldindata.org/urbanization",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "display": {},
+      "property": "y",
+      "variableId": 97906
+    }
+  ],
+  "sourceDesc": "European Commission, Atlas of the Human Planet (2016)",
+  "hasChartTab": true,
+  "isPublished": true,
+  "variantName": "European Commission (2015)",
+  "hideTimeline": true,
+  "addCountryMode": "disabled",
+  "baseColorScheme": "owid-distinct",
+  "selectedEntityNames": [
+    "Africa",
+    "Asia",
+    "Europe",
+    "Latin America & the Caribbean",
+    "North America",
+    "Oceania",
+    "World"
+  ]
+}
