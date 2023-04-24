@@ -1,0 +1,121 @@
+{
+  "id": 3971,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "YlOrBr",
+      "binningStrategy": "manual",
+      "customNumericColors": [
+        null,
+        null,
+        null
+      ],
+      "customNumericValues": [
+        0.5,
+        1,
+        1.5,
+        2,
+        2.5,
+        3,
+        3.5,
+        4
+      ]
+    },
+    "variableId": 587768
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "Angola",
+      "Benin",
+      "Tanzania",
+      "Thailand",
+      "Vietnam",
+      "Guinea-Bissau",
+      "Nigeria",
+      "Mozambique",
+      "Malaysia",
+      "Madagascar",
+      "Kenya",
+      "India",
+      "Cote d'Ivoire",
+      "El Salvador",
+      "Africa",
+      "Asia",
+      "North America",
+      "World",
+      "Upper-middle-income countries",
+      "Lower-middle-income countries",
+      "Low-income countries",
+      "Western Africa (FAO)",
+      "Small Island Developing States (FAO)",
+      "Asia (FAO)",
+      "Southern Asia (FAO)",
+      "Eastern Africa (FAO)",
+      "Least Developed Countries (FAO)",
+      "Net Food Importing Developing Countries (FAO)",
+      "Middle Africa (FAO)",
+      "South-eastern Asia (FAO)",
+      "Africa (FAO)",
+      "Low Income Food Deficit Countries (FAO)",
+      "Central America (FAO)",
+      "Americas (FAO)",
+      "Philippines",
+      "Indonesia",
+      "Burkina Faso",
+      "Land Locked Developing Countries (FAO)",
+      "Mexico",
+      "Mali",
+      "Sri Lanka",
+      "Guinea",
+      "Dominican Republic",
+      "China",
+      "Caribbean (FAO)",
+      "Eastern Asia (FAO)",
+      "Honduras",
+      "Togo",
+      "Ghana",
+      "Senegal",
+      "Peru",
+      "South America",
+      "South America (FAO)",
+      "Brazil",
+      "Colombia",
+      "China (FAO)",
+      "Belize",
+      "Myanmar",
+      "Gambia",
+      "Burundi"
+    ]
+  },
+  "slug": "cashew-nut-yields",
+  "title": "Cashew nut yields",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": 3000,
+  "minTime": 0,
+  "version": 7,
+  "subtitle": "Yields are measured in tonnes per hectare.",
+  "hasMapTab": true,
+  "originUrl": "https://ourworldindata.org/crop-yields",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "tonnes per hectare",
+        "shortUnit": "t",
+        "includeInTable": true,
+        "conversionFactor": 1
+      },
+      "property": "y",
+      "variableId": 587768
+    }
+  ],
+  "sourceDesc": "Food and Agriculture Organization of the United Nations",
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Caribbean",
+    "South Eastern Asia",
+    "Land Locked Developing Countries"
+  ]
+}

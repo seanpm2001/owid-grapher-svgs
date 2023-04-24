@@ -1,0 +1,120 @@
+{
+  "id": 3880,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "YlOrBr",
+      "binningStrategy": "manual",
+      "customNumericColors": [
+        null,
+        null
+      ],
+      "customNumericValues": [
+        100,
+        500,
+        1000,
+        2000,
+        5000,
+        10000
+      ]
+    },
+    "variableId": 539907
+  },
+  "data": {
+    "availableEntities": [
+      "Africa",
+      "Africa (BP)",
+      "Asia",
+      "Asia Pacific (BP)",
+      "Australia",
+      "Brazil",
+      "Bulgaria",
+      "CIS (BP)",
+      "Canada",
+      "China",
+      "Colombia",
+      "Czechia",
+      "Europe",
+      "Europe (BP)",
+      "European Union (27)",
+      "Germany",
+      "Greece",
+      "High-income countries",
+      "Hungary",
+      "India",
+      "Indonesia",
+      "Japan",
+      "Kazakhstan",
+      "Lower-middle-income countries",
+      "Mexico",
+      "Middle East (BP)",
+      "Mongolia",
+      "New Zealand",
+      "Non-OECD (BP)",
+      "North America",
+      "North America (BP)",
+      "OECD (BP)",
+      "Oceania",
+      "Pakistan",
+      "Poland",
+      "Romania",
+      "Russia",
+      "Serbia",
+      "South Africa",
+      "South America",
+      "South Korea",
+      "South and Central America (BP)",
+      "Spain",
+      "Thailand",
+      "Turkey",
+      "USSR",
+      "Ukraine",
+      "United Kingdom",
+      "United States",
+      "Upper-middle-income countries",
+      "Uzbekistan",
+      "Venezuela",
+      "Vietnam",
+      "World",
+      "Zimbabwe"
+    ]
+  },
+  "slug": "coal-production-country",
+  "title": "Coal production",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "minTime": 1981,
+  "version": 11,
+  "subtitle": "Coal production is measured as primary energy, in terawatt-hours (TWh) per year.",
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/fossil-fuels",
+  "dimensions": [
+    {
+      "display": {
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539907
+    }
+  ],
+  "isPublished": true,
+  "variantName": "Since 1981",
+  "selectedEntityNames": [
+    "South Africa",
+    "Australia",
+    "Canada",
+    "United States",
+    "India"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

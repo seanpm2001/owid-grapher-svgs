@@ -1,0 +1,260 @@
+{
+  "id": 3924,
+  "map": {
+    "time": "latest",
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "North America (BP)",
+      "OECD (BP)",
+      "Other Africa (BP)",
+      "Other Asia Pacific (BP)",
+      "Other Caribbean (BP)",
+      "Other Europe (BP)",
+      "Other Middle East (BP)",
+      "Other Northern Africa (BP)",
+      "Other South America (BP)",
+      "Other South and Central America (BP)",
+      "Other Southern Africa (BP)",
+      "South and Central America (BP)",
+      "Western Africa (BP)",
+      "United Kingdom",
+      "Ireland",
+      "France",
+      "Belgium",
+      "Netherlands",
+      "Germany",
+      "Switzerland",
+      "Italy",
+      "Spain",
+      "Sweden",
+      "Poland",
+      "United States",
+      "Japan",
+      "Algeria",
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Brazil",
+      "Bulgaria",
+      "Canada",
+      "Egypt",
+      "Turkey",
+      "United Arab Emirates",
+      "Trinidad and Tobago",
+      "Thailand",
+      "South Africa",
+      "Vietnam",
+      "Slovakia",
+      "Singapore",
+      "Saudi Arabia",
+      "Romania",
+      "Portugal",
+      "Philippines",
+      "Peru",
+      "Pakistan",
+      "Norway",
+      "New Zealand",
+      "Morocco",
+      "Mexico",
+      "Malaysia",
+      "South Korea",
+      "Israel",
+      "Iraq",
+      "Iran",
+      "Indonesia",
+      "India",
+      "Hungary",
+      "Sri Lanka",
+      "Hong Kong",
+      "Greece",
+      "Finland",
+      "Denmark",
+      "Czechia",
+      "Cyprus",
+      "Colombia",
+      "China",
+      "Chile",
+      "Taiwan",
+      "Ecuador",
+      "Iceland",
+      "Kuwait",
+      "Luxembourg",
+      "Oman",
+      "Qatar",
+      "Venezuela",
+      "USSR",
+      "Africa",
+      "Asia",
+      "Europe",
+      "Oceania",
+      "North America",
+      "South America",
+      "World",
+      "High-income countries",
+      "Upper-middle-income countries",
+      "Lower-middle-income countries",
+      "European Union (27)",
+      "Africa (BP)",
+      "Asia Pacific (BP)",
+      "CIS (BP)",
+      "Central America (BP)",
+      "Eastern Africa (BP)",
+      "Europe (BP)",
+      "Middle Africa (BP)",
+      "Middle East (BP)",
+      "Non-OECD (BP)",
+      "Bangladesh",
+      "Other CIS (BP)",
+      "Russia",
+      "Azerbaijan",
+      "Belarus",
+      "Uzbekistan",
+      "Ukraine",
+      "Turkmenistan",
+      "Lithuania",
+      "Latvia",
+      "Kazakhstan",
+      "Estonia",
+      "North Macedonia",
+      "Slovenia",
+      "Croatia"
+    ]
+  },
+  "note": "Includes only commercially-traded fuels (coal, oil, gas), nuclear and modern renewables. As such, it does not include traditional biomass sources.",
+  "slug": "primary-energy-consumption-by-source",
+  "title": "Primary direct energy consumption by source",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "minTime": 1965,
+  "version": 13,
+  "subtitle": "Energy consumption is shown as direct primary energy. This means this does not correct for fossil fuel\ninefficiencies in conversion to useful energy estimates.",
+  "originUrl": "ourworldindata.org/energy",
+  "colorScale": {
+    "binningStrategy": "equalInterval"
+  },
+  "dimensions": [
+    {
+      "display": {
+        "color": "#c15065",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539946
+    },
+    {
+      "display": {
+        "color": "#6d3e91",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539919
+    },
+    {
+      "display": {
+        "color": "#883039",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539904
+    },
+    {
+      "display": {
+        "color": "#286bbb",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539932
+    },
+    {
+      "display": {
+        "color": "#c4523e",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539966
+    },
+    {
+      "display": {
+        "color": "#00295b",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539972
+    },
+    {
+      "display": {
+        "name": "Nuclear",
+        "unit": "terawatt-hours",
+        "color": "#00847e",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539937
+    },
+    {
+      "display": {
+        "color": "#578145",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539926
+    }
+  ],
+  "isPublished": true,
+  "internalNotes": "Direct primary energy method. Line chart.",
+  "addCountryMode": "change-country",
+  "selectedEntityNames": [
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

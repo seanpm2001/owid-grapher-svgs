@@ -1,0 +1,44 @@
+{
+  "id": 3057,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "World"
+    ]
+  },
+  "note": "Global anomalies have been determined by dividing the world into a grid, averaging the data for each cell of the grid, and then averaging the grid cells together.",
+  "slug": "global-precipitation-anomaly",
+  "title": "Global precipitation anomaly",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "minTime": 1901,
+  "version": 5,
+  "subtitle": "This indicator shows annual anomalies compared with the average precipitation from 1901 to 2000 based on rainfall and snowfall measurements from land-based weather stations worldwide.",
+  "originUrl": "https://ourworldindata.org/natural-disasters",
+  "dimensions": [
+    {
+      "display": {
+        "shortUnit": "mm",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 98062
+    }
+  ],
+  "sourceDesc": "National Oceanic & Atmospheric Administration (NOAA) via the US EPA",
+  "isPublished": true,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 3906,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "France; 1800 - 1899 CE",
+      "World (battle and one-sided violence deaths); 2007",
+      "C. Mexico (Mesoamerica); 1419 - 1519 CE",
+      "Mexican mestizo village; 1961 - 1965 CE",
+      "Germany; 1900 - 1990 CE",
+      "Russia; 1900 - 1990 CE",
+      "Tepoztlán (Mexico); 1922 - 1955 CE",
+      "Japan; 1900 - 1990 CE",
+      "World (wars & genocides); 1900 - 1999 CE",
+      "US (war deaths); 1900 - 1999 CE"
+    ]
+  },
+  "logo": "owid",
+  "slug": "rate-of-violent-deaths-state-societies",
+  "type": "DiscreteBar",
+  "title": "Death rates from violence in state societies",
+  "yAxis": {
+    "min": 0
+  },
+  "version": 14,
+  "subtitle": "Death rates are measured as the number of deaths from violence per 100,000 individuals in a given population.",
+  "originUrl": "https://ourworldindata.org/war-and-peace",
+  "dimensions": [
+    {
+      "property": "y",
+      "variableId": 109898
+    }
+  ],
+  "entityType": "society",
+  "isPublished": true,
+  "hideTimeline": true,
+  "relatedQuestions": [
+    {
+      "url": "https://ourworldindata.org/ethnographic-and-archaeological-evidence-on-violent-deaths",
+      "text": "Data review: ethnographic and archaeological evidence on violent deaths"
+    }
+  ],
+  "invertColorScheme": true,
+  "selectedEntityNames": [
+    "C. Mexico (Mesoamerica); 1419 - 1519 CE",
+    "France; 1800 - 1899 CE",
+    "Germany; 1900 - 1990 CE",
+    "Japan; 1900 - 1990 CE",
+    "Mexican mestizo village; 1961 - 1965 CE",
+    "Russia; 1900 - 1990 CE",
+    "Tepoztlán (Mexico); 1922 - 1955 CE",
+    "US (war deaths); 1900 - 1999 CE",
+    "World (battle and one-sided violence deaths); 2007",
+    "World (wars & genocides); 1900 - 1999 CE"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3035,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    },
+    "variableId": 98015
+  },
+  "data": {
+    "availableEntities": [
+      "United Kingdom",
+      "France"
+    ]
+  },
+  "logo": "core+owid",
+  "note": "The chart shows the wages of building labourers divided by the cost of using capital goods. CC-BY-ND-NC",
+  "slug": "wages-relative-to-the-cost-of-capital",
+  "title": "Wages relative to the cost of capital (late sixteenth to the early nineteenth century)",
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "canChangeScaleType": true
+  },
+  "maxTime": 1827,
+  "minTime": 1582,
+  "version": 12,
+  "hideLogo": false,
+  "subtitle": "Unit 2 'Technology, population, and growth’ Section 2.6 'The British Industrial Revolution and incentives for new technologies' in The CORE Team, The Economy. Available at: https://tinyco.re/21834461 [Figure 2.11]",
+  "hasMapTab": true,
+  "originUrl": "https://tinyco.re/21834461",
+  "dimensions": [
+    {
+      "display": {
+        "color": "#3360a9"
+      },
+      "property": "y",
+      "variableId": 98015
+    }
+  ],
+  "isPublished": true,
+  "internalNotes": "core-econ.org",
+  "addCountryMode": "disabled",
+  "selectedEntityNames": [
+    "France",
+    "United Kingdom"
+  ],
+  "selectedEntityColors": {
+    "France": "#ce8ebd",
+    "United Kingdom": "#3360a9"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 3849,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "PuBuGn",
+      "binningStrategy": "manual",
+      "customNumericColors": [
+        null,
+        null
+      ],
+      "customNumericValues": [
+        5,
+        10,
+        25,
+        50,
+        100
+      ]
+    },
+    "variableId": 149451,
+    "timeTolerance": 2
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "Mexico",
+      "United Kingdom",
+      "Ireland",
+      "France",
+      "Belgium",
+      "Netherlands",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Sweden",
+      "Poland",
+      "Austria",
+      "Bulgaria",
+      "Slovenia",
+      "Slovakia",
+      "Romania",
+      "Portugal",
+      "Malaysia",
+      "Lithuania",
+      "Latvia",
+      "Hungary",
+      "Estonia",
+      "Denmark",
+      "Czechia",
+      "Cyprus",
+      "Luxembourg",
+      "Sri Lanka",
+      "Finland",
+      "United States",
+      "Norway",
+      "Australia",
+      "Brazil",
+      "Greece",
+      "Switzerland",
+      "Albania",
+      "North Macedonia",
+      "Turkey",
+      "Croatia",
+      "Malta",
+      "Philippines",
+      "Indonesia",
+      "India",
+      "Ecuador",
+      "Japan",
+      "South Korea",
+      "Israel",
+      "Bangladesh",
+      "Uruguay",
+      "Colombia",
+      "Chile",
+      "Bosnia and Herzegovina",
+      "Singapore",
+      "Palestine",
+      "Georgia",
+      "Iceland",
+      "Macao",
+      "Belarus",
+      "Thailand",
+      "Serbia",
+      "Pakistan",
+      "Armenia",
+      "Ukraine",
+      "New Zealand",
+      "Myanmar",
+      "Oman",
+      "Tanzania",
+      "Peru"
+    ]
+  },
+  "slug": "small-scale-industries-share",
+  "title": "Small-scale industries as a share of total industry value added",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": 2019,
+  "minTime": 2004,
+  "version": 13,
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/economic-growth",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "%",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 575719
+    }
+  ],
+  "sourceDesc": "Data from multiple sources compiled by the UN",
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Portugal",
+    "Austria",
+    "Spain"
+  ]
+}

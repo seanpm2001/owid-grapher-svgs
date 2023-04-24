@@ -1,0 +1,95 @@
+{
+  "id": 3525,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": [
+      "United States"
+    ]
+  },
+  "slug": "reactions-to-terrorism",
+  "type": "LineChart",
+  "title": "Share of US citizens who say they're less willing to do certain activities because of terrorism",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "maxTime": 2017,
+  "minTime": 2001,
+  "version": 2,
+  "subtitle": "Share of respondents in the United States who said they were less willing to do certain activities as a result of recent terrorist events. In the survey, participants were asked: \"As a result of the events relating to terrorism in recent years, would you say that now you are less willing to -- [...], or not?\"",
+  "hasMapTab": false,
+  "originUrl": "https://ourworldindata.org/terrorism",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "%",
+        "color": "#f6a324",
+        "shortUnit": "%",
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 104509
+    },
+    {
+      "display": {
+        "unit": "%",
+        "color": "#ca2628",
+        "shortUnit": "%",
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 104506
+    },
+    {
+      "display": {
+        "unit": "%",
+        "color": "#3360a9",
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 104507
+    },
+    {
+      "display": {
+        "unit": "%",
+        "color": "#a652ba",
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 104508
+    }
+  ],
+  "sourceDesc": "Gallup Polls",
+  "hasChartTab": true,
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "hideRelativeToggle": true,
+  "selectedEntityNames": [
+    "United States"
+  ],
+  "selectedEntityColors": {
+    "United States": "#a652ba"
+  },
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

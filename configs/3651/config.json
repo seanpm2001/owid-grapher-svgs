@@ -1,0 +1,105 @@
+{
+  "id": 3651,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "Milk",
+      "Citrus Fruit",
+      "Eggs",
+      "Maize",
+      "Rice",
+      "Nuts",
+      "Bananas",
+      "Apples",
+      "Potatoes",
+      "Tomatoes",
+      "Coffee",
+      "Pig Meat",
+      "Cheese",
+      "Wheat & Rye",
+      "Oatmeal",
+      "Cassava",
+      "Other Pulses",
+      "Peas",
+      "Groundnuts",
+      "Onions & Leeks",
+      "Root Vegetables",
+      "Brassicas",
+      "Berries & Grapes",
+      "Dark Chocolate",
+      "Beef (beef herd)",
+      "Beef (dairy herd)",
+      "Lamb & Mutton",
+      "Poultry Meat",
+      "Fish (farmed)",
+      "Grains",
+      "Prawns (farmed)",
+      "Tofu"
+    ]
+  },
+  "slug": "ghg-per-protein-poore",
+  "type": "DiscreteBar",
+  "title": "Greenhouse gas emissions per 100 grams of protein",
+  "yAxis": {
+    "min": 0
+  },
+  "details": {
+    "general": {
+      "carbondioxideequivalents": {
+        "id": 11,
+        "term": "carbondioxideequivalents",
+        "title": "Carbon dioxide-equivalents (CO₂eq)",
+        "content": "Carbon dioxide is the most important greenhouse gas, but not the only one. To capture all greenhouse gas emissions, researchers express them in ‘carbon dioxide-equivalents' (CO₂eq). This takes all greenhouse gases into account, not just CO₂.\n\nTo express all greenhouse gases in carbon dioxide-equivalents (CO₂eq), each one is weighted by its global warming potential (GWP) value. GWP measures the amount of warming a gas creates compared to CO₂. CO₂ is given a GWP value of one. If a gas had a GWP of 10 then one kilogram of that gas would generate ten times the warming effect as one kilogram of CO₂. \n\nCarbon dioxide-equivalents are calculated for each gas by multiplying the mass of emissions of a specific greenhouse gas by its GWP factor.\n\nThis warming can be stated over different timescales. To calculate CO₂eq over 100 years, we’d multiply each gas by its GWP over a 100-year timescale (GWP100).\n\nTotal greenhouse gas emissions – measured in CO₂eq – are then calculated by summing each gas’ CO₂eq value.",
+        "category": "general"
+      }
+    }
+  },
+  "maxTime": 2018,
+  "minTime": 2018,
+  "version": 24,
+  "subtitle": "Emissions are measured in [carbon dioxide-equivalents](hover::general::carbondioxideequivalents).",
+  "originUrl": "https://ourworldindata.org/environmental-impacts-of-food",
+  "dimensions": [
+    {
+      "property": "y",
+      "variableId": 104785
+    }
+  ],
+  "entityType": "food",
+  "sourceDesc": "Joseph Poore and Thomas Nemecek (2018). Additional calculations by Our World in Data.",
+  "isPublished": true,
+  "hideTimeline": true,
+  "relatedQuestions": [
+    {
+      "url": "https://ourworldindata.org/faqs-environmental-impacts-food",
+      "text": "FAQs: Data on the environmental impacts of food"
+    }
+  ],
+  "selectedEntityNames": [
+    "Pig Meat",
+    "Beef (beef herd)",
+    "Eggs",
+    "Lamb & Mutton",
+    "Grains",
+    "Milk",
+    "Other Pulses",
+    "Poultry Meat",
+    "Tofu (soybeans)",
+    "Peas",
+    "Nuts",
+    "Groundnuts",
+    "Fish (farmed)",
+    "Cheese",
+    "Beef (dairy herd)",
+    "Prawns (farmed)"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

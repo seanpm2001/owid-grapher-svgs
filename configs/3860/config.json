@@ -1,0 +1,85 @@
+{
+  "id": 3860,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "YlGnBu",
+      "binningStrategy": "equalInterval"
+    },
+    "variableId": 108359,
+    "timeTolerance": 3
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "Italy",
+      "United Kingdom (England and Wales)",
+      "United Kingdom (Scotland)",
+      "Germany",
+      "Poland",
+      "United States",
+      "Turkey",
+      "Slovakia",
+      "Peru",
+      "Lithuania",
+      "Finland",
+      "Iceland",
+      "United Kingdom (Northern Ireland)",
+      "Switzerland",
+      "Canada",
+      "South Korea",
+      "Israel",
+      "Estonia",
+      "Sweden",
+      "Argentina",
+      "Bolivia",
+      "Cape Verde",
+      "Thailand",
+      "Panama",
+      "Nigeria",
+      "Palestine",
+      "Chile",
+      "Luxembourg",
+      "South Africa",
+      "Indonesia",
+      "El Salvador",
+      "Belgium",
+      "Russia",
+      "Saint Lucia",
+      "World",
+      "Central and Southern Asia (UN)",
+      "Europe and Northern America (UN)",
+      "Sub-Saharan Africa (UN)",
+      "Latin America and the Caribbean (UN)",
+      "Eastern and South-Eastern Asia (UN)",
+      "Ireland",
+      "France",
+      "Paraguay",
+      "China",
+      "Latvia"
+    ]
+  },
+  "slug": "safety-walking-alone",
+  "title": "Share that feel safe walking alone around the area they live at night",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": 2021,
+  "minTime": 2009,
+  "version": 9,
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/trust",
+  "dimensions": [
+    {
+      "property": "y",
+      "variableId": 573040
+    }
+  ],
+  "sourceDesc": "UN Office on Drugs and Crime",
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Germany",
+    "United Kingdom (England and Wales)",
+    "Cape Verde"
+  ]
+}

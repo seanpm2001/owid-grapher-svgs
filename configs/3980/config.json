@@ -1,0 +1,133 @@
+{
+  "id": 3980,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "YlOrRd",
+      "binningStrategy": "manual",
+      "customNumericValues": [
+        4,
+        8,
+        12,
+        16,
+        20,
+        24
+      ]
+    },
+    "variableId": 588465
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "Angola",
+      "Benin",
+      "Brazil",
+      "Burundi",
+      "Cameroon",
+      "Tanzania",
+      "Togo",
+      "Thailand",
+      "Sierra Leone",
+      "Senegal",
+      "Guinea-Bissau",
+      "Philippines",
+      "Paraguay",
+      "Nigeria",
+      "Mexico",
+      "Malaysia",
+      "Liberia",
+      "Indonesia",
+      "Honduras",
+      "Cote d'Ivoire",
+      "Guinea",
+      "Ghana",
+      "Gambia",
+      "Gabon",
+      "Equatorial Guinea",
+      "Costa Rica",
+      "Democratic Republic of Congo",
+      "Congo",
+      "Colombia",
+      "Central African Republic",
+      "Solomon Islands",
+      "Ecuador",
+      "Sao Tome and Principe",
+      "Africa",
+      "Asia",
+      "Oceania",
+      "North America",
+      "South America",
+      "World",
+      "Upper-middle-income countries",
+      "Lower-middle-income countries",
+      "Low-income countries",
+      "Melanesia",
+      "Western Africa (FAO)",
+      "Small Island Developing States (FAO)",
+      "Land Locked Developing Countries (FAO)",
+      "Asia (FAO)",
+      "Eastern Africa (FAO)",
+      "South America (FAO)",
+      "Least Developed Countries (FAO)",
+      "Net Food Importing Developing Countries (FAO)",
+      "Middle Africa (FAO)",
+      "South-eastern Asia (FAO)",
+      "Africa (FAO)",
+      "Low Income Food Deficit Countries (FAO)",
+      "Oceania (FAO)",
+      "Central America (FAO)",
+      "Americas (FAO)",
+      "Nicaragua",
+      "Peru",
+      "Papua New Guinea",
+      "Madagascar",
+      "Suriname",
+      "Venezuela",
+      "Guatemala",
+      "China",
+      "Eastern Asia (FAO)",
+      "Dominican Republic",
+      "Caribbean (FAO)",
+      "Cambodia",
+      "China (FAO)",
+      "Panama"
+    ]
+  },
+  "slug": "palm-oil-yields",
+  "title": "Oil palm fruit yields",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": 3000,
+  "minTime": 0,
+  "version": 8,
+  "subtitle": "Palm oil fruit yields are measured in tonnes per hectare.",
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/crop-yields",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "tonnes per hectare",
+        "shortUnit": "t",
+        "includeInTable": true,
+        "conversionFactor": 1
+      },
+      "property": "y",
+      "variableId": 588465
+    }
+  ],
+  "sourceDesc": "Food and Agriculture Organization of the United Nations",
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Colombia",
+    "Malaysia",
+    "Indonesia",
+    "Thailand",
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

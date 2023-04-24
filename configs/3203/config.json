@@ -1,0 +1,120 @@
+{
+  "id": 3203,
+  "map": {
+    "time": "latest",
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "World"
+    ]
+  },
+  "slug": "global-primary-energy-share-inc-biomass",
+  "title": "Share of global primary energy consumption by source",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": "latest",
+  "version": 8,
+  "subtitle": "Global primary energy consumption, disaggregated by source. Traditional biomass as an energy source is included here. 'Other renewables' represents all renewable sources minus solar, wind, hydropower, traditional biomass and modern biofuels (e.g. geothermal, wave and tidal).",
+  "originUrl": "ourworldindata.org/energy",
+  "colorScale": {
+    "binningStrategy": "equalInterval"
+  },
+  "dimensions": [
+    {
+      "display": {
+        "color": "#883039",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576052
+    },
+    {
+      "display": {
+        "color": "#c15065",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576060
+    },
+    {
+      "display": {
+        "color": "#286bbb",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576056
+    },
+    {
+      "display": {
+        "color": "#6d3e91",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576055
+    },
+    {
+      "display": {
+        "color": "#00847e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576058
+    },
+    {
+      "display": {
+        "color": "#578145",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576063
+    },
+    {
+      "display": {
+        "color": "#c4523e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576065
+    },
+    {
+      "display": {
+        "color": "#9a5129",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576064
+    },
+    {
+      "display": {
+        "color": "#00295b",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576068
+    },
+    {
+      "display": {
+        "color": "#996d39",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576051
+    }
+  ],
+  "sourceDesc": "Our World in Data based on Vaclav Smil (2017) and BP Statistical Review of World Energy",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "selectedEntityNames": [
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}
