@@ -1,0 +1,82 @@
+{
+  "id": 1101,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": [
+      "Africa",
+      "Brazil",
+      "Canada",
+      "China",
+      "Europe (excl. Russia)",
+      "Greenland",
+      "India",
+      "Latin America and the Caribbean (excl. Brazil)",
+      "Middle East",
+      "Oceania",
+      "Rest of Asia (excl. India & China)",
+      "Russia",
+      "United States",
+      "World"
+    ]
+  },
+  "slug": "grazing-land-use-over-the-long-term",
+  "type": "StackedArea",
+  "title": "Grazing land use over the long-term",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "scaleType": "linear"
+  },
+  "minTime": 1600,
+  "version": 6,
+  "subtitle": "Total land used for grazing, measured in hectares.",
+  "hasMapTab": false,
+  "originUrl": "https://ourworldindata.org/land-use",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "display": {
+        "name": "",
+        "unit": "hectares",
+        "tolerance": 5,
+        "isProjection": false
+      },
+      "property": "y",
+      "variableId": 8755
+    }
+  ],
+  "entityType": "country/region",
+  "sourceDesc": "History Database of the Global Environment (2017)",
+  "hasChartTab": true,
+  "isPublished": true,
+  "internalNotes": "",
+  "addCountryMode": "add-country",
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "Oceania",
+    "Africa",
+    "India",
+    "China",
+    "Rest of Asia (excl. India & China)",
+    "Middle East",
+    "Brazil",
+    "Latin America and the Caribbean (excl. Brazil)",
+    "Canada",
+    "United States",
+    "Russia",
+    "Europe (excl. Russia)"
+  ]
+}

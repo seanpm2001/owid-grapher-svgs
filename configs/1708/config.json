@@ -1,0 +1,524 @@
+{
+  "id": 1708,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "Kazakhstan",
+      "Jamaica",
+      "Israel",
+      "Iraq",
+      "Iran",
+      "Indonesia",
+      "India",
+      "Hungary",
+      "Honduras",
+      "Palestine",
+      "Sri Lanka",
+      "Myanmar",
+      "Cote d'Ivoire",
+      "Haiti",
+      "Guyana",
+      "Guinea",
+      "Guatemala",
+      "Greece",
+      "Ghana",
+      "Gambia",
+      "Georgia",
+      "Gabon",
+      "Djibouti",
+      "Finland",
+      "Estonia",
+      "Eritrea",
+      "Ethiopia",
+      "Equatorial Guinea",
+      "Dominican Republic",
+      "Denmark",
+      "Czechia",
+      "Cyprus",
+      "Cuba",
+      "Croatia",
+      "Costa Rica",
+      "Democratic Republic of Congo",
+      "Congo",
+      "Comoros",
+      "Colombia",
+      "China",
+      "Chile",
+      "Chad",
+      "Central African Republic",
+      "Bermuda",
+      "Solomon Islands",
+      "Taiwan",
+      "Cook Islands",
+      "Dominica",
+      "Ecuador",
+      "Fiji",
+      "Kiribati",
+      "Greenland",
+      "Grenada",
+      "Iceland",
+      "Kuwait",
+      "Luxembourg",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Monaco",
+      "Montenegro",
+      "Oman",
+      "Nauru",
+      "Vanuatu",
+      "Micronesia (country)",
+      "Marshall Islands",
+      "Palau",
+      "Timor",
+      "Qatar",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "San Marino",
+      "Sao Tome and Principe",
+      "Seychelles",
+      "Suriname",
+      "Tonga",
+      "Tuvalu",
+      "Venezuela",
+      "Samoa",
+      "American Samoa",
+      "Guam",
+      "United States Virgin Islands",
+      "South Sudan",
+      "El Salvador",
+      "Niue",
+      "Northern Mariana Islands",
+      "Africa",
+      "America",
+      "Asia",
+      "Europe",
+      "Oceania",
+      "Tokelau",
+      "Sub-Saharan Africa",
+      "North America",
+      "South Asia",
+      "European Union",
+      "World",
+      "Northern Ireland",
+      "Scotland",
+      "Australasia",
+      "Caribbean",
+      "Central Asia",
+      "Eastern Europe",
+      "Western Europe",
+      "England",
+      "High-income",
+      "G20",
+      "Southeast Asia, East Asia, and Oceania",
+      "East Asia",
+      "Southeast Asia",
+      "Central Europe, Eastern Europe, and Central Asia",
+      "Central Europe",
+      "High-income Asia Pacific",
+      "Southern Latin America",
+      "High-income North America",
+      "Latin America and Caribbean",
+      "Andean Latin America",
+      "Central Latin America",
+      "Tropical Latin America",
+      "North Africa and Middle East",
+      "Wales",
+      "High SDI",
+      "High-middle SDI",
+      "Low SDI",
+      "Low-middle SDI",
+      "Middle SDI",
+      "African Region",
+      "Commonwealth High Income",
+      "Commonwealth Low Income",
+      "Commonwealth Middle Income",
+      "East Asia & Pacific - WB",
+      "Eastern Mediterranean Region",
+      "Europe & Central Asia - WB",
+      "European Region",
+      "Latin America & Caribbean - WB",
+      "Middle East & North Africa - WB",
+      "Region of the Americas",
+      "South Asia - WB",
+      "South-East Asia Region",
+      "Sub-Saharan Africa - WB",
+      "Western Pacific Region",
+      "World Bank High Income",
+      "World Bank Low Income",
+      "World Bank Lower Middle Income",
+      "World Bank Upper Middle Income",
+      "Commonwealth",
+      "Central sub-Saharan Africa",
+      "Eastern sub-Saharan Africa",
+      "Southern sub-Saharan Africa",
+      "Western sub-Saharan Africa",
+      "OECD Countries",
+      "World Bank Regions",
+      "WHO region",
+      "Four World Regions",
+      "World Bank Income Levels",
+      "African Union",
+      "Nordic Region",
+      "United Kingdom",
+      "Ireland",
+      "France",
+      "Belgium",
+      "Netherlands",
+      "Germany",
+      "Switzerland",
+      "Italy",
+      "Spain",
+      "Sweden",
+      "Poland",
+      "Russia",
+      "United States",
+      "Japan",
+      "Afghanistan",
+      "Albania",
+      "Algeria",
+      "Andorra",
+      "Angola",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Azerbaijan",
+      "Bahamas",
+      "Bahrain",
+      "Bangladesh",
+      "Barbados",
+      "Belarus",
+      "Belize",
+      "Benin",
+      "Bhutan",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Botswana",
+      "Brazil",
+      "Brunei",
+      "Bulgaria",
+      "Burkina Faso",
+      "Burundi",
+      "Cambodia",
+      "Cameroon",
+      "Canada",
+      "Cape Verde",
+      "Zambia",
+      "Yemen",
+      "Uzbekistan",
+      "Uruguay",
+      "Tanzania",
+      "Egypt",
+      "North Macedonia",
+      "Ukraine",
+      "Uganda",
+      "Turkmenistan",
+      "Turkey",
+      "Tunisia",
+      "United Arab Emirates",
+      "Trinidad and Tobago",
+      "Togo",
+      "Thailand",
+      "Tajikistan",
+      "Syria",
+      "Eswatini",
+      "Sudan",
+      "Zimbabwe",
+      "South Africa",
+      "Somalia",
+      "Slovenia",
+      "Vietnam",
+      "Slovakia",
+      "Singapore",
+      "Sierra Leone",
+      "Serbia",
+      "Senegal",
+      "Saudi Arabia",
+      "Rwanda",
+      "Romania",
+      "Puerto Rico",
+      "Guinea-Bissau",
+      "Portugal",
+      "Philippines",
+      "Peru",
+      "Paraguay",
+      "Papua New Guinea",
+      "Panama",
+      "Pakistan",
+      "Norway",
+      "Nigeria",
+      "Niger",
+      "Nicaragua",
+      "New Zealand",
+      "Nepal",
+      "Namibia",
+      "Mozambique",
+      "Morocco",
+      "Moldova",
+      "Mongolia",
+      "Mexico",
+      "Mauritania",
+      "Mali",
+      "Malaysia",
+      "Malawi",
+      "Madagascar",
+      "Lithuania",
+      "Libya",
+      "Liberia",
+      "Latvia",
+      "Lesotho",
+      "Lebanon",
+      "Laos",
+      "Kyrgyzstan",
+      "South Korea",
+      "North Korea",
+      "Kenya",
+      "Jordan"
+    ]
+  },
+  "slug": "causes-of-death-in-5-14-year-olds",
+  "title": "Causes of deaths for children between 5 and 14",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": 2019,
+  "minTime": 2019,
+  "version": 19,
+  "subtitle": "Annual number of deaths – by cause – for children between 5 and 14 years old",
+  "originUrl": "https://ourworldindata.org/causes-of-death",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Suicide",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418661
+    },
+    {
+      "display": {
+        "name": "Homicide",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418890
+    },
+    {
+      "display": {
+        "name": "Drowning",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418560
+    },
+    {
+      "display": {
+        "name": "Malaria",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418993
+    },
+    {
+      "display": {
+        "name": "Fire",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418574
+    },
+    {
+      "display": {
+        "name": "Cancers",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418851
+    },
+    {
+      "display": {
+        "name": "Digestive diseases",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418596
+    },
+    {
+      "display": {
+        "name": "Liver disease",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418587
+    },
+    {
+      "display": {
+        "name": "Respiratory disease",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418618
+    },
+    {
+      "display": {
+        "name": "Kidney disease",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418954
+    },
+    {
+      "display": {
+        "name": "Cardiovascular disease",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418639
+    },
+    {
+      "display": {
+        "name": "Lower respiratory infections",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418729
+    },
+    {
+      "display": {
+        "name": "Nutritional deficiencies",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 419198
+    },
+    {
+      "display": {
+        "name": "Diabetes mellitus",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418926
+    },
+    {
+      "display": {
+        "name": "Protein-energy malnutrition",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 419207
+    },
+    {
+      "display": {
+        "name": "Natural disasters",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418904
+    },
+    {
+      "display": {
+        "name": "Heat-related deaths (hot or cold exposure)",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418754
+    },
+    {
+      "display": {
+        "name": "Diarrheal diseases",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418716
+    },
+    {
+      "display": {
+        "name": "Road accidents",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418942
+    },
+    {
+      "display": {
+        "name": "Tuberculosis",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418687
+    },
+    {
+      "display": {
+        "name": "HIV/AIDS",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418701
+    },
+    {
+      "display": {
+        "name": "Hepatitis",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419265
+    }
+  ],
+  "sourceDesc": "IHME, Global Burden of Disease (2019)",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "selectedEntityNames": [
+    "World"
+  ]
+}

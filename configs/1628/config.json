@@ -1,0 +1,70 @@
+{
+  "id": 1628,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customNumericMinValue": 0,
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": []
+  },
+  "slug": "average-annual-precipitation-by-region",
+  "type": "DiscreteBar",
+  "title": "Average annual precipitation by region",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "version": 2,
+  "hasMapTab": false,
+  "originUrl": "ourworldindata.org/water-use-stress",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "id": 11105,
+      "order": 0,
+      "chartId": 1628,
+      "display": {
+        "shortUnit": "km³"
+      },
+      "property": "y",
+      "variableId": 65380
+    }
+  ],
+  "hasChartTab": true,
+  "isPublished": true,
+  "hideTimeline": true,
+  "internalNotes": "",
+  "addCountryMode": "disabled",
+  "selectedEntityNames": [
+    "North America",
+    "Central America and Caribbean",
+    "South America",
+    "Sub-Saharan Africa",
+    "Western & Central Europe",
+    "Oceania",
+    "Northern Africa",
+    "Eastern Europe",
+    "Central Asia",
+    "East Asia",
+    "Middle East",
+    "South Asia"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

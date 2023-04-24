@@ -1,0 +1,62 @@
+{
+  "id": 1369,
+  "map": {
+    "time": 2021,
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    },
+    "variableId": 539899
+  },
+  "data": {
+    "availableEntities": [
+      "Asian marker price (BP)",
+      "China Qinhuangdao spot price (BP)",
+      "Japan coking coal import CIF price (BP)",
+      "Japan steam coal import CIF price (BP)",
+      "Japan steam spot CIF price (BP)",
+      "Northwest Europe marker price (BP)",
+      "US Central Appalachian coal spot price index (BP)"
+    ]
+  },
+  "slug": "coal-prices",
+  "title": "Coal prices",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "minTime": 2001,
+  "version": 10,
+  "subtitle": "Coal prices of various production locations, measured in current US dollars per tonne.",
+  "originUrl": "https://ourworldindata.org/fossil-fuels",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Coal",
+        "shortUnit": "$",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539899
+    }
+  ],
+  "entityType": "production zone",
+  "isPublished": true,
+  "selectedEntityNames": [
+    "China Qinhuangdao spot price (BP)",
+    "Japan coking coal import CIF price (BP)",
+    "Japan steam coal import CIF price (BP)",
+    "Japan steam spot CIF price (BP)",
+    "Northwest Europe marker price (BP)",
+    "US Central Appalachian coal spot price index (BP)",
+    "Asian marker price (BP)"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

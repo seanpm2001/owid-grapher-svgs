@@ -1,0 +1,96 @@
+{
+  "id": 1514,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customNumericMinValue": 0,
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": [
+      "Brazil",
+      "Cambodia",
+      "Egypt",
+      "Ghana",
+      "Kenya",
+      "Laos",
+      "Lebanon",
+      "Madagascar",
+      "Morocco",
+      "Mozambique",
+      "Nigeria",
+      "Senegal",
+      "Tanzania",
+      "Togo",
+      "Tunisia",
+      "Uganda",
+      "Yemen",
+      "Zambia"
+    ]
+  },
+  "slug": "actual-teaching-time-as-share-of-scheduled-teaching-time",
+  "type": "LineChart",
+  "title": "Actual teaching time as share of scheduled teaching time",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "maxTime": 2016,
+  "minTime": 2016,
+  "version": 2,
+  "subtitle": "Percentage of time officially allocated to schooling that a teacher is actually teaching. In some cases estimates correspond to selected regions and are therefore not necessarily nationally representative (see source for details).",
+  "hasMapTab": false,
+  "originUrl": "https://ourworldindata.org/teachers-and-professors",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "display": {
+        "tolerance": 20
+      },
+      "property": "y",
+      "variableId": 43019
+    }
+  ],
+  "hasChartTab": true,
+  "isPublished": true,
+  "internalNotes": "",
+  "addCountryMode": "add-country",
+  "hideRelativeToggle": true,
+  "selectedEntityNames": [
+    "Egypt",
+    "Lebanon",
+    "Laos",
+    "Brazil",
+    "Cambodia",
+    "Ghana",
+    "Kenya",
+    "Madagascar",
+    "Morocco",
+    "Mozambique",
+    "Nigeria",
+    "Senegal",
+    "Tanzania",
+    "Togo",
+    "Tunisia",
+    "Uganda",
+    "Yemen",
+    "Zambia"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1803,
+  "map": {
+    "time": 2012,
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customNumericMinValue": 0,
+      "customHiddenCategories": {}
+    },
+    "projection": "World",
+    "variableId": 170676
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": []
+  },
+  "slug": "saber-rating-of-education-policies-aimed-at-improving-school-accountability",
+  "type": "DiscreteBar",
+  "title": "SABER rating of education policies aimed at improving school accountability",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "maxTime": 2016,
+  "version": 3,
+  "subtitle": "Shown is the rating score of each country's policies aimed at improving school accountability. The rating scores denote: 1=Latent; 2=Emerging; 3=Established; 4=Advanced. These scores come from an assessment of whether minimum criteria are met across a number of dimensions. The dimensions are: (i) guidelines for the use of results of student assessments, (ii) analysis of school and student performance, (iii) regulations for complying with rules of financial management and transparency at each level of education system, and (iv) mandates for simplifying and explaining results of student assessments to the public.",
+  "hasMapTab": false,
+  "originUrl": "ourworldindata.org/global-education",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "id": 12821,
+      "order": 0,
+      "chartId": 1803,
+      "display": {
+        "tolerance": 10
+      },
+      "property": "y",
+      "variableId": 170676
+    }
+  ],
+  "hasChartTab": true,
+  "isPublished": true,
+  "hideTimeline": true,
+  "internalNotes": "",
+  "addCountryMode": "disabled",
+  "selectedEntityNames": [
+    "Kyrgyzstan",
+    "Mexico",
+    "Senegal",
+    "Bulgaria",
+    "Burkina Faso",
+    "Finland",
+    "Jordan",
+    "Kazakhstan",
+    "Morocco",
+    "Netherlands",
+    "Papua New Guinea",
+    "Samoa",
+    "Solomon Islands",
+    "Thailand"
+  ]
+}

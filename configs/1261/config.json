@@ -1,0 +1,93 @@
+{
+  "id": 1261,
+  "map": {
+    "time": "latest",
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "World"
+    ]
+  },
+  "slug": "global-fossil-fuel-consumption",
+  "type": "StackedArea",
+  "title": "Global fossil fuel consumption",
+  "yAxis": {
+    "min": 0
+  },
+  "maxTime": "latest",
+  "version": 9,
+  "subtitle": "Global primary energy consumption by fossil fuel source, measured in terawatt-hours (TWh).",
+  "originUrl": "https://ourworldindata.org/fossil-fuels/",
+  "colorScale": {
+    "binningStrategy": "equalInterval"
+  },
+  "dimensions": [
+    {
+      "display": {
+        "name": "Gas",
+        "unit": "terawatt-hours",
+        "color": "#6d3e91",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "conversionFactor": 1,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576030
+    },
+    {
+      "display": {
+        "name": "Oil",
+        "unit": "terawatt-hours",
+        "color": "#c15065",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "conversionFactor": 1,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576038
+    },
+    {
+      "display": {
+        "name": "Coal",
+        "unit": "terawatt-hours",
+        "color": "#883039",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true,
+        "conversionFactor": 1,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 576032
+    }
+  ],
+  "sourceDesc": "Our World in Data based on Vaclav Smil (2017) and BP Statistical Review of World Energy",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "selectedEntityColors": {
+    "World": "#818282"
+  },
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

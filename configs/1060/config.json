@@ -1,0 +1,79 @@
+{
+  "id": 1060,
+  "map": {
+    "time": 1870,
+    "colorScale": {
+      "baseColorScheme": "BuGn",
+      "binningStrategy": "equalInterval",
+      "colorSchemeInvert": false,
+      "legendDescription": "",
+      "customNumericColorsActive": false
+    },
+    "variableId": 8867,
+    "timeTolerance": 1
+  },
+  "data": {
+    "availableEntities": [
+      "England"
+    ]
+  },
+  "slug": "output-of-key-industrial-sectors-in-england-and-the-uk",
+  "title": "Output of key industrial sectors in England and the UK",
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "scaleType": "log",
+    "canChangeScaleType": true
+  },
+  "version": 5,
+  "originUrl": "ourworldindata.org/economic-growth",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Total Industry",
+        "tolerance": 5,
+        "isProjection": false,
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 8867
+    },
+    {
+      "display": {
+        "name": "Metals and Mining",
+        "tolerance": 5,
+        "isProjection": false,
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 8864
+    },
+    {
+      "display": {
+        "name": "Textiles and Leather",
+        "tolerance": 5,
+        "isProjection": false,
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 8865
+    },
+    {
+      "display": {
+        "name": "Other Industries",
+        "tolerance": 5,
+        "isProjection": false,
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 8866
+    }
+  ],
+  "isPublished": true,
+  "selectedEntityNames": [
+    "England"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "entity": true
+  }
+}

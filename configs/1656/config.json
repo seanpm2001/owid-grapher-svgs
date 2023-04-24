@@ -1,0 +1,72 @@
+{
+  "id": 1656,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customNumericMinValue": 0,
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": [
+      "Kenya",
+      "Mozambique",
+      "Nigeria",
+      "Senegal",
+      "Tanzania",
+      "Togo",
+      "Uganda"
+    ]
+  },
+  "slug": "percentage-of-teachers-absent-from-class",
+  "type": "DiscreteBar",
+  "title": "Percentage of teachers absent from class",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "version": 2,
+  "subtitle": "Teachers are marked as absent from class if during an unannounced visit, they are absent from school or present at school but absent from the classroom. Otherwise, they are marked as present.",
+  "hasMapTab": false,
+  "originUrl": "https://ourworldindata.org/teachers-and-professors",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "id": 11297,
+      "order": 0,
+      "chartId": 1656,
+      "display": {},
+      "property": "y",
+      "variableId": 65419
+    }
+  ],
+  "hasChartTab": true,
+  "isPublished": true,
+  "hideTimeline": true,
+  "internalNotes": "",
+  "addCountryMode": "add-country",
+  "selectedEntityNames": [
+    "Kenya",
+    "Mozambique",
+    "Nigeria",
+    "Senegal",
+    "Tanzania",
+    "Togo",
+    "Uganda"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

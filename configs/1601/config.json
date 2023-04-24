@@ -1,0 +1,57 @@
+{
+  "id": 1601,
+  "map": {
+    "time": "latest",
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "United States"
+    ]
+  },
+  "slug": "measles-cases-and-death",
+  "title": "Reported cases and deaths of measles",
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "canChangeScaleType": true
+  },
+  "version": 7,
+  "originUrl": "https://ourworldindata.org/vaccination/",
+  "colorScale": {
+    "binningStrategy": "equalInterval"
+  },
+  "dimensions": [
+    {
+      "display": {
+        "name": "Reported Measles Cases"
+      },
+      "property": "y",
+      "variableId": 65375
+    },
+    {
+      "display": {
+        "name": "Reported Measles Deaths"
+      },
+      "property": "y",
+      "variableId": 65377
+    },
+    {
+      "property": "y",
+      "variableId": 65376
+    },
+    {
+      "property": "y",
+      "variableId": 65378
+    }
+  ],
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "invertColorScheme": true,
+  "selectedEntityNames": [
+    "United States"
+  ]
+}

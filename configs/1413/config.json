@@ -1,0 +1,160 @@
+{
+  "id": 1413,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "United Kingdom",
+      "France",
+      "Belgium",
+      "Netherlands",
+      "Germany",
+      "Switzerland",
+      "Italy",
+      "Spain",
+      "Sweden",
+      "Poland",
+      "Russia",
+      "United States",
+      "Japan",
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Brazil",
+      "Bulgaria",
+      "Canada",
+      "Ukraine",
+      "Turkey",
+      "South Africa",
+      "Slovakia",
+      "Singapore",
+      "Portugal",
+      "Norway",
+      "New Zealand",
+      "Morocco",
+      "Mexico",
+      "Malaysia",
+      "South Korea",
+      "Israel",
+      "Indonesia",
+      "India",
+      "Hungary",
+      "Hong Kong",
+      "Greece",
+      "Denmark",
+      "Czechia",
+      "Cuba",
+      "Croatia",
+      "China",
+      "Taiwan",
+      "Africa",
+      "Asia",
+      "Europe",
+      "Oceania",
+      "North America",
+      "South America",
+      "World",
+      "High-income countries",
+      "Upper-middle-income countries",
+      "Lower-middle-income countries",
+      "European Union (27)",
+      "Algeria",
+      "Slovenia",
+      "Finland",
+      "Estonia",
+      "Peru",
+      "Moldova",
+      "Ireland",
+      "Tunisia",
+      "Kazakhstan",
+      "Luxembourg",
+      "Egypt",
+      "Romania",
+      "San Marino",
+      "Cyprus",
+      "Ecuador",
+      "Montenegro",
+      "Serbia",
+      "Saudi Arabia",
+      "Lithuania",
+      "Latvia",
+      "Costa Rica",
+      "Chile",
+      "Dominican Republic",
+      "Colombia",
+      "El Salvador",
+      "Uruguay",
+      "Guatemala",
+      "Philippines",
+      "Jordan",
+      "Monaco",
+      "Nicaragua",
+      "Georgia",
+      "Tajikistan",
+      "Iceland",
+      "Belarus",
+      "Honduras",
+      "Panama",
+      "Vietnam"
+    ]
+  },
+  "slug": "patents-filed-for-renewables",
+  "title": "Patents filed for renewable energy technologies",
+  "yAxis": {
+    "min": 0
+  },
+  "maxTime": 2020,
+  "version": 4,
+  "subtitle": "Data includes energy source technologies only. It does not include technologies such as energy storage or transport. Figures in recent years are subject to a time lag; submitted patents may not yet be reflected in the data.",
+  "originUrl": "ourworldindata.org/energy",
+  "colorScale": {
+    "binningStrategy": "equalInterval"
+  },
+  "dimensions": [
+    {
+      "property": "y",
+      "variableId": 537743
+    },
+    {
+      "property": "y",
+      "variableId": 537747
+    },
+    {
+      "property": "y",
+      "variableId": 537746
+    },
+    {
+      "property": "y",
+      "variableId": 537750
+    },
+    {
+      "property": "y",
+      "variableId": 537744
+    },
+    {
+      "property": "y",
+      "variableId": 537745
+    },
+    {
+      "property": "y",
+      "variableId": 537726
+    },
+    {
+      "property": "y",
+      "variableId": 537737
+    }
+  ],
+  "sourceDesc": "International Renewable Energy Agency (IRENA)",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "selectedEntityNames": [
+    "World"
+  ],
+  "selectedEntityColors": {
+    "World": "#ffd53e"
+  }
+}

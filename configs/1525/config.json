@@ -1,0 +1,67 @@
+{
+  "id": 1525,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "Drought",
+      "Earthquake",
+      "Volcanic activity",
+      "Flood",
+      "Extreme weather",
+      "All disasters",
+      "Dry mass movement",
+      "Landslide",
+      "Wildfire",
+      "Extreme temperature",
+      "Fog",
+      "Glacial lake outburst"
+    ]
+  },
+  "slug": "economic-damage-from-natural-disasters",
+  "type": "StackedBar",
+  "title": "Economic damage by natural disaster type",
+  "yAxis": {
+    "min": 0
+  },
+  "version": 10,
+  "subtitle": "Global economic damage from natural disasters, differentiated by disaster category and measured in US$ per year.",
+  "originUrl": "https://ourworldindata.org/natural-disasters",
+  "colorScale": {
+    "binningStrategy": "equalInterval"
+  },
+  "dimensions": [
+    {
+      "display": {
+        "unit": "US$",
+        "tolerance": 5,
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539610
+    }
+  ],
+  "entityType": "disaster category",
+  "sourceDesc": "EM-DAT, CRED / Université catholique de Louvain, Brussels (Belgium)",
+  "isPublished": true,
+  "baseColorScheme": "OwidCategoricalA",
+  "entityTypePlural": "disaster categories",
+  "hideRelativeToggle": true,
+  "selectedEntityNames": [
+    "Glacial lake outburst",
+    "Fog",
+    "Dry mass movement",
+    "Landslide",
+    "Volcanic activity",
+    "Extreme temperature",
+    "Wildfire",
+    "Drought",
+    "Flood",
+    "Earthquake",
+    "Extreme weather"
+  ]
+}

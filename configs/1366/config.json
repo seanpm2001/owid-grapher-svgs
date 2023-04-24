@@ -1,0 +1,74 @@
+{
+  "id": 1366,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval"
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "Anthracite",
+      "Diesel Oil",
+      "Biodiesels",
+      "Biogasoline",
+      "Charcoal",
+      "Peat",
+      "Coke",
+      "Oil Shale & Tar Sands",
+      "Sub-Bituminous Coal",
+      "Crude Oil",
+      "Bitumen",
+      "Shale Oil",
+      "Jet Gasoline",
+      "Aviation Gasoline",
+      "Natural Gas",
+      "Lignite",
+      "Motor Gasoline"
+    ]
+  },
+  "slug": "carbon-dioxide-emissions-factor",
+  "type": "DiscreteBar",
+  "title": "Carbon dioxide emissions factor",
+  "yAxis": {
+    "min": 0
+  },
+  "version": 5,
+  "subtitle": "Carbon dioxide (CO₂) emissions factor, measured in kilograms of CO₂ produced per megawatt-hour (MWh) of energy produced from a given fossil fuel source.",
+  "originUrl": "https://ourworldindata.org/fossil-fuels",
+  "dimensions": [
+    {
+      "display": {
+        "shortUnit": "kgCO₂",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 42753
+    }
+  ],
+  "entityType": "energy source",
+  "sourceDesc": "Intergovernmental Panel on Climate Change (IPCC)",
+  "isPublished": true,
+  "hideTimeline": true,
+  "selectedEntityNames": [
+    "Lignite",
+    "Aviation Gasoline",
+    "Bitumen",
+    "Shale Oil",
+    "Anthracite",
+    "Charcoal",
+    "Coke",
+    "Crude Oil",
+    "Diesel Oil",
+    "Jet Gasoline",
+    "Motor Gasoline",
+    "Natural Gas",
+    "Oil Shale & Tar Sands",
+    "Peat",
+    "Sub-Bituminous Coal"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

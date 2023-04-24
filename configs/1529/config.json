@@ -1,0 +1,106 @@
+{
+  "id": 1529,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customNumericMinValue": 0,
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": []
+  },
+  "slug": "number-of-teachers-across-education-levels",
+  "type": "StackedArea",
+  "title": "Number of teachers across education levels",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "minTime": 1970,
+  "version": 5,
+  "subtitle": "Total number of teachers in public and private education institutions. Teachers are persons employed full time or part time in an official capacity to guide and direct the learning experience of pupils and students, irrespective of their qualifications or the delivery mechanism, i.e. face-to-face and/or at a distance.",
+  "hasMapTab": false,
+  "originUrl": "https://ourworldindata.org/teachers-and-professors",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "id": 10159,
+      "order": 0,
+      "chartId": 1529,
+      "display": {
+        "name": "Pre-primary education",
+        "shortUnit": " "
+      },
+      "property": "y",
+      "variableId": 170796
+    },
+    {
+      "id": 10160,
+      "order": 1,
+      "chartId": 1529,
+      "display": {
+        "name": "Primary education",
+        "shortUnit": " "
+      },
+      "property": "y",
+      "variableId": 170839
+    },
+    {
+      "id": 10161,
+      "order": 2,
+      "chartId": 1529,
+      "display": {
+        "name": "Lower secondary education",
+        "shortUnit": " "
+      },
+      "property": "y",
+      "variableId": 171898
+    },
+    {
+      "id": 10162,
+      "order": 3,
+      "chartId": 1529,
+      "display": {
+        "name": "Upper secondary education",
+        "shortUnit": " "
+      },
+      "property": "y",
+      "variableId": 171904
+    },
+    {
+      "id": 10163,
+      "order": 4,
+      "chartId": 1529,
+      "display": {
+        "name": "Tertiary education",
+        "shortUnit": " "
+      },
+      "property": "y",
+      "variableId": 170933
+    }
+  ],
+  "hasChartTab": true,
+  "isPublished": true,
+  "internalNotes": "",
+  "addCountryMode": "disabled",
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "id": 1471,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "United States",
+      "Japan",
+      "Afghanistan",
+      "Bahrain",
+      "Bangladesh",
+      "Belarus",
+      "Botswana",
+      "Yemen",
+      "United Arab Emirates",
+      "Thailand",
+      "Syria",
+      "Sudan",
+      "Somalia",
+      "Vietnam",
+      "Singapore",
+      "Saudi Arabia",
+      "Pakistan",
+      "Nigeria",
+      "Mongolia",
+      "Malaysia",
+      "Libya",
+      "Kenya",
+      "Jordan",
+      "Jamaica",
+      "Iraq",
+      "Iran",
+      "Indonesia",
+      "India",
+      "Gambia",
+      "Ethiopia",
+      "Equatorial Guinea",
+      "China",
+      "Chad",
+      "Taiwan",
+      "Kuwait",
+      "World (excluding China)",
+      "Egypt",
+      "North Korea",
+      "Palestine",
+      "Oman",
+      "South Sudan",
+      "United Kingdom",
+      "Ireland",
+      "France",
+      "Belgium",
+      "Netherlands",
+      "Germany",
+      "Switzerland",
+      "Italy",
+      "Spain",
+      "Sweden",
+      "Poland",
+      "Russia",
+      "Albania",
+      "Algeria",
+      "Andorra",
+      "Angola",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Azerbaijan",
+      "Bahamas",
+      "Barbados",
+      "Belize",
+      "Benin",
+      "Bhutan",
+      "Bolivia",
+      "Bosnia and Herzegovina",
+      "Brazil",
+      "Brunei",
+      "Bulgaria",
+      "Burkina Faso",
+      "Burundi",
+      "Cambodia",
+      "Cameroon",
+      "Canada",
+      "Cape Verde",
+      "Zambia",
+      "Uzbekistan",
+      "Uruguay",
+      "Tanzania",
+      "North Macedonia",
+      "Ukraine",
+      "Uganda",
+      "Turkmenistan",
+      "Turkey",
+      "Tunisia",
+      "Trinidad and Tobago",
+      "Togo",
+      "Tajikistan",
+      "Eswatini",
+      "Zimbabwe",
+      "South Africa",
+      "Slovenia",
+      "Slovakia",
+      "Sierra Leone",
+      "Serbia",
+      "Senegal",
+      "Rwanda",
+      "Romania",
+      "Puerto Rico",
+      "Guinea-Bissau",
+      "Portugal",
+      "Philippines",
+      "Peru",
+      "Paraguay",
+      "Papua New Guinea",
+      "Panama",
+      "Norway",
+      "Niger",
+      "Nicaragua",
+      "New Zealand",
+      "Nepal",
+      "Namibia",
+      "Mozambique",
+      "Morocco",
+      "Moldova",
+      "Mexico",
+      "Mauritania",
+      "Mali",
+      "Malawi",
+      "Madagascar",
+      "Lithuania",
+      "Liberia",
+      "Latvia",
+      "Lesotho",
+      "Lebanon",
+      "Laos",
+      "Kyrgyzstan",
+      "South Korea",
+      "Kazakhstan",
+      "Israel",
+      "Hungary",
+      "Honduras",
+      "Sri Lanka",
+      "Myanmar",
+      "Cote d'Ivoire",
+      "Haiti",
+      "Guyana",
+      "Guinea",
+      "Guatemala",
+      "Greece",
+      "Ghana",
+      "Georgia",
+      "Gabon",
+      "Djibouti",
+      "Finland",
+      "Estonia",
+      "Eritrea",
+      "Dominican Republic",
+      "Denmark",
+      "Czechia",
+      "Cyprus",
+      "Cuba",
+      "Croatia",
+      "Costa Rica",
+      "Democratic Republic of Congo",
+      "Congo",
+      "Comoros",
+      "Colombia",
+      "Chile",
+      "Central African Republic",
+      "Bermuda",
+      "Solomon Islands",
+      "Cook Islands",
+      "Dominica",
+      "Ecuador",
+      "Fiji",
+      "Kiribati",
+      "Greenland",
+      "Grenada",
+      "Iceland",
+      "Luxembourg",
+      "Maldives",
+      "Malta",
+      "Mauritius",
+      "Monaco",
+      "Montenegro",
+      "Nauru",
+      "Vanuatu",
+      "Micronesia (country)",
+      "Marshall Islands",
+      "Palau",
+      "Timor",
+      "Qatar",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "San Marino",
+      "Sao Tome and Principe",
+      "Seychelles",
+      "Suriname",
+      "Tonga",
+      "Tuvalu",
+      "Venezuela",
+      "Samoa",
+      "American Samoa",
+      "Guam",
+      "United States Virgin Islands",
+      "El Salvador",
+      "Niue",
+      "Northern Mariana Islands",
+      "Tokelau",
+      "World",
+      "Northern Ireland",
+      "Scotland",
+      "England",
+      "G20",
+      "Wales",
+      "World Bank High Income",
+      "World Bank Low Income",
+      "World Bank Lower Middle Income",
+      "World Bank Upper Middle Income",
+      "OECD Countries",
+      "Latin America & Caribbean (WB)",
+      "Eastern Mediterranean Region (WHO)",
+      "Sub-Saharan Africa (WB)",
+      "Europe & Central Asia (WB)",
+      "Western Pacific Region (WHO)",
+      "South-East Asia Region (WHO)",
+      "East Asia & Pacific (WB)",
+      "European Region (WHO)",
+      "South Asia (WB)",
+      "Region of the Americas (WHO)",
+      "African Region (WHO)",
+      "Middle East & North Africa (WB)",
+      "North America (WB)",
+      "Hong Kong",
+      "Guadeloupe",
+      "Martinique",
+      "New Caledonia",
+      "Western Sahara",
+      "Wallis and Futuna",
+      "French Polynesia",
+      "Macau",
+      "French Guiana",
+      "Kosovo"
+    ]
+  },
+  "slug": "annual-number-of-deaths-by-cause",
+  "title": "Number of deaths by cause",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": 2019,
+  "minTime": 2019,
+  "version": 41,
+  "originUrl": "https://ourworldindata.org/causes-of-death",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Execution",
+        "unit": "deaths",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 42809
+    },
+    {
+      "display": {
+        "name": "Meningitis",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418745
+    },
+    {
+      "display": {
+        "name": "Dementia",
+        "unit": "deaths",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 418804
+    },
+    {
+      "display": {
+        "name": "Parkinson's disease",
+        "unit": "deaths",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 418810
+    },
+    {
+      "display": {
+        "name": "Nutritional deficiencies",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 419196
+    },
+    {
+      "display": {
+        "name": "Malaria",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418990
+    },
+    {
+      "display": {
+        "name": "Drowning",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418557
+    },
+    {
+      "display": {
+        "name": "Homicide",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418887
+    },
+    {
+      "display": {
+        "name": "Maternal disorders",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 419223
+    },
+    {
+      "display": {
+        "name": "HIV/AIDS",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418698
+    },
+    {
+      "display": {
+        "name": "Drug use disorders",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418823
+    },
+    {
+      "display": {
+        "name": "Tuberculosis",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418685
+    },
+    {
+      "display": {
+        "name": "Cardiovascular diseases",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418636
+    },
+    {
+      "display": {
+        "name": "Lower respiratory infections",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418727
+    },
+    {
+      "display": {
+        "name": "Neonatal disorders",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 419234
+    },
+    {
+      "display": {
+        "name": "Alcohol use disorders",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418816
+    },
+    {
+      "display": {
+        "name": "Suicide",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418885
+    },
+    {
+      "display": {
+        "name": "Natural disasters",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418901
+    },
+    {
+      "display": {
+        "name": "Diarrheal diseases",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418713
+    },
+    {
+      "display": {
+        "name": "Heat (hot and cold exposure)",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418752
+    },
+    {
+      "display": {
+        "name": "Cancers",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418848
+    },
+    {
+      "display": {
+        "name": "Conflict and terrorism",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418967
+    },
+    {
+      "display": {
+        "name": "Diabetes",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418924
+    },
+    {
+      "display": {
+        "name": "Kidney diseases",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418952
+    },
+    {
+      "display": {
+        "name": "Poisonings",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418583
+    },
+    {
+      "display": {
+        "name": "Protein-energy malnutrition",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 419204
+    },
+    {
+      "display": {
+        "name": "Terrorism",
+        "unit": "deaths",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 82856
+    },
+    {
+      "display": {
+        "name": "Road injuries",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418939
+    },
+    {
+      "display": {
+        "name": "Respiratory diseases",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418615
+    },
+    {
+      "display": {
+        "name": "Liver diseases",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418585
+    },
+    {
+      "display": {
+        "name": "Digestive diseases",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418594
+    },
+    {
+      "display": {
+        "name": "Fire",
+        "unit": "deaths",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 418571
+    },
+    {
+      "display": {
+        "name": "Hepatitis",
+        "unit": "deaths",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419262
+    }
+  ],
+  "sourceDesc": "IHME, Global Burden of Disease (2019)",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "baseColorScheme": "owid-distinct",
+  "invertColorScheme": true,
+  "selectedEntityNames": [
+    "World"
+  ]
+}

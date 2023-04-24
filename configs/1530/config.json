@@ -1,0 +1,111 @@
+{
+  "id": 1530,
+  "map": {
+    "time": 2010,
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customNumericMinValue": 0,
+      "customHiddenCategories": {}
+    },
+    "projection": "World",
+    "variableId": 170736
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": [
+      "Benin",
+      "Bulgaria",
+      "Cambodia",
+      "Cote d'Ivoire",
+      "Djibouti",
+      "Egypt",
+      "Georgia",
+      "Guinea-Bissau",
+      "Guyana",
+      "Jamaica",
+      "Jordan",
+      "Kazakhstan",
+      "Kenya",
+      "Lebanon",
+      "Macedonia",
+      "Mali",
+      "Moldova",
+      "Palestine",
+      "Papua New Guinea",
+      "Paraguay",
+      "Russia",
+      "Samoa",
+      "Serbia",
+      "Solomon Islands",
+      "Tunisia",
+      "Uganda",
+      "Yemen"
+    ]
+  },
+  "slug": "saber-rating-of-education-policies-aimed-at-preparing-teachers-with-training",
+  "type": "DiscreteBar",
+  "title": "SABER rating of education policies aimed at preparing teachers with training",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "version": 3,
+  "subtitle": "Shown is the rating score of each country's policies aimed at preparing teachers with training and experience. The rating scores denote: 1=Latent; 2=Emerging; 3=Established; 4=Advanced. These scores come from an assessment of whether minimum criteria are met. These include assessing whether (i) there are opportunities for professional development, and (ii) teacher professional development opportunities are assigned based on perceived needs.",
+  "hasMapTab": false,
+  "originUrl": "https://ourworldindata.org/teachers-and-professors",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "id": 10173,
+      "order": 0,
+      "chartId": 1530,
+      "display": {
+        "tolerance": 100
+      },
+      "property": "y",
+      "variableId": 170736
+    }
+  ],
+  "hasChartTab": true,
+  "isPublished": true,
+  "hideTimeline": true,
+  "internalNotes": "",
+  "addCountryMode": "add-country",
+  "selectedEntityNames": [
+    "Bulgaria",
+    "Tunisia",
+    "Jordan",
+    "Benin",
+    "Cambodia",
+    "Cote d'Ivoire",
+    "Djibouti",
+    "Egypt",
+    "Georgia",
+    "Guinea-Bissau",
+    "Guyana",
+    "Jamaica",
+    "Kazakhstan",
+    "Kenya",
+    "Lebanon",
+    "North Macedonia",
+    "Mali",
+    "Moldova",
+    "Palestine",
+    "Papua New Guinea",
+    "Paraguay",
+    "Russia",
+    "Samoa",
+    "Serbia",
+    "Solomon Islands",
+    "Uganda",
+    "Yemen"
+  ]
+}

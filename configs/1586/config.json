@@ -1,0 +1,98 @@
+{
+  "id": 1586,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericColors": [],
+      "customNumericLabels": [],
+      "customNumericValues": [],
+      "customCategoryColors": {},
+      "customCategoryLabels": {},
+      "customNumericMinValue": 0,
+      "customHiddenCategories": {}
+    },
+    "projection": "World"
+  },
+  "tab": "chart",
+  "data": {
+    "availableEntities": [
+      "Argentina",
+      "Belgium",
+      "Bolivia",
+      "Botswana",
+      "Brazil",
+      "Chile",
+      "China",
+      "Colombia",
+      "Costa Rica",
+      "Denmark",
+      "Egypt",
+      "Ethiopia",
+      "Finland",
+      "France",
+      "Germany",
+      "Ghana",
+      "Hong Kong",
+      "India",
+      "Indonesia",
+      "Italy",
+      "Japan",
+      "Kenya",
+      "Malawi",
+      "Malaysia",
+      "Mauritius",
+      "Mexico",
+      "Morocco",
+      "Netherlands",
+      "Nigeria",
+      "Peru",
+      "Philippines",
+      "Senegal",
+      "Singapore",
+      "South Africa",
+      "South Korea",
+      "Spain",
+      "Sweden",
+      "Taiwan",
+      "Tanzania",
+      "Thailand",
+      "United Kingdom",
+      "United States",
+      "Venezuela",
+      "Zambia"
+    ]
+  },
+  "slug": "share-of-agriculture-in-total-employment",
+  "type": "LineChart",
+  "title": "Share of agriculture in total employment",
+  "xAxis": {
+    "scaleType": "linear"
+  },
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "scaleType": "linear"
+  },
+  "version": 2,
+  "hasMapTab": false,
+  "originUrl": "ourworldindata.org/employment-in-agriculture",
+  "stackMode": "absolute",
+  "dimensions": [
+    {
+      "id": 10994,
+      "order": 0,
+      "chartId": 1586,
+      "display": {},
+      "property": "y",
+      "variableId": 8674
+    }
+  ],
+  "hasChartTab": true,
+  "isPublished": true,
+  "internalNotes": "",
+  "addCountryMode": "add-country",
+  "hideRelativeToggle": true,
+  "selectedEntityNames": [
+    "Ethiopia"
+  ]
+}

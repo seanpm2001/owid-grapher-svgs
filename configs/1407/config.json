@@ -1,0 +1,91 @@
+{
+  "id": 1407,
+  "map": {
+    "time": "latest",
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "World"
+    ]
+  },
+  "slug": "renewable-energy-consumption",
+  "type": "StackedArea",
+  "title": "Renewable energy consumption",
+  "yAxis": {
+    "min": 0
+  },
+  "maxTime": "latest",
+  "minTime": 1800,
+  "version": 13,
+  "subtitle": "Renewable energy consumption measured in terawatt-hours (TWh) per year. Traditional biomass refers to the consumption of fuelwood, forestry products, animal and agricultural wastes.",
+  "originUrl": "https://ourworldindata.org/renewable-energy",
+  "dimensions": [
+    {
+      "display": {
+        "color": "#578145",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576039
+    },
+    {
+      "display": {
+        "color": "#e56e5a",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576042
+    },
+    {
+      "display": {
+        "color": "#bc8e5a",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576028
+    },
+    {
+      "display": {
+        "color": "#00295b",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576046
+    },
+    {
+      "display": {
+        "color": "#286bbb",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576031
+    },
+    {
+      "display": {
+        "color": "#9a5129",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 576044
+    }
+  ],
+  "sourceDesc": "Our World in Data based on Vaclav Smil (2017) and BP Statistical Review of World Energy",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "selectedEntityColors": {
+    "World": "#818282"
+  },
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

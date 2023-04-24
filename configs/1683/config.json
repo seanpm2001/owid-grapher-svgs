@@ -1,0 +1,52 @@
+{
+  "id": 1683,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "World"
+    ]
+  },
+  "slug": "transistors-per-microprocessor",
+  "title": "Moore's law: The number of transistors per microprocessor",
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "scaleType": "log",
+    "canChangeScaleType": true
+  },
+  "details": {
+    "tech": {
+      "moore_law": {
+        "id": 81,
+        "term": "moore_law",
+        "title": "Moore's law",
+        "content": "Moore's law is the observation that the number of transistors in a dense integrated circuit doubles about every two years, because of improvements in production.",
+        "category": "tech"
+      }
+    }
+  },
+  "version": 14,
+  "subtitle": "The number of transistors that fit into a microprocessor. The observation that the number of transistors on an integrated circuit doubles approximately every two years is called [Moore's law](hover::tech::moore_law).",
+  "originUrl": "ourworldindata.org/technological-change",
+  "dimensions": [
+    {
+      "property": "y",
+      "variableId": 576780
+    }
+  ],
+  "hideLegend": true,
+  "isPublished": true,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

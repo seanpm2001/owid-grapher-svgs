@@ -1,0 +1,89 @@
+{
+  "id": 1801,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "YlOrRd",
+      "binningStrategy": "equalInterval",
+      "colorSchemeInvert": true,
+      "customNumericMinValue": 0
+    },
+    "projection": "Africa",
+    "variableId": 171062,
+    "timeTolerance": 5
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "Equatorial Guinea",
+      "Cote d'Ivoire",
+      "Djibouti",
+      "Sub-Saharan Africa",
+      "Sub-Saharan Africa (excluding high-income countries)",
+      "Angola",
+      "Benin",
+      "Burkina Faso",
+      "Burundi",
+      "Cape Verde",
+      "Tanzania",
+      "Togo",
+      "Senegal",
+      "Rwanda",
+      "Guinea-Bissau",
+      "Niger",
+      "Namibia",
+      "Guinea",
+      "Eritrea",
+      "Democratic Republic of Congo",
+      "Congo",
+      "Chad",
+      "Central African Republic",
+      "Mauritius",
+      "Cameroon",
+      "Uganda",
+      "Eswatini",
+      "Mali",
+      "Malawi",
+      "Madagascar",
+      "Ghana",
+      "Gambia",
+      "Gabon",
+      "Seychelles",
+      "Algeria",
+      "Botswana",
+      "Sudan",
+      "Zimbabwe",
+      "South Africa",
+      "Sierra Leone",
+      "Morocco",
+      "Mauritania",
+      "Ethiopia",
+      "Comoros",
+      "Sao Tome and Principe",
+      "Arab World",
+      "Tunisia"
+    ]
+  },
+  "slug": "percentage-of-primary-schools-with-toilets",
+  "title": "Percentage of primary schools with toilets",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "version": 4,
+  "subtitle": "Share of public primary schools with a pit latrine, an improved pit latrine, a flush toilet, a pour-flush toilet or a composting toilet. Data available for African countries only.",
+  "hasMapTab": true,
+  "originUrl": "https://ourworldindata.org/edu-quality-key-facts",
+  "dimensions": [
+    {
+      "property": "y",
+      "variableId": 171062
+    }
+  ],
+  "hasChartTab": false,
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Benin",
+    "Arab World",
+    "Botswana"
+  ]
+}

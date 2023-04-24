@@ -1,0 +1,100 @@
+{
+  "id": 1400,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "YlGn",
+      "binningStrategy": "manual",
+      "customNumericValues": [
+        10,
+        25,
+        50,
+        100,
+        250,
+        500
+      ],
+      "customNumericMinValue": 0,
+      "binningStrategyBinCount": 6
+    },
+    "variableId": 539897
+  },
+  "data": {
+    "availableEntities": [
+      "United Kingdom",
+      "France",
+      "Belgium",
+      "Netherlands",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Sweden",
+      "Poland",
+      "United States",
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Brazil",
+      "Canada",
+      "Thailand",
+      "Portugal",
+      "Mexico",
+      "South Korea",
+      "Indonesia",
+      "India",
+      "Finland",
+      "Colombia",
+      "China",
+      "Africa",
+      "Europe",
+      "North America",
+      "European Union",
+      "World",
+      "OECD",
+      "Middle East",
+      "Asia Pacific",
+      "Non-OECD",
+      "South & Central America",
+      "CIS"
+    ]
+  },
+  "slug": "biofuel-production",
+  "title": "Biofuel energy production",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "minTime": 1990,
+  "version": 10,
+  "subtitle": "Total biofuel production is measured in terawatt-hours (TWh) per year. Biofuel production includes both bioethanol and biodiesel.",
+  "hasMapTab": true,
+  "originUrl": "https://ourworldindata.org/renewable-energy",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Biofuels",
+        "unit": "terawatt-hours",
+        "shortUnit": "TWh",
+        "tableDisplay": {
+          "hideAbsoluteChange": false,
+          "hideRelativeChange": false
+        },
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539897
+    }
+  ],
+  "sourceDesc": "BP Statistical Review of World Energy",
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Mexico",
+    "Germany",
+    "Brazil",
+    "United States",
+    "United Kingdom"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

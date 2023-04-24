@@ -1,0 +1,182 @@
+{
+  "id": 1299,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "equalInterval",
+      "customNumericMinValue": 0
+    }
+  },
+  "data": {
+    "availableEntities": [
+      "Ireland",
+      "France",
+      "Belgium",
+      "Germany",
+      "Switzerland",
+      "Italy",
+      "Spain",
+      "Sweden",
+      "Poland",
+      "Russia",
+      "United States",
+      "Japan",
+      "Albania",
+      "Argentina",
+      "Australia",
+      "Austria",
+      "Brazil",
+      "Bulgaria",
+      "Canada",
+      "North Macedonia",
+      "Thailand",
+      "Romania",
+      "Portugal",
+      "Peru",
+      "Norway",
+      "New Zealand",
+      "Mexico",
+      "Latvia",
+      "South Korea",
+      "Israel",
+      "Indonesia",
+      "Hungary",
+      "Hong Kong",
+      "Greece",
+      "Finland",
+      "Denmark",
+      "Czechia",
+      "Chile",
+      "Iceland",
+      "Liechtenstein",
+      "Luxembourg",
+      "Netherlands",
+      "Uruguay",
+      "Turkey",
+      "Tunisia",
+      "Slovakia",
+      "Serbia",
+      "Macao",
+      "United Kingdom",
+      "Azerbaijan",
+      "Slovenia",
+      "Lithuania",
+      "Kyrgyzstan",
+      "Jordan",
+      "Estonia",
+      "Croatia",
+      "Colombia",
+      "Montenegro",
+      "Qatar",
+      "United Arab Emirates",
+      "Trinidad and Tobago",
+      "Singapore",
+      "Panama",
+      "Moldova",
+      "Malaysia",
+      "Kazakhstan",
+      "Georgia",
+      "Costa Rica",
+      "China",
+      "Malta",
+      "Mauritius",
+      "Vietnam",
+      "Cyprus",
+      "Algeria",
+      "Lebanon",
+      "Dominican Republic",
+      "Kosovo"
+    ]
+  },
+  "note": "The cut-offs for the levels are the following: Below level 1B (below or equal to 262); level 1B (higher than 262); level 1A (higher than 335); level 2 (higher than 407); level 3 (higher than 480) level 4 (higher than 553); level 5 (higher than 626); and level 6 (higher than 698).",
+  "slug": "pisa-scores-of-15-year-olds-by-reading-proficiency-level",
+  "type": "StackedDiscreteBar",
+  "title": "PISA scores of 15-year-olds by reading proficiency level",
+  "yAxis": {
+    "min": 0
+  },
+  "sortBy": "column",
+  "minTime": 2000,
+  "version": 11,
+  "originUrl": "https://ourworldindata.org/quality-of-education",
+  "sortOrder": "desc",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Level 6",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 170022
+    },
+    {
+      "display": {
+        "name": "Level 5",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 170019
+    },
+    {
+      "display": {
+        "name": "Level 4",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 170016
+    },
+    {
+      "display": {
+        "name": "Level 3",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 170013
+    },
+    {
+      "display": {
+        "name": "Level 2",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 170010
+    },
+    {
+      "display": {
+        "name": "Level 1A",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 170004
+    },
+    {
+      "display": {
+        "name": "Level 1B",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 170007
+    },
+    {
+      "display": {
+        "name": "Below Level 1B",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 170001
+    }
+  ],
+  "isPublished": true,
+  "sortColumnSlug": "170022",
+  "baseColorScheme": "RdYlGn",
+  "hideTotalValueLabel": true,
+  "selectedEntityNames": [
+    "China",
+    "United States",
+    "Indonesia",
+    "Brazil",
+    "Russia",
+    "Mexico",
+    "Japan",
+    "Vietnam"
+  ]
+}
