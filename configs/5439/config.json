@@ -1,0 +1,69 @@
+{
+  "id": 5439,
+  "map": {
+    "variableId": 180085
+  },
+  "data": {
+    "availableEntities": [
+      "60-69",
+      "70-79",
+      "18-39",
+      "40-49",
+      "All ages",
+      "90+",
+      "50-59",
+      "80-89"
+    ]
+  },
+  "note": "Unvaccinated people have not received any dose. Partially-vaccinated people are excluded. Fully-vaccinated people have received all doses prescribed by the initial vaccination protocol. The mortality rate is age-standardized to account for the different vaccination rates of older and younger people.",
+  "slug": "england-covid-19-mortality-rate-by-vaccination-status",
+  "title": "England: COVID-19 monthly death rate by vaccination status",
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "canChangeScaleType": true
+  },
+  "minTime": 419,
+  "version": 27,
+  "subtitle": "Death rates are calculated as the number of deaths in each group, divided by the total number of people in this group. This is given per 100,000 people.",
+  "originUrl": "https://ourworldindata.org/coronavirus",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "deaths per 100,000 people",
+        "color": "#b13507",
+        "zeroDay": "2021-01-01",
+        "yearIsDay": true,
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180085
+    },
+    {
+      "display": {
+        "color": "#3c4e66",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180086
+    }
+  ],
+  "entityType": "age group",
+  "isPublished": true,
+  "hideTimeline": true,
+  "addCountryMode": "change-country",
+  "relatedQuestions": [
+    {
+      "url": "https://ourworldindata.org/covid-deaths-by-vaccination",
+      "text": "Our post on death rates by vaccination status"
+    }
+  ],
+  "selectedEntityNames": [
+    "All ages"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

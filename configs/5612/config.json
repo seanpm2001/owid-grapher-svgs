@@ -1,0 +1,90 @@
+{
+  "id": 5612,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "PuBu",
+      "binningStrategy": "manual",
+      "customNumericValues": [
+        500,
+        1000,
+        5000,
+        10000,
+        50000,
+        100000
+      ],
+      "binningStrategyBinCount": 6
+    },
+    "variableId": 539933
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "United States",
+      "Argentina",
+      "Australia",
+      "Brazil",
+      "Zimbabwe",
+      "Portugal",
+      "China",
+      "Chile",
+      "Africa",
+      "Asia",
+      "Europe",
+      "Oceania",
+      "North America",
+      "South America",
+      "World",
+      "High-income countries",
+      "Upper-middle-income countries",
+      "Lower-middle-income countries",
+      "Rest of World (BP)"
+    ]
+  },
+  "slug": "lithium-production",
+  "title": "Lithium production",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "minTime": 1995,
+  "version": 5,
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/fossil-fuels",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Lithium Production",
+        "unit": "tonnes",
+        "shortUnit": "t",
+        "includeInTable": true,
+        "conversionFactor": 1000,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 539933
+    }
+  ],
+  "isPublished": true,
+  "selectedEntityNames": [
+    "China",
+    "Papua New Guinea",
+    "World",
+    "Argentina",
+    "Australia",
+    "Brazil",
+    "Canada",
+    "Chile",
+    "Cuba",
+    "Democratic Republic of Congo",
+    "Madagascar",
+    "Morocco",
+    "Zimbabwe",
+    "Zambia",
+    "United States",
+    "South Africa",
+    "Russia",
+    "Portugal",
+    "Philippines",
+    "New Caledonia"
+  ]
+}

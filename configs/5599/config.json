@@ -1,0 +1,58 @@
+{
+  "id": 5599,
+  "data": {
+    "availableEntities": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Americas",
+      "World",
+      "Middle East"
+    ]
+  },
+  "note": "The sources' 'best' estimates are used.",
+  "slug": "death-rate-in-conflicts",
+  "type": "StackedBar",
+  "title": "Death rate in conflicts",
+  "version": 13,
+  "subtitle": "Deaths per 100,000 people. Included are deaths of soldiers and civilians from fighting, excluded are deaths from disease or famine.",
+  "originUrl": "https://ourworldindata.org/war-and-peace",
+  "dimensions": [
+    {
+      "display": {
+        "name": "State-based conflict",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 411792
+    },
+    {
+      "display": {
+        "name": "Non-state conflict",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 411793
+    },
+    {
+      "display": {
+        "name": "One-sided violence",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 411794
+    }
+  ],
+  "isPublished": true,
+  "addCountryMode": "disabled",
+  "relatedQuestions": [
+    {
+      "url": "https://ourworldindata.org/counting-conflict-deaths",
+      "text": "Counting world conflict deaths: why do sources differ?"
+    }
+  ],
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "World"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 5614,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "YlOrBr",
+      "binningStrategy": "manual",
+      "customNumericValues": [
+        5000,
+        10000,
+        50000,
+        100000,
+        500000,
+        1000000
+      ],
+      "binningStrategyBinCount": 6
+    },
+    "variableId": 539928
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "Russia",
+      "Brazil",
+      "Canada",
+      "Ukraine",
+      "Turkey",
+      "Norway",
+      "Mozambique",
+      "Mexico",
+      "Madagascar",
+      "India",
+      "Sri Lanka",
+      "China",
+      "Africa",
+      "Asia",
+      "Europe",
+      "North America",
+      "South America",
+      "World",
+      "High-income countries",
+      "Upper-middle-income countries",
+      "Lower-middle-income countries",
+      "Low-income countries",
+      "Rest of World (BP)"
+    ]
+  },
+  "slug": "graphite-production",
+  "title": "Graphite production",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "minTime": 1995,
+  "version": 5,
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/fossil-fuels",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Graphite production",
+        "unit": "tonnes",
+        "shortUnit": "t",
+        "includeInTable": true,
+        "conversionFactor": 1000,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 539928
+    }
+  ],
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Brazil",
+    "Canada",
+    "China",
+    "India",
+    "Madagascar",
+    "Mexico",
+    "Mozambique",
+    "Norway",
+    "Russia",
+    "Sri Lanka",
+    "Turkey",
+    "Ukraine",
+    "World"
+  ]
+}

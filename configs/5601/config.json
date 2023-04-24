@@ -1,0 +1,65 @@
+{
+  "id": 5601,
+  "data": {
+    "availableEntities": [
+      "World"
+    ]
+  },
+  "slug": "nuclear-weapons-proliferation",
+  "type": "StackedBar",
+  "title": "Nuclear weapons proliferation",
+  "version": 24,
+  "subtitle": "Number of countries that consider, pursue, or possess nuclear weapons.",
+  "originUrl": "https://ourworldindata.org/nuclear-weapons",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Considering",
+        "color": "#bc8e5a",
+        "shortUnit": "",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 411801
+    },
+    {
+      "display": {
+        "name": "Pursuing",
+        "color": "#e56e5a",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 411802
+    },
+    {
+      "display": {
+        "name": "Possessing",
+        "color": "#883039",
+        "includeInTable": true,
+        "numDecimalPlaces": 0
+      },
+      "property": "y",
+      "variableId": 411803
+    }
+  ],
+  "sourceDesc": "OWID based on Bleek (2017) and Nuclear Threat Initiative (2022)",
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "relatedQuestions": [
+    {
+      "url": "https://ourworldindata.org/grapher/nuclear-weapons-states",
+      "text": "Which countries have nuclear weapons?"
+    }
+  ],
+  "hideRelativeToggle": true,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 5230,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "OrRd",
+      "binningStrategy": "equalInterval"
+    },
+    "variableId": 573094
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "United Kingdom",
+      "Spain",
+      "Antigua and Barbuda",
+      "Argentina",
+      "Australia",
+      "Azerbaijan",
+      "Bahamas",
+      "Brazil",
+      "Romania",
+      "Peru",
+      "Moldova",
+      "Lithuania",
+      "Kenya",
+      "Grenada"
+    ]
+  },
+  "slug": "share-of-small-with-illicit-origin",
+  "title": "Share of small arms and light weapons with illicit origin",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": "latest",
+  "version": 8,
+  "subtitle": "Small arms and light weapons include easily transportable weapons such as handguns and light machine guns.",
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/war-and-peace",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "%",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 573094
+    }
+  ],
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Antigua and Barbuda",
+    "Argentina",
+    "Azerbaijan",
+    "Kenya"
+  ]
+}

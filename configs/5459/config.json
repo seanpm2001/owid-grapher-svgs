@@ -1,0 +1,387 @@
+{
+  "id": 5459,
+  "data": {
+    "availableEntities": [
+      "France",
+      "Belgium",
+      "Italy",
+      "Slovenia",
+      "Norway",
+      "Malta",
+      "Estonia",
+      "Hungary",
+      "Romania",
+      "Bulgaria",
+      "Peru",
+      "Argentina",
+      "Canada",
+      "Sweden",
+      "Poland",
+      "Slovakia",
+      "Portugal",
+      "Lithuania",
+      "Denmark",
+      "Czechia",
+      "Cyprus",
+      "Croatia",
+      "Ireland",
+      "Netherlands",
+      "Spain",
+      "Austria",
+      "Latvia",
+      "Finland",
+      "Iceland",
+      "Luxembourg",
+      "Liechtenstein",
+      "Hong Kong",
+      "Israel",
+      "Jersey",
+      "Japan"
+    ]
+  },
+  "logo": "owid",
+  "note": "In some territories, vaccination coverage may include non-residents (such as tourists and foreign workers) so per-capita metrics may exceed 100%.",
+  "slug": "covid-booster-vaccinated-by-age",
+  "title": "Share of people with a COVID-19 booster dose by age",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "minTime": 591,
+  "version": 807,
+  "subtitle": "Share of the population in each age group that have received a booster dose against COVID-19.",
+  "originUrl": "https://ourworldindata.org/coronavirus",
+  "dimensions": [
+    {
+      "display": {
+        "name": "0-17 years",
+        "unit": "%",
+        "color": "#3c4e66",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180186
+    },
+    {
+      "display": {
+        "name": "10-19 years",
+        "color": "#00823f",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180206
+    },
+    {
+      "display": {
+        "name": "12-17 years",
+        "color": "#3c4e66",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180184
+    },
+    {
+      "display": {
+        "name": "18-24 years",
+        "color": "#b13507",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180185
+    },
+    {
+      "display": {
+        "name": "20-29 years",
+        "color": "#bc8e5a",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180195
+    },
+    {
+      "display": {
+        "name": "12-15 years",
+        "color": "#cf0a66",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180202
+    },
+    {
+      "display": {
+        "name": "16-19 years",
+        "color": "#578145",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180205
+    },
+    {
+      "display": {
+        "name": "18-29 years",
+        "color": "#b13507",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180191
+    },
+    {
+      "display": {
+        "name": "25-34 years",
+        "color": "#00847e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180177
+    },
+    {
+      "display": {
+        "name": "30-39 years",
+        "color": "#6d3e91",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180201
+    },
+    {
+      "display": {
+        "name": "40-49 years",
+        "color": "#883039",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180181
+    },
+    {
+      "display": {
+        "name": "5-11 years",
+        "color": "#c05917",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180203
+    },
+    {
+      "display": {
+        "name": "50-59 years",
+        "color": "#4c6a9c",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180189
+    },
+    {
+      "display": {
+        "name": "55-64 years",
+        "color": "#c05917",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180188
+    },
+    {
+      "display": {
+        "name": "60-69 years",
+        "color": "#d73c50",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180199
+    },
+    {
+      "display": {
+        "name": "60-64 years",
+        "color": "#d73c50",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180192
+    },
+    {
+      "display": {
+        "name": "50-54 years",
+        "color": "#4c6a9c",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180176
+    },
+    {
+      "display": {
+        "name": "55-59 years",
+        "color": "#c05917",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180178
+    },
+    {
+      "display": {
+        "name": "45-54 years",
+        "color": "#00823f",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180200
+    },
+    {
+      "display": {
+        "name": "25-49 years",
+        "color": "#00847e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180196
+    },
+    {
+      "display": {
+        "name": "65-69 years",
+        "color": "#287669",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180193
+    },
+    {
+      "display": {
+        "name": "70-74 years",
+        "color": "#8c4569",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180190
+    },
+    {
+      "display": {
+        "name": "75+ years",
+        "color": "#bc8e5a",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180183
+    },
+    {
+      "display": {
+        "name": "80+ years",
+        "color": "#bc8e5a",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180182
+    },
+    {
+      "display": {
+        "name": "80-89 years",
+        "color": "#bc8e5a",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180204
+    },
+    {
+      "display": {
+        "name": "75-79 years",
+        "color": "#18470f",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180198
+    },
+    {
+      "display": {
+        "name": "70-79 years",
+        "color": "#8c4569",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180179
+    },
+    {
+      "display": {
+        "name": "65-74 years",
+        "color": "#287669",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180197
+    },
+    {
+      "display": {
+        "name": "10-14 years",
+        "color": "#cf0a66",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180209
+    },
+    {
+      "display": {
+        "name": "15-17 years",
+        "color": "#00823f",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180220
+    },
+    {
+      "display": {
+        "name": "5-9 years",
+        "color": "#c05917",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 180217
+    },
+    {
+      "display": {
+        "name": "90+ years",
+        "unit": "%",
+        "color": "#0f739c",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 247334
+    },
+    {
+      "display": {
+        "name": "0-19 years",
+        "unit": "%",
+        "color": "#578145",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 412063
+    },
+    {
+      "display": {
+        "name": "65+ years",
+        "unit": "%",
+        "color": "#bc8e5a",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 445645
+    },
+    {
+      "display": {
+        "name": "12-64 years",
+        "unit": "%",
+        "color": "#3c4e66",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 445646
+    }
+  ],
+  "isPublished": true,
+  "internalNotes": "Don't add any more variables to this chart.\nThere is an undocumented max number of variables, where we'll get ENAMETOOLONG errors otherwise, and this chart is right at the limit. If there's too many variables baking will fail.",
+  "addCountryMode": "change-country",
+  "selectedEntityNames": [
+    "Hong Kong"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

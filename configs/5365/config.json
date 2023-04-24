@@ -1,0 +1,209 @@
+{
+  "id": 5365,
+  "data": {
+    "availableEntities": [
+      "Africa",
+      "Africa (BP)",
+      "Algeria",
+      "Argentina",
+      "Asia",
+      "Asia Pacific (BP)",
+      "Australia",
+      "Austria",
+      "Azerbaijan",
+      "Bangladesh",
+      "Belarus",
+      "Belgium",
+      "Brazil",
+      "Bulgaria",
+      "CIS (BP)",
+      "Canada",
+      "Central America (BP)",
+      "Chile",
+      "China",
+      "Colombia",
+      "Croatia",
+      "Cyprus",
+      "Czechia",
+      "Denmark",
+      "Eastern Africa (BP)",
+      "Ecuador",
+      "Egypt",
+      "Estonia",
+      "Europe",
+      "Europe (BP)",
+      "European Union (27)",
+      "Finland",
+      "France",
+      "Germany",
+      "Greece",
+      "High-income countries",
+      "Hong Kong",
+      "Hungary",
+      "Iceland",
+      "India",
+      "Indonesia",
+      "Iran",
+      "Iraq",
+      "Ireland",
+      "Israel",
+      "Italy",
+      "Japan",
+      "Kazakhstan",
+      "Kuwait",
+      "Latvia",
+      "Lithuania",
+      "Lower-middle-income countries",
+      "Luxembourg",
+      "Malaysia",
+      "Mexico",
+      "Middle Africa (BP)",
+      "Middle East (BP)",
+      "Morocco",
+      "Netherlands",
+      "New Zealand",
+      "Non-OECD (BP)",
+      "North America",
+      "North America (BP)",
+      "North Macedonia",
+      "Norway",
+      "OECD (BP)",
+      "Oceania",
+      "Oman",
+      "Pakistan",
+      "Peru",
+      "Philippines",
+      "Poland",
+      "Portugal",
+      "Qatar",
+      "Romania",
+      "Russia",
+      "Saudi Arabia",
+      "Singapore",
+      "Slovakia",
+      "Slovenia",
+      "South Africa",
+      "South America",
+      "South Korea",
+      "South and Central America (BP)",
+      "Spain",
+      "Sri Lanka",
+      "Sweden",
+      "Switzerland",
+      "Taiwan",
+      "Thailand",
+      "Trinidad and Tobago",
+      "Turkey",
+      "Turkmenistan",
+      "USSR",
+      "Ukraine",
+      "United Arab Emirates",
+      "United Kingdom",
+      "United States",
+      "Upper-middle-income countries",
+      "Uzbekistan",
+      "Venezuela",
+      "Vietnam",
+      "Western Africa (BP)",
+      "World"
+    ]
+  },
+  "slug": "primary-energy-source-bar",
+  "type": "StackedDiscreteBar",
+  "title": "Primary energy consumption by source",
+  "sortBy": "column",
+  "minTime": "latest",
+  "version": 14,
+  "subtitle": "Primary energy is calculated based on the 'substitution method' which takes account of the inefficiencies in fossil fuel production by converting non-fossil energy into the energy inputs required if they had the same conversion losses as fossil fuels.",
+  "originUrl": "ourworldindata.org/energy",
+  "stackMode": "relative",
+  "dimensions": [
+    {
+      "display": {
+        "color": "#883039",
+        "shortUnit": "TWh",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539904
+    },
+    {
+      "display": {
+        "color": "#c15065",
+        "shortUnit": "TWh",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539946
+    },
+    {
+      "display": {
+        "color": "#6d3e91",
+        "shortUnit": "TWh",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539919
+    },
+    {
+      "display": {
+        "color": "#00847e",
+        "shortUnit": "TWh",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539935
+    },
+    {
+      "display": {
+        "color": "#286bbb",
+        "shortUnit": "TWh",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539930
+    },
+    {
+      "display": {
+        "color": "#00295b",
+        "shortUnit": "TWh",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539970
+    },
+    {
+      "display": {
+        "color": "#e56e5a",
+        "shortUnit": "TWh",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539964
+    },
+    {
+      "display": {
+        "color": "#578145",
+        "shortUnit": "TWh",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 539926
+    }
+  ],
+  "isPublished": true,
+  "variantName": "By country",
+  "sortColumnSlug": "539904",
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "United States",
+    "China",
+    "Canada",
+    "India",
+    "Brazil",
+    "South Africa",
+    "United Kingdom",
+    "France",
+    "Sweden"
+  ]
+}

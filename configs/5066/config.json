@@ -1,0 +1,279 @@
+{
+  "id": 5066,
+  "data": {
+    "availableEntities": [
+      "United Kingdom",
+      "Ireland",
+      "France",
+      "Belgium",
+      "Netherlands",
+      "Italy",
+      "Spain",
+      "United States",
+      "Japan",
+      "Argentina",
+      "Australia",
+      "Bangladesh",
+      "Brazil",
+      "Canada",
+      "United Arab Emirates",
+      "South Africa",
+      "Singapore",
+      "Mexico",
+      "India",
+      "Finland",
+      "Denmark",
+      "Chile",
+      "Qatar",
+      "Russia",
+      "Egypt",
+      "South Korea",
+      "Germany",
+      "Senegal",
+      "Saudi Arabia",
+      "Switzerland",
+      "Hong Kong",
+      "Zambia",
+      "Gambia",
+      "Norway",
+      "Peru",
+      "Slovenia",
+      "Estonia",
+      "Iceland",
+      "Latvia",
+      "Jordan",
+      "Hungary",
+      "Kenya",
+      "Luxembourg",
+      "Sweden",
+      "Austria",
+      "Philippines",
+      "Greece",
+      "Cyprus",
+      "Romania",
+      "Portugal",
+      "Lithuania",
+      "Indonesia",
+      "Poland",
+      "Zimbabwe",
+      "Slovakia",
+      "Israel",
+      "Nigeria",
+      "Malaysia",
+      "Ghana",
+      "Czechia",
+      "Bulgaria",
+      "Turkey",
+      "Malawi",
+      "Croatia",
+      "Aruba",
+      "Paraguay",
+      "Lebanon",
+      "Papua New Guinea",
+      "Pakistan",
+      "Uruguay",
+      "North Macedonia",
+      "Colombia",
+      "Thailand",
+      "Trinidad and Tobago",
+      "Panama",
+      "Dominican Republic",
+      "Ecuador",
+      "Uganda",
+      "China",
+      "Botswana",
+      "Fiji",
+      "Bahrain",
+      "Nepal",
+      "Mozambique",
+      "Guatemala",
+      "Sri Lanka",
+      "Cambodia",
+      "Mongolia",
+      "Ethiopia",
+      "Guadeloupe",
+      "Sint Maarten (Dutch part)",
+      "Kosovo",
+      "Vietnam",
+      "New Zealand",
+      "Laos",
+      "Cameroon",
+      "Maldives",
+      "Bosnia and Herzegovina",
+      "Costa Rica",
+      "Georgia",
+      "Brunei",
+      "Benin",
+      "Ukraine",
+      "Eswatini",
+      "Namibia",
+      "Jamaica",
+      "Liechtenstein",
+      "Malta",
+      "Belize",
+      "Djibouti",
+      "Seychelles",
+      "Moldova",
+      "Kazakhstan",
+      "El Salvador",
+      "Curacao",
+      "Mauritius",
+      "Iran",
+      "Taiwan",
+      "Serbia",
+      "Morocco"
+    ]
+  },
+  "note": "Recently-discovered or actively-monitored variants may be overrepresented, as suspected cases of these variants are likely to be sequenced preferentially or faster than other cases.",
+  "slug": "covid-variants-area",
+  "type": "StackedArea",
+  "title": "SARS-CoV-2 variants in analyzed sequences",
+  "version": 707,
+  "subtitle": "The number of analyzed sequences in the preceding two weeks that correspond to each variant group. This number may not reflect the complete breakdown of cases since only a fraction of all cases are sequenced.",
+  "originUrl": "ourworldindata.org/coronavirus",
+  "stackMode": "relative",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "",
+        "color": "#6d3e91",
+        "shortUnit": "",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 147460
+    },
+    {
+      "display": {
+        "unit": "",
+        "color": "#c05917",
+        "shortUnit": "",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 147468
+    },
+    {
+      "display": {
+        "unit": "",
+        "color": "#58ac8c",
+        "shortUnit": "",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 147472
+    },
+    {
+      "display": {
+        "unit": "",
+        "color": "#286bbb",
+        "shortUnit": "",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 147469
+    },
+    {
+      "display": {
+        "color": "#883039",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 450550
+    },
+    {
+      "display": {
+        "color": "#bc8e5a",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 450549
+    },
+    {
+      "display": {
+        "color": "#00295b",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 450554
+    },
+    {
+      "display": {
+        "color": "#c15065",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 450553
+    },
+    {
+      "display": {
+        "color": "#18470f",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 450551
+    },
+    {
+      "display": {
+        "color": "#9a5129",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 450552
+    },
+    {
+      "display": {
+        "color": "#e56e5a",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 537648
+    },
+    {
+      "display": {
+        "color": "#a2559c",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 538864
+    },
+    {
+      "display": {
+        "color": "#3b8e1d",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 538862
+    },
+    {
+      "display": {
+        "color": "#00847e",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 541437
+    },
+    {
+      "display": {
+        "name": "Other",
+        "unit": "",
+        "color": "#d73c50",
+        "shortUnit": "",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 147478
+    }
+  ],
+  "isPublished": true,
+  "baseColorScheme": "OwidCategoricalC",
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "France"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

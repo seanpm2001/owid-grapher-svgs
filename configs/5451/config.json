@@ -1,0 +1,86 @@
+{
+  "id": 5451,
+  "data": {
+    "availableEntities": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Oceania",
+      "North America",
+      "South America",
+      "World"
+    ]
+  },
+  "slug": "people-living-in-democracies-autocracies",
+  "type": "StackedArea",
+  "title": "People living in democracies and autocracies",
+  "version": 44,
+  "subtitle": "Political regimes are based on the criteria of the classification by Lührmann et al. (2018) and the assessment by V-Dem’s experts.",
+  "originUrl": "https://ourworldindata.org/democracy",
+  "dimensions": [
+    {
+      "display": {
+        "name": "No regime data",
+        "color": "#555555",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419403
+    },
+    {
+      "display": {
+        "name": "People living in closed autocracies",
+        "color": "#d7191c",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419399
+    },
+    {
+      "display": {
+        "name": "People living in electoral autocracies",
+        "color": "#ec9d4f",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419400
+    },
+    {
+      "display": {
+        "name": "People living in electoral democracies",
+        "color": "#6da5b8",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419401
+    },
+    {
+      "display": {
+        "name": "People living in liberal democracies",
+        "color": "#2c7bb6",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 419402
+    }
+  ],
+  "entityType": "region",
+  "sourceDesc": "OWID based on Lührmann et al. (2018); V-Dem (v13); Gapminder (2022); HYDE (2017); UN (2022)",
+  "isPublished": true,
+  "variantName": "Regimes of the World",
+  "entityTypePlural": "regions",
+  "relatedQuestions": [
+    {
+      "url": "https://ourworldindata.org/regimes-of-the-world-data",
+      "text": "The 'Regimes of the World' data: how do researchers measure democracy?"
+    }
+  ],
+  "hideRelativeToggle": false,
+  "selectedEntityNames": [
+    "World"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "changeInPrefix": true
+  }
+}

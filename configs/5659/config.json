@@ -1,0 +1,61 @@
+{
+  "id": 5659,
+  "map": {
+    "variableId": 417566
+  },
+  "data": {
+    "availableEntities": [
+      "Total",
+      "IROS",
+      "NeurIPS",
+      "ICML",
+      "CVPR",
+      "AAAI",
+      "ICRA",
+      "ACL",
+      "AAMAS",
+      "KR",
+      "ICAPS",
+      "ICCV",
+      "IJCAI",
+      "EMNLP",
+      "ICLR",
+      "UAI",
+      "FaccT"
+    ]
+  },
+  "note": "Most conferences in 2020–2021 were held virtually due to the COVID-19 pandemic.",
+  "slug": "attendance-major-artificial-intelligence-conferences",
+  "title": "Annual attendance at major artificial intelligence conferences",
+  "yAxis": {
+    "min": 0
+  },
+  "minTime": 2010,
+  "version": 25,
+  "subtitle": "Sixteen major conferences are included.",
+  "originUrl": "https://ourworldindata.org/artificial-intelligence",
+  "dimensions": [
+    {
+      "property": "y",
+      "variableId": 525783
+    }
+  ],
+  "entityType": "conference",
+  "isPublished": true,
+  "entityTypePlural": "conferences",
+  "selectedEntityNames": [
+    "Total",
+    "ICML",
+    "NeurIPS",
+    "CVPR",
+    "ICLR",
+    "AAAI",
+    "ICCV",
+    "FaccT"
+  ],
+  "hideAnnotationFieldsInTitle": {
+    "time": true,
+    "entity": true,
+    "changeInPrefix": true
+  }
+}

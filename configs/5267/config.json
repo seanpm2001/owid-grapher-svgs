@@ -1,0 +1,117 @@
+{
+  "id": 5267,
+  "map": {
+    "colorScale": {
+      "baseColorScheme": "OrRd",
+      "binningStrategy": "manual",
+      "customNumericValues": [
+        10,
+        100,
+        1000,
+        10000,
+        100000,
+        1000000
+      ]
+    },
+    "variableId": 572760,
+    "timeTolerance": 5
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "Russia",
+      "Algeria",
+      "Andorra",
+      "Argentina",
+      "Armenia",
+      "Azerbaijan",
+      "Bahrain",
+      "Bangladesh",
+      "Belarus",
+      "Belize",
+      "Benin",
+      "Bhutan",
+      "Burkina Faso",
+      "Cameroon",
+      "Cape Verde",
+      "Zambia",
+      "Uzbekistan",
+      "Tanzania",
+      "Ukraine",
+      "Tunisia",
+      "United Arab Emirates",
+      "Trinidad and Tobago",
+      "Togo",
+      "Thailand",
+      "Syria",
+      "South Africa",
+      "Singapore",
+      "Saudi Arabia",
+      "Philippines",
+      "Panama",
+      "Niger",
+      "Morocco",
+      "Moldova",
+      "Mongolia",
+      "Malaysia",
+      "Madagascar",
+      "Lebanon",
+      "Kyrgyzstan",
+      "Kenya",
+      "Jordan",
+      "Kazakhstan",
+      "Jamaica",
+      "Iraq",
+      "India",
+      "Palestine",
+      "Myanmar",
+      "Hong Kong",
+      "Guatemala",
+      "Cuba",
+      "China",
+      "Bermuda",
+      "Dominica",
+      "Ecuador",
+      "Fiji",
+      "Kuwait",
+      "Mauritius",
+      "Monaco",
+      "Saint Vincent and the Grenadines",
+      "Suriname",
+      "Reunion",
+      "Guadeloupe",
+      "French Guiana",
+      "Macao",
+      "Martinique"
+    ]
+  },
+  "slug": "hazardous-waste-generated-per-capita",
+  "title": "Hazardous waste generated per capita",
+  "yAxis": {
+    "max": 0,
+    "min": 0,
+    "canChangeScaleType": true
+  },
+  "maxTime": "latest",
+  "version": 11,
+  "subtitle": "Hazardous waste is waste with properties that make it hazardous or capable of having a harmful effect on human health or the environment. Hazardous waste ranges from industrial manufacturing process waste to domestic items such as batteries.",
+  "hasMapTab": true,
+  "originUrl": "https://ourworldindata.org/plastic-pollution",
+  "dimensions": [
+    {
+      "display": {
+        "unit": "kilograms per capita",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572760
+    }
+  ],
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Kyrgyzstan",
+    "Kazakhstan",
+    "Bhutan",
+    "Luxembourg"
+  ]
+}

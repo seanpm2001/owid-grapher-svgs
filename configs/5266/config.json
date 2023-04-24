@@ -1,0 +1,118 @@
+{
+  "id": 5266,
+  "map": {
+    "variableId": 312384
+  },
+  "data": {
+    "availableEntities": [
+      "Russia",
+      "Andorra",
+      "Armenia",
+      "Azerbaijan",
+      "Bahrain",
+      "Bangladesh",
+      "Belarus",
+      "Bhutan",
+      "Cameroon",
+      "Zambia",
+      "Tanzania",
+      "Ukraine",
+      "Tunisia",
+      "United Arab Emirates",
+      "South Africa",
+      "Niger",
+      "Morocco",
+      "Moldova",
+      "Malaysia",
+      "Madagascar",
+      "Kyrgyzstan",
+      "Jordan",
+      "Kazakhstan",
+      "Iraq",
+      "India",
+      "Palestine",
+      "Hong Kong",
+      "Guatemala",
+      "Georgia",
+      "Cuba",
+      "Bermuda",
+      "Kuwait",
+      "Mauritius",
+      "Monaco",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines",
+      "Reunion",
+      "Guadeloupe",
+      "French Guiana",
+      "Martinique",
+      "Algeria",
+      "North Macedonia",
+      "Thailand",
+      "Serbia",
+      "Kenya",
+      "Israel",
+      "Croatia",
+      "Chile",
+      "Belize",
+      "Benin",
+      "Botswana",
+      "Uganda",
+      "Mongolia",
+      "Oman",
+      "Macao",
+      "Antigua and Barbuda",
+      "Panama",
+      "Dominica",
+      "Fiji"
+    ]
+  },
+  "slug": "treatment-of-hazardous-waste",
+  "title": "Treatment of hazardous waste",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": 2020,
+  "version": 8,
+  "subtitle": "The amount of hazardous waste treated, by treatment type, measured in tonnes.",
+  "originUrl": "https://ourworldindata.org/plastic-pollution",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Recycling",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572764
+    },
+    {
+      "display": {
+        "name": "Other waste management",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572763
+    },
+    {
+      "display": {
+        "name": "Incineration",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572761
+    },
+    {
+      "display": {
+        "name": "Landfill",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572762
+    }
+  ],
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "selectedEntityNames": [
+    "Bahrain"
+  ]
+}

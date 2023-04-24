@@ -1,0 +1,47 @@
+{
+  "id": 5417,
+  "map": {
+    "variableId": 572892
+  },
+  "data": {
+    "availableEntities": [
+      "World"
+    ]
+  },
+  "slug": "nationally-determined-contributions",
+  "title": "Nationally determined contributions",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "maxTime": "latest",
+  "version": 8,
+  "subtitle": "Nationally determined contributions (NDCs) embody efforts by each country to reduce national emissions and adapt to the impacts of climate change. The Paris Agreement requires each of the 193 Parties to prepare, communicate and maintain NDCs outlining what they intend to achieve, NDCs must be updated every five years.",
+  "originUrl": "ourworldindata.org/sdg",
+  "dimensions": [
+    {
+      "display": {
+        "name": "First NDCs submitted",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572892
+    },
+    {
+      "display": {
+        "name": "Second NDCs submitted",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572893
+    }
+  ],
+  "isPublished": true,
+  "addCountryMode": "change-country",
+  "comparisonLines": [
+    {}
+  ],
+  "selectedEntityNames": [
+    "World"
+  ]
+}

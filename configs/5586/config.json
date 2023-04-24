@@ -1,0 +1,75 @@
+{
+  "id": 5586,
+  "map": {
+    "colorScale": {
+      "binningStrategy": "manual",
+      "customNumericColors": [
+        null
+      ],
+      "customNumericValues": [
+        20,
+        40,
+        60,
+        80,
+        100,
+        120
+      ]
+    },
+    "variableId": 572600,
+    "timeTolerance": 3
+  },
+  "tab": "map",
+  "data": {
+    "availableEntities": [
+      "France",
+      "Switzerland",
+      "Spain",
+      "Sweden",
+      "Poland",
+      "Australia",
+      "Belarus",
+      "Bosnia and Herzegovina",
+      "Portugal",
+      "Norway",
+      "Mexico",
+      "Greece",
+      "Georgia",
+      "Finland",
+      "Denmark",
+      "Colombia",
+      "Ecuador",
+      "Luxembourg"
+    ]
+  },
+  "slug": "expenditure-on-cultural-and-natural-heritage-per-capita",
+  "title": "Expenditure on cultural and natural heritage per capita",
+  "yAxis": {
+    "max": 0,
+    "min": 0
+  },
+  "minTime": 2017,
+  "version": 8,
+  "subtitle": "Total funding from government and private sources towards the preservation, protection and conservation of cultural and/or natural heritage, measured in constant 2017 USD per capita.",
+  "hasMapTab": true,
+  "originUrl": "ourworldindata.org/government-spending",
+  "dimensions": [
+    {
+      "display": {
+        "name": "Expenditure on cultural and natural heritage, per capita",
+        "unit": "constant 2017 USD per capita",
+        "includeInTable": true
+      },
+      "property": "y",
+      "variableId": 572600
+    }
+  ],
+  "isPublished": true,
+  "selectedEntityNames": [
+    "Finland",
+    "Mexico",
+    "Poland",
+    "Portugal",
+    "Spain",
+    "Sweden"
+  ]
+}
